@@ -1,0 +1,4 @@
+# mosaic-ci-container/.dockerignore
+work/
+.git/
+**/*.log

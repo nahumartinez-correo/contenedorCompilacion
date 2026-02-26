@@ -1,0 +1,24 @@
+# mosaic-ci-container/docker-compose.yml
+services:
+  mosaic-builder:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        # Ajustar UID/GID para que coincida con tu usuario local y evitar permisos raros en el volumen.
+        # En Linux suele ser 1000/1000; en Windows no aplica, pero no molesta.
+        UID: 1000
+        GID: 1000
+    image: mosaic-builder:dev
+    container_name: mosaic-builder
+    working_dir: /work
+    tty: true
+    stdin_open: true
+    volumes:
+      # Carpeta local donde vas a clonar el repo (persistente fuera del contenedor)
+      - ./work:/work
+      - ./scriptsIntegracion:/scriptsIntegracion:ro
+    environment:
+      # Si en tu GitLab interno usan certificados no estándar y pasás a HTTPS, podrías necesitar esto.
+      # GIT_SSL_NO_VERIFY: "true"
+      TZ: "America/Argentina/Buenos_Aires"

@@ -1,0 +1,14 @@
+# No versionar código descargado / artefactos de trabajo
+work/
+work/**
+
+# (Opcional) logs/temporales
+*.log
+*.tmp
+*.aux
+
+# (Opcional) archivos OS/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
