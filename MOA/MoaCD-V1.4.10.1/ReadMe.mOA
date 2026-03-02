@@ -1,0 +1,111 @@
+
+        Mosaic OA Runtime & Development Environment (RDE) Installation
+                             27-Aug-1997
+	    "Release 1, Version 4.10.1 (contains Patch Level 1)"
+                           85-35006-D10.1
+
+Note: This distribution incorporates all fixes to date and therefore
+supersedes and replaces all previous MOA 1.4 RDE distributions.
+
+
+The purpose of this installation is to prepare a machine to run,
+optionally, any or all of the following parts of the Mosaic OA product:
+
+  - the RunTime Executive (RT) and supporting files
+  - the Development Tools (IBAE & DataDictionary tools)
+  - the online documentation and Help files.
+
+
+Note that:
+
+ 1) There is nothing to do prior to installing this package (you don't
+    need to save anything, or rename anything!).  The latest updates and
+    fixes (i.e. "patches") to MOA 1.4.10 will be automatically installed 
+    during the final step of the installation process.
+
+ 2) The decisions you'll have to make are which components to include and
+    where to install the package.  The convention is to install in these 
+    two directories:
+   
+        C:\MOA 
+        C:\MOAPROJ
+
+ 3) Note also that this installation does not create a working 
+    DataDictionary, nor does it install CDS.  There are separate installs 
+    for the FAP, CDS, etc.
+
+ 4) (Windows NT only) If you are currently running either the AUXPRINT
+    or REMSERVER services, you will have better results if you simply
+    reinstall the services (vs: not reinstalling them).
+
+ 5) (Windows NT only) If you choose to install AUXPRINT support using WINCOM 
+    printers (the 540x series of printers) and you *have not* installed the 
+    printer drivers before running this install, you may get Event Log errors
+    during system boot.  The error will look like "The Auxprint service
+    terminated with the following error: The system cannot find the file
+    specified".  The problem is that the AUXIN port used by this version
+    of AUXPRINT has not been created (it gets created as part of the 540x
+    printer driver installation).  You may safely ignore this error.
+
+ 6) (Windows NT only) If you install AUXPRINT, the Windows NT Event Log 
+    message indicating that the service has been started is incorrectly 
+    categorized as an ERROR.  It should be categorized as INFORMATION instead.
+
+ 7) (Windows 95 only) If you are upgrading a system which has 
+    Mosaic OA version 1.3 installed, you may get a SYSTEM ERROR message
+    complaining about the file MSVCRT20.DLL being overwritten with an older
+    version of the file.  This is a known problem with the 1.3 install, and
+    is easily corrected by rebooting Windows 95 after the 1.4 install 
+    completes.  Windows 95 will then restore the correct version of the
+    DLL.
+
+===========================================================================
+PATCHES:  This is the "Patch 1" distribution of Mosaic OA 1.4, otherwise 
+known as R1V4.10.1.  This updated distribution primarily adds/replaces source
+and header files in the <MOADIR>\SRC directory which were either missing or
+found to require minor changes following the initial R1V4.10 release on
+7/31/97.
+===========================================================================
+
+
+===========================================================================
+SPECIAL NOTE #1:  <<For those wishing to run the old (1.3.x) applications >>>
+===========================================================================
+
+ A) There is a PATCH utility (a .BAT file) in the C:\MOA\PATCH directory.
+    The patch supplied in that directory is only intended to be installed
+    in situations where r1v3.X of the Foundation application is installed
+    with r1v4 of the runtime and development tools.  This will update
+    the Greeter DLL which is located in the \MOA\BIN directory.
+
+    The patch assumes that C:\MOA\BIN is the Moa directory and it will
+    copy GREET.DLL into that directory.  If this is not your setup
+    simply copy GREET.DLL from the PATCH subdirectory into your MOA\BIN
+    directory.
+
+ B) If installing R1V3 application with R1V4 RT & Tools, an error message 
+    similar to the following will be displayed saying:
+
+        "Cannot move SERVICES.INI to SERVICES.BAK"
+
+    If this situation occurs, it will be necessary to manually add the 
+    CDS port entry in etc services.  The services file is in 
+    $WINDIR\system32\drivers\etc for WinNT and in \$WINDIR for Win95.
+    $WINDIR is the windows root directory. The CDS entry looks similar 
+    to the following
+
+        CDS_demo01    55580/udp    //port # matches server side CDS port
+
+===========================================================================
+SPECIAL NOTE #2:  <<For those wishing to build CSRs with Visual C 5.0 >>>
+===========================================================================
+
+Mosaic OA R1V4 was built with Microsoft's Visual C 4.2 product, which as of
+this date has been replaced with Visual C 5.0.  If you wish to use 
+Visual C 5.0 (aka Visual C++ 5) you need to open the CSR project in
+Visual C 5.0, let it convert the project to C 5.0 format, and change the
+project settings to *not* use pre-compiled headers.  If you accomplish this
+correctly you will be able to build and compile custom C subroutines 
+successfully as is described in the online RUNTIME SYSTEM REFERENCE MANUAL
+(contained in this distribution) using the latest C compiler offered by
+Microsoft.

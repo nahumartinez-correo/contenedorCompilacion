@@ -12,3 +12,7 @@ work/**
 Thumbs.db
 .vscode/
 .idea/
+
+# VM Windows (disco/estado/ISO descargada)
+windows/
+windows/**

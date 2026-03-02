@@ -1,0 +1,15 @@
+REGEDIT
+
+* This file is used to register Microsoft Word Viewer 6.0.  It is required
+* to be either in the Windows directory or the WORDVIEW.EXE directory.
+* It should be in the WORDVIEW.EXE directory if Word is to be run off the
+* network.
+
+HKEY_CLASSES_ROOT\.DOC = Word.Document.6
+HKEY_CLASSES_ROOT\.DOT = Word.Document.6
+
+ENTRIES FOR Document SERVER
+
+HKEY_CLASSES_ROOT\Word.Document.6 = Microsoft Word 6.0 Document
+HKEY_CLASSES_ROOT\Word.Document.6\shell\open\command = wordview.exe %1
+

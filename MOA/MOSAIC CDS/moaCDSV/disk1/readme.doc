@@ -1,0 +1,1033 @@
+{\rtf1\ansi\ansicpg1252\uc1 \deff0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f6\fmodern\fcharset0\fprq1{\*\panose 00000000000000000000}Courier;}
+{\f14\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}{\f16\fswiss\fcharset0\fprq0{\*\panose 00000000000000000000}Avalon;}{\f67\froman\fcharset238\fprq2 Times New Roman CE;}{\f68\froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\f70\froman\fcharset161\fprq2 Times New Roman Greek;}{\f71\froman\fcharset162\fprq2 Times New Roman Tur;}{\f72\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f73\fswiss\fcharset238\fprq2 Arial CE;}{\f74\fswiss\fcharset204\fprq2 Arial Cyr;}
+{\f76\fswiss\fcharset161\fprq2 Arial Greek;}{\f77\fswiss\fcharset162\fprq2 Arial Tur;}{\f78\fswiss\fcharset186\fprq2 Arial Baltic;}{\f79\fmodern\fcharset238\fprq1 Courier New CE;}{\f80\fmodern\fcharset204\fprq1 Courier New Cyr;}
+{\f82\fmodern\fcharset161\fprq1 Courier New Greek;}{\f83\fmodern\fcharset162\fprq1 Courier New Tur;}{\f84\fmodern\fcharset186\fprq1 Courier New Baltic;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;
+\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;
+\red192\green192\blue192;}{\stylesheet{\sa120\widctlpar\adjustright \fs20\cgrid \snext0 Normal;}{\s1\sb240\sa60\keepn\widctlpar\adjustright \b\f1\fs28\kerning28\cgrid \sbasedon0 \snext0 heading 1;}{\s2\sb240\sa60\keepn\widctlpar\adjustright \b\i\f1\cgrid 
+\sbasedon0 \snext0 heading 2;}{\s3\sb240\sa60\keepn\widctlpar\adjustright \b\cgrid \sbasedon0 \snext0 heading 3;}{\s4\sb240\sa60\keepn\widctlpar\adjustright \b\i\cgrid \sbasedon0 \snext0 heading 4;}{\s5\sb240\sa60\widctlpar\adjustright \f1\fs22\cgrid 
+\sbasedon0 \snext0 heading 5;}{\s6\sb240\sa60\widctlpar\adjustright \i\f1\fs22\cgrid \sbasedon0 \snext0 heading 6;}{\s7\sb240\sa60\widctlpar\adjustright \f1\fs20\cgrid \sbasedon0 \snext0 heading 7;}{\*\cs10 \additive Default Paragraph Font;}{
+\s15\sa120\widctlpar\tqc\tx4320\tqr\tx8640\adjustright \fs20\cgrid \sbasedon0 \snext15 footer;}{\s16\widctlpar\adjustright \f6\fs20\cgrid \sbasedon0 \snext16 Old Fixed-font;}{\*\cs17 \additive \sbasedon10 page number;}{\s18\sb360\widctlpar
+\tqr\tx8640\adjustright \b\caps\f1\cgrid \sbasedon0 \snext0 \sautoupd toc 1;}{\s19\sb240\sa60\keepn\widctlpar\adjustright \b\i\cgrid \sbasedon4 \snext19 Style1;}{\s20\li200\sb240\widctlpar\tqr\tx8640\adjustright \b\fs20\cgrid \sbasedon0 \snext0 \sautoupd 
+toc 2;}{\s21\li400\widctlpar\tqr\tx8640\adjustright \fs20\cgrid \sbasedon0 \snext0 \sautoupd toc 3;}{\s22\li600\widctlpar\tqr\tx8640\adjustright \fs20\cgrid \sbasedon0 \snext0 \sautoupd toc 4;}{\s23\li800\widctlpar\tqr\tx8640\adjustright \fs20\cgrid 
+\sbasedon0 \snext0 \sautoupd toc 5;}{\s24\li1000\widctlpar\tqr\tx8640\adjustright \fs20\cgrid \sbasedon0 \snext0 \sautoupd toc 6;}{\s25\li1200\widctlpar\tqr\tx8640\adjustright \fs20\cgrid \sbasedon0 \snext0 \sautoupd toc 7;}{\s26\li1400\widctlpar
+\tqr\tx8640\adjustright \fs20\cgrid \sbasedon0 \snext0 \sautoupd toc 8;}{\s27\li1600\widctlpar\tqr\tx8640\adjustright \fs20\cgrid \sbasedon0 \snext0 \sautoupd toc 9;}{\s28\sa120\widctlpar\adjustright \fs20\cgrid \sbasedon0 \snext28 Body Text;}{
+\s29\qj\keep\keepn\widctlpar\adjustright \f2\fs18\cgrid \sbasedon0 \snext29 Computer Text;}{\s30\sa120\widctlpar\tqc\tx4320\tqr\tx8640\adjustright \fs20\cgrid \sbasedon0 \snext30 header;}{\s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 
+\adjustright \b\f1\cgrid \sbasedon3 \snext0 FixHeading;}{\s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl10\ls2047\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls2047\ilvl10\adjustright \f1\fs20\cgrid \sbasedon0 \snext32 NormalBullet;}}
+{\*\listtable{\list\listtemplateid-1\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat0\levelspace0\levelindent0{\leveltext\'01*;}{\levelnumbers;}}{\listname ;}\listid-2}{\list\listtemplateid67698689\listsimple{\listlevel\levelnfc23
+\leveljc0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li360\jclisttab\tx360 }{\listname ;}\listid122431385}{\list\listtemplateid859185432\listsimple{\listlevel\levelnfc0\leveljc0
+\levelfollow0\levelstartat1\levelold\levelspace0\levelindent360{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720 }{\listname ;}\listid984313520}{\list\listtemplateid67698703\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\'02\'00.;}{\levelnumbers\'01;}\fi-360\li360\jclisttab\tx360 }{\listname ;}\listid1216548440}{\list\listtemplateid1665196784\listsimple{\listlevel\levelnfc4\leveljc0\levelfollow0\levelstartat1\levelold\levelspace0
+\levelindent360{\leveltext\'02\'00);}{\levelnumbers\'01;}\fi-360\li1440 }{\listname ;}\listid1268852282}{\list\listtemplateid-1749252118\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelold\levelspace0\levelindent360{\leveltext
+\'02\'00);}{\levelnumbers\'01;}\fi-360\li1080 }{\listname ;}\listid1312909845}{\list\listtemplateid-1749252118\listsimple{\listlevel\levelnfc0\leveljc0\levelfollow0\levelstartat1\levelold\levelspace0\levelindent360{\leveltext\'02\'00);}{\levelnumbers
+\'01;}\fi-360\li720 }{\listname ;}\listid1933970824}}{\*\listoverridetable{\listoverride\listid-2\listoverridecount1{\lfolevel\listoverrideformat{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelold\levelspace0\levelindent360{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li1080 }}\ls1}{\listoverride\listid1933970824\listoverridecount0\ls2}{\listoverride\listid1268852282\listoverridecount0\ls3}{\listoverride\listid1312909845\listoverridecount0\ls4}
+{\listoverride\listid984313520\listoverridecount0\ls5}{\listoverride\listid-2\listoverridecount1{\lfolevel\listoverrideformat{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelold\levelspace0\levelindent360{\leveltext
+\'01\u-3844 ?;}{\levelnumbers;}\f14\cf10\fbias0 \fi-360\li360 }}\ls6}{\listoverride\listid122431385\listoverridecount0\ls7}{\listoverride\listid-2\listoverridecount1{\lfolevel\listoverrideformat{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1
+\levelold\levelspace0\levelindent360{\leveltext\'01\u-3844 ?;}{\levelnumbers;}\f14\cf10\fbias0 \fi-360\li360 }}\ls8}{\listoverride\listid-2\listoverridecount1{\lfolevel\listoverrideformat{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelold
+\levelspace0\levelindent360{\leveltext\'01\u-3844 ?;}{\levelnumbers;}\f14\cf10\fbias0 \fi-360\li360 }}\ls9}{\listoverride\listid-2\listoverridecount1{\lfolevel\listoverrideformat{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelold
+\levelspace0\levelindent360{\leveltext\'01\u-3844 ?;}{\levelnumbers;}\f14\cf10\fbias0 \fi-360\li360 }}\ls10}{\listoverride\listid-2\listoverridecount1{\lfolevel\listoverrideformat{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelold
+\levelspace0\levelindent360{\leveltext\'01\u-3844 ?;}{\levelnumbers;}\f14\cf10\fbias0 \fi-360\li360 }}\ls11}{\listoverride\listid-2\listoverridecount1{\lfolevel\listoverrideformat{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelold
+\levelspace0\levelindent360{\leveltext\'01\u-3844 ?;}{\levelnumbers;}\f14\cf10\fbias0 \fi-360\li360 }}\ls12}{\listoverride\listid-2\listoverridecount1{\lfolevel\listoverrideformat{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelold
+\levelspace0\levelindent360{\leveltext\'01\u-3844 ?;}{\levelnumbers;}\f14\cf10\fbias0 \fi-360\li360 }}\ls13}{\listoverride\listid-2\listoverridecount1{\lfolevel\listoverrideformat{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelold
+\levelspace0\levelindent360{\leveltext\'01\u-3844 ?;}{\levelnumbers;}\f14\cf10\fbias0 \fi-360\li360 }}\ls14}{\listoverride\listid-2\listoverridecount1{\lfolevel\listoverrideformat{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelold
+\levelspace0\levelindent360{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li1080 }}\ls15}{\listoverride\listid-2\listoverridecount1{\lfolevel\listoverrideformat{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelold\levelspace0
+\levelindent360{\leveltext\'01\u-3844 ?;}{\levelnumbers;}\f14\cf10\fbias0 \fi-360\li360 }}\ls16}{\listoverride\listid-2\listoverridecount1{\lfolevel\listoverrideformat{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelold\levelspace0
+\levelindent360{\leveltext\'01\u-3844 ?;}{\levelnumbers;}\f14\cf10\fbias0 \fi-360\li360 }}\ls17}{\listoverride\listid-2\listoverridecount1{\lfolevel\listoverrideformat{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelold\levelspace0
+\levelindent360{\leveltext\'01\u-3844 ?;}{\levelnumbers;}\f14\cf10\fbias0 \fi-360\li360 }}\ls18}{\listoverride\listid-2\listoverridecount1{\lfolevel\listoverrideformat{\listlevel\levelnfc23\leveljc0\levelfollow0\levelstartat1\levelold\levelspace0
+\levelindent360{\leveltext\'01\u-3844 ?;}{\levelnumbers;}\f14\cf10\fbias0 \fi-360\li360 }}\ls19}{\listoverride\listid1216548440\listoverridecount0\ls20}{\listoverride\listid-2\listoverridecount1{\lfolevel\listoverrideformat{\listlevel\levelnfc23\leveljc0
+\levelfollow0\levelstartat1\levelold\levelspace0\levelindent360{\leveltext\'01\u-3844 ?;}{\levelnumbers;}\f14\cf10\fbias0 \fi-360\li360 }}\ls21}{\listoverride\listid-2\listoverridecount1{\lfolevel\listoverrideformat{\listlevel\levelnfc23\leveljc0
+\levelfollow0\levelstartat1\levelold\levelspace0\levelindent360{\leveltext\'01\u-3844 ?;}{\levelnumbers;}\f14\cf10\fbias0 \fi-360\li360 }}\ls22}{\listoverride\listid-2\listoverridecount1{\lfolevel\listoverrideformat{\listlevel\levelnfc23\leveljc0
+\levelfollow0\levelstartat1\levelold\levelspace0\levelindent360{\leveltext\'01\u-3844 ?;}{\levelnumbers;}\f14\cf10\fbias0 \fi-360\li360 }}\ls23}{\listoverride\listid-2\listoverridecount1{\lfolevel\listoverrideformat{\listlevel\levelnfc23\leveljc0
+\levelfollow0\levelstartat1\levelold\levelspace0\levelindent360{\leveltext\'01\u-3844 ?;}{\levelnumbers;}\f14\cf10\fbias0 \fi-360\li360 }}\ls24}{\listoverride\listid-2\listoverridecount1{\lfolevel\listoverrideformat{\listlevel\levelnfc23\leveljc0
+\levelfollow0\levelstartat1\levelold\levelspace0\levelindent360{\leveltext\'01\u-3844 ?;}{\levelnumbers;}\f14\cf10\fbias0 \fi-360\li360 }}\ls25}{\listoverride\listid-2\listoverridecount1{\lfolevel\listoverrideformat{\listlevel\levelnfc23\leveljc0
+\levelfollow0\levelstartat1\levelold\levelspace0\levelindent360{\leveltext\'01\u-3844 ?;}{\levelnumbers;}\f14\cf10\fbias0 \fi-360\li360 }}\ls26}}{\info{\title                    +---------------------------------------------+}{\author Satyabodhi}
+{\operator Satyabodhi Densmore}{\creatim\yr1995\mo9\dy29\hr16\min27}{\revtim\yr1997\mo8\dy14\hr13\min23}{\printim\yr1997\mo8\dy13\hr14\min53}{\version184}{\edmins854}{\nofpages25}{\nofwords7089}{\nofchars-32766}{\*\company Olivetti North America}
+{\nofcharsws0}{\vern87}}\widowctrl\ftnbj\aenddoc\lytprtmet\hyphcaps0\formshade\viewkind4\viewscale100\pgbrdrhead\pgbrdrfoot \fet0\sectd \linex0\endnhere\titlepg\sectdefaultcl {\footer \pard\plain \s15\sa120\widctlpar
+\tqc\tx4320\tqr\tx8640\pvpara\phmrg\posxc\posy0\adjustright \fs20\cgrid {\field{\*\fldinst {\cs17 PAGE  }}{\fldrslt {\cs17\lang1024 13}}}{\cs17 
+\par }\pard \s15\sa120\widctlpar\tqc\tx4320\tqr\tx8640\adjustright {\field{\*\fldinst { DATE }}{\fldrslt {\lang1024 08/13/97}}}{
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang{\pntxta ?}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang{\pntxta ?}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta ?}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta ?}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang{\pntxtb ?}{\pntxta ?}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb ?}{\pntxta ?}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb ?}{\pntxta ?}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb ?}{\pntxta ?}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb ?}{\pntxta ?}}\pard\plain \s16\qc\widctlpar\box\brdrsh\brdrdb\brdrw30\brsp20 \adjustright \f6\fs20\cgrid {\b\f1\fs36 mosaic OA
+\par Central Data Server
+\par INSTALLATION NOTES
+\par 
+\par 85-35011-D02
+\par Release 1
+\par 
+\par (Version 4.10)
+\par August 14, 1997
+\par 
+\par }\pard\plain \sa120\widctlpar\adjustright \fs20\cgrid {
+\par }\pard\plain \s1\sb240\sa60\keepn\widctlpar\outlinelevel0\adjustright \b\f1\fs28\kerning28\cgrid {\page }{\f0\fs32\kerning0  }{\field\fldedit{\*\fldinst {\f0\fs32\kerning0  TOC \\o "1-3" }}{\fldrslt {\lang1024 
+\par }\pard\plain \s18\sb360\widctlpar\tqr\tx8640\adjustright \b\caps\f1\cgrid {\lang1024 MOSAIC OA OVERVIEW\tab }{\field{\*\fldinst {\lang1024  PAGEREF _Toc389469599 \\h }{\fs20\lang1024 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300330038003900340036003900350039003900000000}}}{\fldrslt {\lang1024 3}}}{\lang1024 
+\par }\pard\plain \s20\li200\sb240\widctlpar\tqr\tx8640\adjustright \b\fs20\cgrid {\lang1024 Compatability\tab }{\field{\*\fldinst {\lang1024  PAGEREF _Toc389469600 \\h }{\lang1024 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300330038003900340036003900360030003000000000}}}{\fldrslt {\lang1024 3}}}{\lang1024 
+\par }\pard\plain \s18\sb360\widctlpar\tqr\tx8640\adjustright \b\caps\f1\cgrid {\lang1024 WHAT\rquote S NEW IN THIS CHECKPOINT\tab }{\field{\*\fldinst {\lang1024  PAGEREF _Toc389469601 \\h }{\fs20\lang1024 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300330038003900340036003900360030003100000000}}}{\fldrslt {\lang1024 3}}}{\lang1024 
+\par WHAT\rquote S NEW IN THIS RELEASE\tab }{\field{\*\fldinst {\lang1024  PAGEREF _Toc389469602 \\h }{\fs20\lang1024 {\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300330038003900340036003900360030003200000000}}
+}{\fldrslt {\lang1024 4}}}{\lang1024 
+\par }{\b0\lang1024 WHAT\rquote S NOT IN THIS RELEASE}{\lang1024 \tab }{\field{\*\fldinst {\lang1024  PAGEREF _Toc389469603 \\h }{\fs20\lang1024 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300330038003900340036003900360030003300000000}}}{\fldrslt {\lang1024 4}}}{\lang1024 
+\par SUMMARY OF DIFFERENCES BETWEEN }{\f16\lang1024 moa CDS}{\lang1024   V3 and V4\tab }{\field{\*\fldinst {\lang1024  PAGEREF _Toc389469604 \\h }{\fs20\lang1024 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300330038003900340036003900360030003400000000}}}{\fldrslt {\lang1024 4}}}{\lang1024 
+\par RELEVANT MANUALS\tab }{\field{\*\fldinst {\lang1024  PAGEREF _Toc389469605 \\h }{\fs20\lang1024 {\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300330038003900340036003900360030003500000000}}}{\fldrslt {\lang1024 5}}}{
+\lang1024 
+\par PREREQUISITES FOR }{\f16\lang1024 mosaic OA}{\lang1024  INSTALLATION\tab }{\field{\*\fldinst {\lang1024  PAGEREF _Toc389469606 \\h }{\fs20\lang1024 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300330038003900340036003900360030003600000000}}}{\fldrslt {\lang1024 5}}}{\lang1024 
+\par }\pard\plain \s20\li200\sb240\widctlpar\tqr\tx8640\adjustright \b\fs20\cgrid {\lang1024 HARDWARE\tab }{\field{\*\fldinst {\lang1024  PAGEREF _Toc389469607 \\h }{\lang1024 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300330038003900340036003900360030003700000000}}}{\fldrslt {\lang1024 5}}}{\lang1024 
+\par SOFTWARE Prerequisites\tab }{\field{\*\fldinst {\lang1024  PAGEREF _Toc389469608 \\h }{\lang1024 {\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300330038003900340036003900360030003800000000}}}{\fldrslt {\lang1024 5}}}
+{\lang1024 
+\par mosaic OA CDS INSTALLATION\tab }{\field{\*\fldinst {\lang1024  PAGEREF _Toc389469609 \\h }{\lang1024 {\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300330038003900340036003900360030003900000000}}}{\fldrslt {\lang1024 
+6}}}{\lang1024 
+\par mosaic OA CDS DEINSTALLATION\tab }{\field{\*\fldinst {\lang1024  PAGEREF _Toc389469610 \\h }{\lang1024 {\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300330038003900340036003900360031003000000000}}}{\fldrslt {
+\lang1024 8}}}{\lang1024 
+\par }\pard\plain \s18\sb360\widctlpar\tqr\tx8640\adjustright \b\caps\f1\cgrid {\lang1024 MISCELLANEOUS SETUP NOTES\tab }{\field{\*\fldinst {\lang1024  PAGEREF _Toc389469611 \\h }{\fs20\lang1024 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300330038003900340036003900360031003100000000}}}{\fldrslt {\lang1024 9}}}{\lang1024 
+\par }\pard\plain \s20\li200\sb240\widctlpar\tqr\tx8640\adjustright \b\fs20\cgrid {\lang1024 New Fields Required in Dictionary\tab }{\field{\*\fldinst {\lang1024  PAGEREF _Toc389469612 \\h }{\lang1024 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300330038003900340036003900360031003200000000}}}{\fldrslt {\lang1024 9}}}{\lang1024 
+\par FILE LOCATION\tab }{\field{\*\fldinst {\lang1024  PAGEREF _Toc389469613 \\h }{\lang1024 {\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300330038003900340036003900360031003300000000}}}{\fldrslt {\lang1024 10}}}{
+\lang1024 
+\par INITIALIZATION FILES\tab }{\field{\*\fldinst {\lang1024  PAGEREF _Toc389469614 \\h }{\lang1024 {\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300330038003900340036003900360031003400000000}}}{\fldrslt {\lang1024 10}}}{
+\lang1024 
+\par }\pard\plain \s21\li400\widctlpar\tqr\tx8640\adjustright \fs20\cgrid {\lang1024 The Dictionary \ldblquote .INI\rdblquote  File\tab }{\field{\*\fldinst {\lang1024  PAGEREF _Toc389469615 \\h }{\lang1024 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300330038003900340036003900360031003500000000}}}{\fldrslt {\lang1024 10}}}{\lang1024 
+\par }\pard\plain \s20\li200\sb240\widctlpar\tqr\tx8640\adjustright \b\fs20\cgrid {\lang1024 SYSTEM BACKUP\tab }{\field{\*\fldinst {\lang1024  PAGEREF _Toc389469616 \\h }{\lang1024 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300330038003900340036003900360031003600000000}}}{\fldrslt {\lang1024 11}}}{\lang1024 
+\par Emergency Workstation Server Setup\tab }{\field{\*\fldinst {\lang1024  PAGEREF _Toc389469617 \\h }{\lang1024 {\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300330038003900340036003900360031003700000000}}}{\fldrslt {
+\lang1024 11}}}{\lang1024 
+\par }\pard\plain \s18\sb360\widctlpar\tqr\tx8640\adjustright \b\caps\f1\cgrid {\lang1024 OUTSTANDING PROBLEMS\tab }{\field{\*\fldinst {\lang1024  PAGEREF _Toc389469618 \\h }{\fs20\lang1024 {\*\datafield 
+08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300330038003900340036003900360031003800000000}}}{\fldrslt {\lang1024 12}}}{\lang1024 
+\par CHANGE LOG\tab }{\field{\*\fldinst {\lang1024  PAGEREF _Toc389469619 \\h }{\fs20\lang1024 {\*\datafield 08d0c9ea79f9bace118c8200aa004ba90b02000000080000000e0000005f0054006f006300330038003900340036003900360031003900000000}}}{\fldrslt {\lang1024 13}}}{
+\lang1024 
+\par }\pard\plain \s1\sb240\sa60\keepn\widctlpar\outlinelevel0\adjustright \b\f1\fs28\kerning28\cgrid }}\pard\plain \s1\sb240\sa60\keepn\widctlpar\outlinelevel0\adjustright \b\f1\fs28\kerning28\cgrid { \page {\*\bkmkstart _Toc283125073}
+{\*\bkmkstart _Toc283125329}{\*\bkmkstart _Toc283126701}{\*\bkmkstart _Toc283126908}{\*\bkmkstart _Toc283174843}{\*\bkmkstart _Toc283174994}{\*\bkmkstart _Toc283188960}{\*\bkmkstart _Toc283195779}{\*\bkmkstart _Toc283457597}{\*\bkmkstart _Toc285416613}
+{\*\bkmkstart _Toc285584466}{\*\bkmkstart _Toc285617862}{\*\bkmkstart _Toc285617938}{\*\bkmkstart _Toc285618014}{\*\bkmkstart _Toc285618195}{\*\bkmkstart _Toc285618355}{\*\bkmkstart _Toc285618447}{\*\bkmkstart _Toc287853876}{\*\bkmkstart _Toc290957014}
+{\*\bkmkstart _Toc291299096}{\*\bkmkstart _Toc293214575}{\*\bkmkstart _Toc293214693}{\*\bkmkstart _Toc293214804}{\*\bkmkstart _Toc293214863}{\*\bkmkstart _Toc296496372}{\*\bkmkstart _Toc298310813}{\*\bkmkstart _Toc299808834}{\*\bkmkstart _Toc301321796}
+{\*\bkmkstart _Toc301770782}{\*\bkmkstart _Toc301771272}{\*\bkmkstart _Toc302440467}{\*\bkmkstart _Toc303665089}{\*\bkmkstart _Toc304335347}{\*\bkmkstart _Toc305210082}{\*\bkmkstart _Toc305312339}{\*\bkmkstart _Toc305312482}{\*\bkmkstart _Toc305312566}
+{\*\bkmkstart _Toc305313029}{\*\bkmkstart _Toc305313129}{\*\bkmkstart _Toc305481898}{\*\bkmkstart _Toc305894911}{\*\bkmkstart _Toc316106365}{\*\bkmkstart _Toc316106687}{\*\bkmkstart _Toc316107072}{\*\bkmkstart _Toc316176554}{\*\bkmkstart _Toc316261373}
+{\*\bkmkstart _Toc316356059}{\*\bkmkstart _Toc316357287}{\*\bkmkstart _Toc318177041}{\*\bkmkstart _Toc318178518}{\*\bkmkstart _Toc337025909}{\*\bkmkstart _Toc337026024}{\*\bkmkstart _Toc359293545}{\*\bkmkstart _Toc389469599}MOSAIC OA OVERVIEW
+{\*\bkmkend _Toc283125073}{\*\bkmkend _Toc283125329}{\*\bkmkend _Toc283126701}{\*\bkmkend _Toc283126908}{\*\bkmkend _Toc283174843}{\*\bkmkend _Toc283174994}{\*\bkmkend _Toc283188960}{\*\bkmkend _Toc283195779}{\*\bkmkend _Toc283457597}
+{\*\bkmkend _Toc285416613}{\*\bkmkend _Toc285584466}{\*\bkmkend _Toc285617862}{\*\bkmkend _Toc285617938}{\*\bkmkend _Toc285618014}{\*\bkmkend _Toc285618195}{\*\bkmkend _Toc285618355}{\*\bkmkend _Toc285618447}{\*\bkmkend _Toc287853876}
+{\*\bkmkend _Toc290957014}{\*\bkmkend _Toc291299096}{\*\bkmkend _Toc293214575}{\*\bkmkend _Toc293214693}{\*\bkmkend _Toc293214804}{\*\bkmkend _Toc293214863}{\*\bkmkend _Toc296496372}{\*\bkmkend _Toc298310813}{\*\bkmkend _Toc299808834}
+{\*\bkmkend _Toc301321796}{\*\bkmkend _Toc301770782}{\*\bkmkend _Toc301771272}{\*\bkmkend _Toc302440467}{\*\bkmkend _Toc303665089}{\*\bkmkend _Toc304335347}{\*\bkmkend _Toc305210082}{\*\bkmkend _Toc305312339}{\*\bkmkend _Toc305312482}
+{\*\bkmkend _Toc305312566}{\*\bkmkend _Toc305313029}{\*\bkmkend _Toc305313129}{\*\bkmkend _Toc305481898}{\*\bkmkend _Toc305894911}{\*\bkmkend _Toc316106365}{\*\bkmkend _Toc316106687}{\*\bkmkend _Toc316107072}{\*\bkmkend _Toc316176554}
+{\*\bkmkend _Toc316261373}{\*\bkmkend _Toc316356059}{\*\bkmkend _Toc316357287}{\*\bkmkend _Toc318177041}{\*\bkmkend _Toc318178518}{\*\bkmkend _Toc337025909}{\*\bkmkend _Toc337026024}{\*\bkmkend _Toc359293545}{\*\bkmkend _Toc389469599}
+\par }\pard\plain \qj\widctlpar\adjustright \fs20\cgrid {\b\f16 mosaic OA}{\b  }{  (MOA) is for use with the Microsoft Windows NT or Windows 95 operating system.  The CDS client software can run happily on Windows 95.   The server software }{\i can}{
+ also run on Windows 95 but we recommend that you run it only on Windows NT.  This package contains the Central Data Server software.  It may be used in conjunction with a separately-released workstation software piece known as \ldblquote 
+Mosaic OA Development and Runtime\rdblquote .  It may also be used with separately released workstation software product know as \ldblquote Mosaic OA CDS ODBC Driver\rdblquote .
+\par 
+\par }\pard\plain \s2\sb240\sa60\keepn\widctlpar\outlinelevel1\adjustright \b\i\f1\cgrid {{\*\bkmkstart _Toc389469600}Compatability{\*\bkmkend _Toc389469600}
+\par }\pard\plain \qj\widctlpar\adjustright \fs20\cgrid {\b\f16 mosaic OA  }{provides a migration path from Pinnacle Plus Release 4/5.  The CDS table data is compatible with Release 1.1 and 1.2.  No data conversion is required to upgrade from }{\b\f16 
+mosaic OA}{\b  }{Release 1.1 to }{\b\f16 mosaic OA}{\b  }{Release 1.4, simply import your table data after exporting with Release 1.  Or, verify that the field tables are the same and remove the ddtime file(s).  }{\b There is }{\b\i no conversion}{\b 
+ for moving from Release 1.3 to 1.4.}{   Simply install the new software and access the old data without any data changes!   This server package may be used with MOA runtime package version 1.3.7 or later.
+\par }\pard\plain \s1\sb240\sa60\keepn\widctlpar\outlinelevel0\adjustright \b\f1\fs28\kerning28\cgrid {{\*\bkmkstart _Toc389469601}{\*\bkmkstart _Toc316106367}{\*\bkmkstart _Toc316106689}{\*\bkmkstart _Toc316107074}{\*\bkmkstart _Toc316176556}
+{\*\bkmkstart _Toc316261375}{\*\bkmkstart _Toc316356061}{\*\bkmkstart _Toc316357289}{\*\bkmkstart _Toc318177043}{\*\bkmkstart _Toc318178519}{\*\bkmkstart _Toc337025910}{\*\bkmkstart _Toc337026025}{\*\bkmkstart _Toc359293546}WHAT\rquote 
+S NEW IN THIS CHECKPOINT{\*\bkmkend _Toc389469601}
+\par }\pard\plain \sa120\widctlpar\adjustright \fs20\cgrid {\b 1.4.10
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls25\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls25\adjustright \f1\fs20\cgrid {
+Added the ability to do CDS log recovery to a select set of tables rather than the entire database.  This is accomplished by listing the tables to recover in the 'apply log' file.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Corrected bugs in the system-failure recovery logic.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}The setup data is no longer split into diskette size pieces.  It must be run from a CD-ROM or hard disk. 
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Patches are now easily added to the distribution via a patch.bat in directory disk1.
+\par }\pard\plain \sa120\widctlpar\adjustright \fs20\cgrid {\b 
+\par 1.4.9\tab 
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls16\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls16\adjustright \f1\fs20\cgrid {
+The setup script was changed to not install msvcrt40.dll, which was causing problems on Win95 systems.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}The setup s
+cript was changed to accommodate the option of not installing the dictionary tools which are also available in the rt package.   If you use the rt package, it is better to install the dictionary tools from that package only.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}The setup script was changed to accommodate the option of installing only the client side utility programs, like cdsstat.exe and not the server programs like cdsv.exe. 
+
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}The server configuration program, svrcfg.exe, was improved to hide advanced options unless requested by the user.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Bug Fixes.
+\par }\pard \s32\widctlpar\adjustright {
+\par }\pard\plain \sa120\widctlpar\adjustright \fs20\cgrid {\b 1.4.8\tab }{This checkpoint was skipped. 
+\par }{\b 1.4.7
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\sa120\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls7\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls7\adjustright {
+Two-phase-commit functions as it should.   In previous versions, two-phase commit worked only on Unix servers.
+\par {\pntext\pard\plain\s32 \f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard\plain \s32\fi-360\li360\sa120\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls7\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls7\adjustright \f1\fs20\cgrid {
+\f0 Cdinstsv.exe has a new option to list the installed servers in one line per server.  This list includes UDP port numbers.
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard\plain \fi-360\li360\sa120\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls7\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls7\adjustright \fs20\cgrid {
+ALTER TABLE supports adding or dropping column definitions.  This can be used to enable third party reporting tools like Crystal Reports and MS Access to read variable schema CDS tables.
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\sa120\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls7\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls7\adjustright {
+Batch insert is used by the ODBC interface and by QL when copying table records.
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\sa120\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls7\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls7\adjustright {
+Svrcfg, the cdserver configuration program invoked by the install process will warn you of attempts to use a single UDP port number for more than one server on NT.
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li360\sa120\widctlpar\jclisttab\tx360{\*\pn \pnlvlblt\ilvl0\ls7\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls7\adjustright {
+WordView is not installed with this package.  The WordView package is include on the CD-ROM with this CDS package and you may install it if you need it to read the CDS documentation.   You may use Micro
+soft Word instead.  If you are on Windows 95 or Windows NT 4.0 or later, you can use WordPad, which come with the O/S.
+\par }\pard\plain \s1\sb240\sa60\keepn\widctlpar\outlinelevel0\adjustright \b\f1\fs28\kerning28\cgrid {{\*\bkmkstart _Toc389469602}WHAT\rquote S NEW IN THIS RELEASE{\*\bkmkend _Toc316106367}{\*\bkmkend _Toc316106689}{\*\bkmkend _Toc316107074}
+{\*\bkmkend _Toc316176556}{\*\bkmkend _Toc316261375}{\*\bkmkend _Toc316356061}{\*\bkmkend _Toc316357289}{\*\bkmkend _Toc318177043}{\*\bkmkend _Toc318178519}{\*\bkmkend _Toc337025910}{\*\bkmkend _Toc337026025}{\*\bkmkend _Toc359293546}
+{\*\bkmkend _Toc389469602}
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard\plain \fi-360\li1080\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright \fs20\cgrid {
+Server side functionality necessary to support ODBC clients. 
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li1080\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {
+CDS utility programs all use a new DLL, cdscl.dll so the disk footprint of the package is smaller than in previous versions.
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li1080\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {
+Installation via InstallShield 3, provides an uninstaller, which works only on Windows95 and Windows NT 4.0, not on Windows NT 3.51.
+\par }\pard\plain \s1\sb240\sa60\keepn\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\outlinelevel0\adjustright \b\f1\fs28\kerning28\cgrid {\b0 {\*\bkmkstart _Toc283125075}{\*\bkmkstart _Toc283125331}{\*\bkmkstart _Toc283126703}
+{\*\bkmkstart _Toc283126910}{\*\bkmkstart _Toc283174845}{\*\bkmkstart _Toc283174996}{\*\bkmkstart _Toc283188962}{\*\bkmkstart _Toc283195781}{\*\bkmkstart _Toc283457599}{\*\bkmkstart _Toc285416615}{\*\bkmkstart _Toc285584468}{\*\bkmkstart _Toc285617864}
+{\*\bkmkstart _Toc285617940}{\*\bkmkstart _Toc285618016}{\*\bkmkstart _Toc285618197}{\*\bkmkstart _Toc285618357}{\*\bkmkstart _Toc285618449}{\*\bkmkstart _Toc287853878}{\*\bkmkstart _Toc290957016}{\*\bkmkstart _Toc291299098}{\*\bkmkstart _Toc293214577}
+{\*\bkmkstart _Toc293214695}{\*\bkmkstart _Toc293214806}{\*\bkmkstart _Toc293214865}{\*\bkmkstart _Toc296496374}{\*\bkmkstart _Toc298310815}{\*\bkmkstart _Toc299808836}{\*\bkmkstart _Toc301321798}{\*\bkmkstart _Toc301770784}{\*\bkmkstart _Toc301771274}
+{\*\bkmkstart _Toc302440469}{\*\bkmkstart _Toc303665091}{\*\bkmkstart _Toc304335349}{\*\bkmkstart _Toc305210084}{\*\bkmkstart _Toc305312341}{\*\bkmkstart _Toc305312484}{\*\bkmkstart _Toc305312568}{\*\bkmkstart _Toc305313031}{\*\bkmkstart _Toc305313131}
+{\*\bkmkstart _Toc305481900}{\*\bkmkstart _Toc305894913}{\*\bkmkstart _Toc316106368}{\*\bkmkstart _Toc316106690}{\*\bkmkstart _Toc316107075}{\*\bkmkstart _Toc316176557}{\*\bkmkstart _Toc316261376}{\*\bkmkstart _Toc316356062}{\*\bkmkstart _Toc316357290}
+{\*\bkmkstart _Toc318177044}{\*\bkmkstart _Toc318178520}{\*\bkmkstart _Toc337025911}{\*\bkmkstart _Toc337026026}{\*\bkmkstart _Toc359293547}{\*\bkmkstart _Toc389469603}WHAT\rquote S NOT IN THIS RELEASE{\*\bkmkend _Toc283125075}{\*\bkmkend _Toc283125331}
+{\*\bkmkend _Toc283126703}{\*\bkmkend _Toc283126910}{\*\bkmkend _Toc283174845}{\*\bkmkend _Toc283174996}{\*\bkmkend _Toc283188962}{\*\bkmkend _Toc283195781}{\*\bkmkend _Toc283457599}{\*\bkmkend _Toc285416615}{\*\bkmkend _Toc285584468}
+{\*\bkmkend _Toc285617864}{\*\bkmkend _Toc285617940}{\*\bkmkend _Toc285618016}{\*\bkmkend _Toc285618197}{\*\bkmkend _Toc285618357}{\*\bkmkend _Toc285618449}{\*\bkmkend _Toc287853878}{\*\bkmkend _Toc290957016}{\*\bkmkend _Toc291299098}
+{\*\bkmkend _Toc293214577}{\*\bkmkend _Toc293214695}{\*\bkmkend _Toc293214806}{\*\bkmkend _Toc293214865}{\*\bkmkend _Toc296496374}{\*\bkmkend _Toc298310815}{\*\bkmkend _Toc299808836}{\*\bkmkend _Toc301321798}{\*\bkmkend _Toc301770784}
+{\*\bkmkend _Toc301771274}{\*\bkmkend _Toc302440469}{\*\bkmkend _Toc303665091}{\*\bkmkend _Toc304335349}{\*\bkmkend _Toc305210084}{\*\bkmkend _Toc305312341}{\*\bkmkend _Toc305312484}{\*\bkmkend _Toc305312568}{\*\bkmkend _Toc305313031}
+{\*\bkmkend _Toc305313131}{\*\bkmkend _Toc305481900}{\*\bkmkend _Toc305894913}{\*\bkmkend _Toc316106368}{\*\bkmkend _Toc316106690}{\*\bkmkend _Toc316107075}{\*\bkmkend _Toc316176557}{\*\bkmkend _Toc316261376}{\*\bkmkend _Toc316356062}
+{\*\bkmkend _Toc316357290}{\*\bkmkend _Toc318177044}{\*\bkmkend _Toc318178520}{\*\bkmkend _Toc337025911}{\*\bkmkend _Toc337026026}{\*\bkmkend _Toc359293547}{\*\bkmkend _Toc389469603}
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard\plain \fi-360\li1080\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright \fs20\cgrid {\b CDSERVER}{
+ resilience on Windows NT.   Resilience is still only available with UNIX servers.
+\par }\pard\plain \s1\sb240\sa60\keepn\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\outlinelevel0\adjustright \b\f1\fs28\kerning28\cgrid {{\*\bkmkstart _Toc285584469}{\*\bkmkstart _Toc285617865}{\*\bkmkstart _Toc285617941}{\*\bkmkstart _Toc285618017}
+{\*\bkmkstart _Toc285618198}{\*\bkmkstart _Toc285618358}{\*\bkmkstart _Toc285618450}{\*\bkmkstart _Toc287853879}{\*\bkmkstart _Toc290957017}{\*\bkmkstart _Toc291299099}{\*\bkmkstart _Toc293214578}{\*\bkmkstart _Toc293214696}{\*\bkmkstart _Toc293214807}
+{\*\bkmkstart _Toc293214866}{\*\bkmkstart _Toc296496375}{\*\bkmkstart _Toc359293548}{\*\bkmkstart _Toc389469604}{\*\bkmkstart _Toc298310816}{\*\bkmkstart _Toc299808837}{\*\bkmkstart _Toc301321799}{\*\bkmkstart _Toc301770785}{\*\bkmkstart _Toc301771275}
+{\*\bkmkstart _Toc302440470}{\*\bkmkstart _Toc303665092}{\*\bkmkstart _Toc304335350}{\*\bkmkstart _Toc305210085}{\*\bkmkstart _Toc305312342}{\*\bkmkstart _Toc305312485}{\*\bkmkstart _Toc305312569}{\*\bkmkstart _Toc305313032}{\*\bkmkstart _Toc305313132}
+{\*\bkmkstart _Toc305481901}{\*\bkmkstart _Toc305894914}{\*\bkmkstart _Toc316106369}{\*\bkmkstart _Toc316106691}{\*\bkmkstart _Toc316107076}{\*\bkmkstart _Toc316176558}{\*\bkmkstart _Toc316261377}{\*\bkmkstart _Toc316356063}{\*\bkmkstart _Toc316357291}
+{\*\bkmkstart _Toc318177045}{\*\bkmkstart _Toc318178521}{\*\bkmkstart _Toc337025912}{\*\bkmkstart _Toc337026027}SUMMARY OF DIFFERENCES BETWEEN }{\f16 {\*\bkmkend _Toc285584469}{\*\bkmkend _Toc285617865}{\*\bkmkend _Toc285617941}{\*\bkmkend _Toc285618017}
+{\*\bkmkend _Toc285618198}{\*\bkmkend _Toc285618358}{\*\bkmkend _Toc285618450}{\*\bkmkend _Toc287853879}{\*\bkmkend _Toc290957017}{\*\bkmkend _Toc291299099}{\*\bkmkend _Toc293214578}{\*\bkmkend _Toc293214696}{\*\bkmkend _Toc293214807}
+{\*\bkmkend _Toc293214866}{\*\bkmkend _Toc296496375}moa CDS}{  V3 and V4{\*\bkmkend _Toc359293548}{\*\bkmkend _Toc389469604}
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard\plain \fi-360\li1080\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright \fs20\cgrid {A new catalog table, \lquote fields
+\rquote  for supporting ODBC catalog functions like SQLColumns().
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li1080\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {
+New required fields in the data dictionary to support the fields table.  These are listed in $MOAPROJ\\min\\newflds.
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li1080\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {New selection criteria comparators:  is_}{\b 
+not_null; is null}{; [SQL] }{\b like }{pattern match; and }{\b not_like}{ pattern match.  These are available through QL.exe and CDS OFB verbs.  They are available with a slightly different syntax via ODBC.
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li1080\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {Some more support for fixed-schema tables.
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li1800\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {Fixed-schema tables are defined with a column list.
+
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li1800\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {Columns may be defined as \lquote }{\i required
+\rquote }{ or \lquote null OK\rquote .   The default is \lquote }{\i required\rquote }{.
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li1800\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {
+On insert and update on fixed-schema tables the server verifies that required fields are present and fields not defined as columns for the table are not present.
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li1800\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {Fixed-sc
+hema tables may be defined only through the ODBC interface, not via QL.
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li1080\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {
+Common CDSCL.DLL for all clients other than rt.  This makes the disk footprint much smaller.
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li1080\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {
+Enhanced query optimizer to recognize comparisons to empty string values for fields in indexes.  Always read the minimum or zero index and base records.
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li1080\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {
+Enhanced query optimizer to recognize IS_MISSING criteria for fields in indexes.
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li1080\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {Added more explanation of the optimizer\rquote 
+s index choices when the -E option is used
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li1080\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {
+Added printing of number of index and base records read when the Explanation level option is relevant and set non-zero.
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li1080\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {
+Increased the maximum number of variables in a criteria expression from 100 to 255.
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li1080\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {
+Optional ANSI SQL cursor fetch behavior, instead of historical CDS fetch behavior.   The ANSI behavior is the default for applications using ODBC.  Programs using the old proprietary interface default to the historical behavior.
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li1080\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {
+Optional ANSI SQL NULL value behavior on fetches with a projection list.  Old default behavior is to return zero for numerics and empty string for ASCII fields that are missing.  The default for programs using the ODBC interface is the ANSI behavior.
+
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li1080\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {LIST option in command line for cdinstsv.exe.
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li1080\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {Two phase commit is now functional on NT.
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li1080\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {
+Batch insert is used by the ODBC driver for all inserts.
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li1080\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {
+QL uses batch insert when inserting records from a select context.
+\par }\pard \widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright {
+\par }\pard\plain \s1\sb240\sa60\keep\keepn\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\outlinelevel0\adjustright \b\f1\fs28\kerning28\cgrid {{\*\bkmkstart _Toc283125076}{\*\bkmkstart _Toc283125332}{\*\bkmkstart _Toc283126704}
+{\*\bkmkstart _Toc283126911}{\*\bkmkstart _Toc283174846}{\*\bkmkstart _Toc283174997}{\*\bkmkstart _Toc283188963}{\*\bkmkstart _Toc283195782}{\*\bkmkstart _Toc283457600}{\*\bkmkstart _Toc285416616}{\*\bkmkstart _Toc285584470}{\*\bkmkstart _Toc285617866}
+{\*\bkmkstart _Toc285617942}{\*\bkmkstart _Toc285618018}{\*\bkmkstart _Toc285618201}{\*\bkmkstart _Toc285618361}{\*\bkmkstart _Toc285618453}{\*\bkmkstart _Toc287853882}{\*\bkmkstart _Toc290957020}{\*\bkmkstart _Toc291299102}{\*\bkmkstart _Toc293214590}
+{\*\bkmkstart _Toc293214708}{\*\bkmkstart _Toc293214808}{\*\bkmkstart _Toc293214867}{\*\bkmkstart _Toc296496376}{\*\bkmkstart _Toc298310817}{\*\bkmkstart _Toc299808838}{\*\bkmkstart _Toc301321802}{\*\bkmkstart _Toc301770788}{\*\bkmkstart _Toc301771278}
+{\*\bkmkstart _Toc302440473}{\*\bkmkstart _Toc303665095}{\*\bkmkstart _Toc304335353}{\*\bkmkstart _Toc305210088}{\*\bkmkstart _Toc305312345}{\*\bkmkstart _Toc305312488}{\*\bkmkstart _Toc305312572}{\*\bkmkstart _Toc305313035}{\*\bkmkstart _Toc305313135}
+{\*\bkmkstart _Toc305481904}{\*\bkmkstart _Toc305894917}{\*\bkmkstart _Toc316106372}{\*\bkmkstart _Toc316106694}{\*\bkmkstart _Toc316107079}{\*\bkmkstart _Toc316176561}{\*\bkmkstart _Toc316261380}{\*\bkmkstart _Toc316356066}{\*\bkmkstart _Toc316357294}
+{\*\bkmkstart _Toc318177046}{\*\bkmkstart _Toc318178522}{\*\bkmkstart _Toc337025913}{\*\bkmkstart _Toc337026028}{\*\bkmkstart _Toc359293549}{\*\bkmkstart _Toc389469605}{\*\bkmkend _Toc298310816}{\*\bkmkend _Toc299808837}{\*\bkmkend _Toc301321799}
+{\*\bkmkend _Toc301770785}{\*\bkmkend _Toc301771275}{\*\bkmkend _Toc302440470}{\*\bkmkend _Toc303665092}{\*\bkmkend _Toc304335350}{\*\bkmkend _Toc305210085}{\*\bkmkend _Toc305312342}{\*\bkmkend _Toc305312485}{\*\bkmkend _Toc305312569}
+{\*\bkmkend _Toc305313032}{\*\bkmkend _Toc305313132}{\*\bkmkend _Toc305481901}{\*\bkmkend _Toc305894914}{\*\bkmkend _Toc316106369}{\*\bkmkend _Toc316106691}{\*\bkmkend _Toc316107076}{\*\bkmkend _Toc316176558}{\*\bkmkend _Toc316261377}
+{\*\bkmkend _Toc316356063}{\*\bkmkend _Toc316357291}{\*\bkmkend _Toc318177045}{\*\bkmkend _Toc318178521}{\*\bkmkend _Toc337025912}{\*\bkmkend _Toc337026027}RELEVANT MANUALS{\*\bkmkend _Toc283125076}{\*\bkmkend _Toc283125332}{\*\bkmkend _Toc283126704}
+{\*\bkmkend _Toc283126911}{\*\bkmkend _Toc283174846}{\*\bkmkend _Toc283174997}{\*\bkmkend _Toc283188963}{\*\bkmkend _Toc283195782}{\*\bkmkend _Toc283457600}{\*\bkmkend _Toc285416616}{\*\bkmkend _Toc285584470}{\*\bkmkend _Toc285617866}
+{\*\bkmkend _Toc285617942}{\*\bkmkend _Toc285618018}{\*\bkmkend _Toc285618201}{\*\bkmkend _Toc285618361}{\*\bkmkend _Toc285618453}{\*\bkmkend _Toc287853882}{\*\bkmkend _Toc290957020}{\*\bkmkend _Toc291299102}{\*\bkmkend _Toc293214590}
+{\*\bkmkend _Toc293214708}{\*\bkmkend _Toc293214808}{\*\bkmkend _Toc293214867}{\*\bkmkend _Toc296496376}{\*\bkmkend _Toc298310817}{\*\bkmkend _Toc299808838}{\*\bkmkend _Toc301321802}{\*\bkmkend _Toc301770788}{\*\bkmkend _Toc301771278}
+{\*\bkmkend _Toc302440473}{\*\bkmkend _Toc303665095}{\*\bkmkend _Toc304335353}{\*\bkmkend _Toc305210088}{\*\bkmkend _Toc305312345}{\*\bkmkend _Toc305312488}{\*\bkmkend _Toc305312572}{\*\bkmkend _Toc305313035}{\*\bkmkend _Toc305313135}
+{\*\bkmkend _Toc305481904}{\*\bkmkend _Toc305894917}{\*\bkmkend _Toc316106372}{\*\bkmkend _Toc316106694}{\*\bkmkend _Toc316107079}{\*\bkmkend _Toc316176561}{\*\bkmkend _Toc316261380}{\*\bkmkend _Toc316356066}{\*\bkmkend _Toc316357294}
+{\*\bkmkend _Toc318177046}{\*\bkmkend _Toc318178522}{\*\bkmkend _Toc337025913}{\*\bkmkend _Toc337026028}{\*\bkmkend _Toc359293549}{\*\bkmkend _Toc389469605}
+\par }\pard\plain \s16\fi720\keep\keepn\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \f6\fs20\cgrid {\f0 
+\par Mosaic OA Central Data Server Programmer\rquote s Reference\tab ISD-00025
+\par }\pard \s16\fi720\li720\keep\keepn\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright {\f0 (formerly \ldblquote CDS Notes\rdblquote )
+\par }\pard \s16\fi720\keep\keepn\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright {\f0 
+\par mosaic OA RunTime Systems Reference Manual\tab \tab ISD-00023
+\par 
+\par {\*\bkmkstart _Toc283125077}{\*\bkmkstart _Toc283125333}{\*\bkmkstart _Toc283126705}{\*\bkmkstart _Toc283126912}{\*\bkmkstart _Toc283174847}{\*\bkmkstart _Toc283174998}{\*\bkmkstart _Toc283188964}{\*\bkmkstart _Toc283195783}{\*\bkmkstart _Toc283457601}
+{\*\bkmkstart _Toc285416617}{\*\bkmkstart _Toc285584471}{\*\bkmkstart _Toc285617867}{\*\bkmkstart _Toc285617943}{\*\bkmkstart _Toc285618019}{\*\bkmkstart _Toc285618202}{\*\bkmkstart _Toc285618362}{\*\bkmkstart _Toc285618454}{\*\bkmkstart _Toc287853883}
+{\*\bkmkstart _Toc290957021}{\*\bkmkstart _Toc291299103}{\*\bkmkstart _Toc293214591}{\*\bkmkstart _Toc293214709}{\*\bkmkstart _Toc293214809}{\*\bkmkstart _Toc293214868}{\*\bkmkstart _Toc296496377}{\*\bkmkstart _Toc298310818}{\*\bkmkstart _Toc299808839}
+{\*\bkmkstart _Toc301321803}{\*\bkmkstart _Toc301770789}{\*\bkmkstart _Toc301771279}{\*\bkmkstart _Toc302440474}{\*\bkmkstart _Toc303665096}{\*\bkmkstart _Toc304335354}{\*\bkmkstart _Toc305210089}{\*\bkmkstart _Toc305312346}{\*\bkmkstart _Toc305312489}
+{\*\bkmkstart _Toc305312573}{\*\bkmkstart _Toc305313036}{\*\bkmkstart _Toc305313136}{\*\bkmkstart _Toc305481905}{\*\bkmkstart _Toc305894918}{\*\bkmkstart _Toc316106373}{\*\bkmkstart _Toc316106695}{\*\bkmkstart _Toc316107080}{\*\bkmkstart _Toc316176562}
+{\*\bkmkstart _Toc316261381}{\*\bkmkstart _Toc316356067}{\*\bkmkstart _Toc316357295}{\*\bkmkstart _Toc318177047}{\*\bkmkstart _Toc318178523}{\*\bkmkstart _Toc337025914}{\*\bkmkstart _Toc337026029}{\*\bkmkstart _Toc359293550}mosaic OA CDS ODBC Programmer
+\rquote s Reference\tab \tab ISD-00028}{
+\par }\pard\plain \s1\sb240\sa60\keep\keepn\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\outlinelevel0\adjustright \b\f1\fs28\kerning28\cgrid {{\*\bkmkstart _Toc389469606}PREREQUISITES FOR }{\f16 mosaic OA}{ INSTALLATION{\*\bkmkend _Toc283125077}
+{\*\bkmkend _Toc283125333}{\*\bkmkend _Toc283126705}{\*\bkmkend _Toc283126912}{\*\bkmkend _Toc283174847}{\*\bkmkend _Toc283174998}{\*\bkmkend _Toc283188964}{\*\bkmkend _Toc283195783}{\*\bkmkend _Toc283457601}{\*\bkmkend _Toc285416617}
+{\*\bkmkend _Toc285584471}{\*\bkmkend _Toc285617867}{\*\bkmkend _Toc285617943}{\*\bkmkend _Toc285618019}{\*\bkmkend _Toc285618202}{\*\bkmkend _Toc285618362}{\*\bkmkend _Toc285618454}{\*\bkmkend _Toc287853883}{\*\bkmkend _Toc290957021}
+{\*\bkmkend _Toc291299103}{\*\bkmkend _Toc293214591}{\*\bkmkend _Toc293214709}{\*\bkmkend _Toc293214809}{\*\bkmkend _Toc293214868}{\*\bkmkend _Toc296496377}{\*\bkmkend _Toc298310818}{\*\bkmkend _Toc299808839}{\*\bkmkend _Toc301321803}
+{\*\bkmkend _Toc301770789}{\*\bkmkend _Toc301771279}{\*\bkmkend _Toc302440474}{\*\bkmkend _Toc303665096}{\*\bkmkend _Toc304335354}{\*\bkmkend _Toc305210089}{\*\bkmkend _Toc305312346}{\*\bkmkend _Toc305312489}{\*\bkmkend _Toc305312573}
+{\*\bkmkend _Toc305313036}{\*\bkmkend _Toc305313136}{\*\bkmkend _Toc305481905}{\*\bkmkend _Toc305894918}{\*\bkmkend _Toc316106373}{\*\bkmkend _Toc316106695}{\*\bkmkend _Toc316107080}{\*\bkmkend _Toc316176562}{\*\bkmkend _Toc316261381}
+{\*\bkmkend _Toc316356067}{\*\bkmkend _Toc316357295}{\*\bkmkend _Toc318177047}{\*\bkmkend _Toc318178523}{\*\bkmkend _Toc337025914}{\*\bkmkend _Toc337026029}{\*\bkmkend _Toc359293550}{\*\bkmkend _Toc389469606}
+\par }\pard\plain \s2\sb240\sa60\keep\keepn\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\outlinelevel1\adjustright \b\i\f1\cgrid {{\*\bkmkstart _Toc283125078}{\*\bkmkstart _Toc283125334}{\*\bkmkstart _Toc283126706}{\*\bkmkstart _Toc283126913}
+{\*\bkmkstart _Toc283174848}{\*\bkmkstart _Toc283174999}{\*\bkmkstart _Toc283188965}{\*\bkmkstart _Toc283195784}{\*\bkmkstart _Toc283457602}{\*\bkmkstart _Toc285416618}{\*\bkmkstart _Toc285584472}{\*\bkmkstart _Toc285617868}{\*\bkmkstart _Toc285617944}
+{\*\bkmkstart _Toc285618020}{\*\bkmkstart _Toc285618203}{\*\bkmkstart _Toc285618363}{\*\bkmkstart _Toc285618455}{\*\bkmkstart _Toc287853884}{\*\bkmkstart _Toc290957022}{\*\bkmkstart _Toc291299104}{\*\bkmkstart _Toc293214592}{\*\bkmkstart _Toc293214710}
+{\*\bkmkstart _Toc293214810}{\*\bkmkstart _Toc293214869}{\*\bkmkstart _Toc296496378}{\*\bkmkstart _Toc298310819}{\*\bkmkstart _Toc299808840}{\*\bkmkstart _Toc301321804}{\*\bkmkstart _Toc301770790}{\*\bkmkstart _Toc301771280}{\*\bkmkstart _Toc302440475}
+{\*\bkmkstart _Toc303665097}{\*\bkmkstart _Toc304335355}{\*\bkmkstart _Toc305210090}{\*\bkmkstart _Toc305312347}{\*\bkmkstart _Toc305312490}{\*\bkmkstart _Toc305312574}{\*\bkmkstart _Toc305313037}{\*\bkmkstart _Toc305313137}{\*\bkmkstart _Toc305481906}
+{\*\bkmkstart _Toc305894919}{\*\bkmkstart _Toc316106374}{\*\bkmkstart _Toc316106696}{\*\bkmkstart _Toc316107081}{\*\bkmkstart _Toc316176563}{\*\bkmkstart _Toc316261382}{\*\bkmkstart _Toc316356068}{\*\bkmkstart _Toc316357296}{\*\bkmkstart _Toc318177048}
+{\*\bkmkstart _Toc318178524}{\*\bkmkstart _Toc337025915}{\*\bkmkstart _Toc337026030}{\*\bkmkstart _Toc359293551}{\*\bkmkstart _Toc389469607}HARDWARE{\*\bkmkend _Toc283125078}{\*\bkmkend _Toc283125334}{\*\bkmkend _Toc283126706}{\*\bkmkend _Toc283126913}
+{\*\bkmkend _Toc283174848}{\*\bkmkend _Toc283174999}{\*\bkmkend _Toc283188965}{\*\bkmkend _Toc283195784}{\*\bkmkend _Toc283457602}{\*\bkmkend _Toc285416618}{\*\bkmkend _Toc285584472}{\*\bkmkend _Toc285617868}{\*\bkmkend _Toc285617944}
+{\*\bkmkend _Toc285618020}{\*\bkmkend _Toc285618203}{\*\bkmkend _Toc285618363}{\*\bkmkend _Toc285618455}{\*\bkmkend _Toc287853884}{\*\bkmkend _Toc290957022}{\*\bkmkend _Toc291299104}{\*\bkmkend _Toc293214592}{\*\bkmkend _Toc293214710}
+{\*\bkmkend _Toc293214810}{\*\bkmkend _Toc293214869}{\*\bkmkend _Toc296496378}{\*\bkmkend _Toc298310819}{\*\bkmkend _Toc299808840}{\*\bkmkend _Toc301321804}{\*\bkmkend _Toc301770790}{\*\bkmkend _Toc301771280}{\*\bkmkend _Toc302440475}
+{\*\bkmkend _Toc303665097}{\*\bkmkend _Toc304335355}{\*\bkmkend _Toc305210090}{\*\bkmkend _Toc305312347}{\*\bkmkend _Toc305312490}{\*\bkmkend _Toc305312574}{\*\bkmkend _Toc305313037}{\*\bkmkend _Toc305313137}{\*\bkmkend _Toc305481906}
+{\*\bkmkend _Toc305894919}{\*\bkmkend _Toc316106374}{\*\bkmkend _Toc316106696}{\*\bkmkend _Toc316107081}{\*\bkmkend _Toc316176563}{\*\bkmkend _Toc316261382}{\*\bkmkend _Toc316356068}{\*\bkmkend _Toc316357296}{\*\bkmkend _Toc318177048}
+{\*\bkmkend _Toc318178524}{\*\bkmkend _Toc337025915}{\*\bkmkend _Toc337026030}{\*\bkmkend _Toc359293551}{\*\bkmkend _Toc389469607}
+\par }\pard\plain \qj\keep\keepn\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \fs20\cgrid {The minimum requirements for the server machines are as follows.
+\par 
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \qj\fi-360\li1080\keep\keepn\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {33MHz 80486
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \qj\fi-360\li1080\keep\keepn\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {16MB of ram (minimum 24MB recommended)
+
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \qj\fi-360\li1080\keep\keepn\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {200MB of disk
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \qj\fi-360\li1080\keep\keepn\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {
+Intel Ether Express or equivalent network board 
+\par }\pard \qj\keep\keepn\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright {
+\par }\pard \qj\fi-720\li720\keep\keepn\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright {\i NOTE:\tab To avoid conflicts between the wincom board and your network board, the IRQ for the wincom card should be set to 2, and the IR
+Q for the network card should be set to 10.  The wincom board has a hardware jumper that must be used to select interrupt 2.  The Intel Ether Express board has no hardware jumpers, a software configuration utility must be used to select interrupt 10.
+
+\par }\pard\plain \s2\sb240\sa60\keep\keepn\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\outlinelevel1\adjustright \b\i\f1\cgrid {{\*\bkmkstart _Toc365421648}{\*\bkmkstart _Toc389469608}{\*\bkmkstart _Toc283125079}{\*\bkmkstart _Toc283125335}
+{\*\bkmkstart _Toc283126707}{\*\bkmkstart _Toc283126914}{\*\bkmkstart _Toc283174849}{\*\bkmkstart _Toc283175000}{\*\bkmkstart _Toc283188966}{\*\bkmkstart _Toc283195785}{\*\bkmkstart _Toc283457603}{\*\bkmkstart _Toc285416619}{\*\bkmkstart _Toc285584473}
+{\*\bkmkstart _Toc285617869}{\*\bkmkstart _Toc285617945}{\*\bkmkstart _Toc285618021}{\*\bkmkstart _Toc285618204}{\*\bkmkstart _Toc285618364}{\*\bkmkstart _Toc285618456}{\*\bkmkstart _Toc287853885}{\*\bkmkstart _Toc290957023}{\*\bkmkstart _Toc291299105}
+{\*\bkmkstart _Toc293214593}{\*\bkmkstart _Toc293214711}{\*\bkmkstart _Toc293214811}{\*\bkmkstart _Toc293214870}{\*\bkmkstart _Toc296496379}{\*\bkmkstart _Toc299808841}{\*\bkmkstart _Toc301321805}{\*\bkmkstart _Toc301770791}{\*\bkmkstart _Toc301771281}
+{\*\bkmkstart _Toc302440476}{\*\bkmkstart _Toc303665098}{\*\bkmkstart _Toc304335356}{\*\bkmkstart _Toc305210091}{\*\bkmkstart _Toc305312348}{\*\bkmkstart _Toc305312491}{\*\bkmkstart _Toc305312575}{\*\bkmkstart _Toc305313038}{\*\bkmkstart _Toc305313138}
+{\*\bkmkstart _Toc305481907}{\*\bkmkstart _Toc305894920}{\*\bkmkstart _Toc316106375}{\*\bkmkstart _Toc316106697}{\*\bkmkstart _Toc316107082}{\*\bkmkstart _Toc316176564}{\*\bkmkstart _Toc316261383}{\*\bkmkstart _Toc316356069}{\*\bkmkstart _Toc316357297}
+{\*\bkmkstart _Toc318177049}{\*\bkmkstart _Toc318178525}{\*\bkmkstart _Toc337025916}{\*\bkmkstart _Toc337026031}{\*\bkmkstart _Toc359293552}SOFTWARE Prerequisites{\*\bkmkend _Toc365421648}{\*\bkmkend _Toc389469608}
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard\plain \fi-360\li1080\sa120\keep\keepn\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright \fs20\cgrid {One of : Microsoft 
+Windows 95;  Windows NT 3.51; Windows NT Server 3.51; Windows NT 4.0; Windows NT Server 4.0.   }{\i Use of Windows 95 for the server is not recommended}{.
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li1080\sa120\keep\keepn\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {TCP/IP
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li1080\sa120\keep\keepn\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {
+mosaic OA runtime 1.3.6 + patch 2 or a later version, if you want to use the run time interface.  Part # 88-00056-C06.   You don\rquote t need this if you are using VB, Access or some other third party tool to access your data via ODBC.
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li1080\sa120\keep\keepn\widctlpar{\*\pn \pnlvlblt\ilvl0\ls15\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls15\adjustright {To read this product\rquote 
+s documentation, you will need one of :
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li1440\sa120\keep\keepn\widctlpar{\*\pn \pnlvlblt\ilvl0\ls15\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls15\adjustright {
+Microsoft Word, version 7 or later. 
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li1440\sa120\keep\keepn\widctlpar{\*\pn \pnlvlblt\ilvl0\ls15\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls15\adjustright {Microsoft Word
+Pad, version 4 or later
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \fi-360\li1440\sa120\keep\keepn\widctlpar{\*\pn \pnlvlblt\ilvl0\ls15\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls15\adjustright {
+Microsoft WordView, Version 8 or later.  [ Included on the CD-ROM with this package.]
+\par }\pard\plain \s2\sb240\sa60\keep\keepn\widctlpar\outlinelevel1\adjustright \b\i\f1\cgrid {{\*\bkmkend _Toc283125079}{\*\bkmkend _Toc283125335}{\*\bkmkend _Toc283126707}{\*\bkmkend _Toc283126914}{\*\bkmkend _Toc283174849}{\*\bkmkend _Toc283175000}
+{\*\bkmkend _Toc283188966}{\*\bkmkend _Toc283195785}{\*\bkmkend _Toc283457603}{\*\bkmkend _Toc285416619}{\*\bkmkend _Toc285584473}{\*\bkmkend _Toc285617869}{\*\bkmkend _Toc285617945}{\*\bkmkend _Toc285618021}{\*\bkmkend _Toc285618204}
+{\*\bkmkend _Toc285618364}{\*\bkmkend _Toc285618456}{\*\bkmkend _Toc287853885}{\*\bkmkend _Toc290957023}{\*\bkmkend _Toc291299105}{\*\bkmkend _Toc293214593}{\*\bkmkend _Toc293214711}{\*\bkmkend _Toc293214811}{\*\bkmkend _Toc293214870}
+{\*\bkmkend _Toc296496379}\page {\*\bkmkstart _Toc389469609}mosaic OA CDS INSTALLATION{\*\bkmkend _Toc299808841}{\*\bkmkend _Toc301321805}{\*\bkmkend _Toc301770791}{\*\bkmkend _Toc301771281}{\*\bkmkend _Toc302440476}{\*\bkmkend _Toc303665098}
+{\*\bkmkend _Toc304335356}{\*\bkmkend _Toc305210091}{\*\bkmkend _Toc305312348}{\*\bkmkend _Toc305312491}{\*\bkmkend _Toc305312575}{\*\bkmkend _Toc305313038}{\*\bkmkend _Toc305313138}{\*\bkmkend _Toc305481907}{\*\bkmkend _Toc305894920}
+{\*\bkmkend _Toc316106375}{\*\bkmkend _Toc316106697}{\*\bkmkend _Toc316107082}{\*\bkmkend _Toc316176564}{\*\bkmkend _Toc316261383}{\*\bkmkend _Toc316356069}{\*\bkmkend _Toc316357297}{\*\bkmkend _Toc318177049}{\*\bkmkend _Toc318178525}
+{\*\bkmkend _Toc337025916}{\*\bkmkend _Toc337026031}{\*\bkmkend _Toc359293552}{\*\bkmkend _Toc389469609}
+\par }\pard\plain \qj\keep\keepn\widctlpar\adjustright \fs20\cgrid {The following steps must be taken to install mosaic OA CDS.
+\par 
+\par {\pntext\pard\plain\fs20\cgrid \hich\af0\dbch\af0\loch\f0 1)\tab}}\pard \qj\fi-360\li720\keep\keepn\widctlpar{\*\pn \pnlvlbody\ilvl0\ls2\pnrnot0\pndec\pnstart1\pnindent360\pnhang{\pntxta )}}\ls2\adjustright {
+Install Microsoft Windows NT or Microsoft Windows NT Server or Window 95.
+\par {\pntext\pard\plain\fs20\cgrid \hich\af0\dbch\af0\loch\f0 2)\tab}}\pard \qj\fi-360\li720\keep\keepn\widctlpar{\*\pn \pnlvlbody\ilvl0\ls2\pnrnot0\pndec\pnstart1\pnindent360\pnhang{\pntxta )}}\ls2\adjustright {Set up and configure TCP/IP.
+\par {\pntext\pard\plain\fs20\cgrid \hich\af0\dbch\af0\loch\f0 3)\tab}}\pard \qj\fi-360\li720\keep\keepn\widctlpar{\*\pn \pnlvlbody\ilvl0\ls2\pnrnot0\pndec\pnstart1\pnindent360\pnhang{\pntxta )}}\ls2\adjustright {If yo
+ur machine is using a Domain Name Server, your machine must be registered with that DNS,  - or -
+\par }\pard \qj\li720\keep\keepn\widctlpar{\*\pn \pnlvlcont\ilvl12\ls0\pnrnot0\pndec }\ilvl12\adjustright {You must have an entry in the }{\b\i hosts}{ file for the machine upon which you are installing.  That is the machine must have an entry in its }{\b\i 
+hosts}{ file for itself.
+\par {\pntext\pard\plain\fs20\cgrid \hich\af0\dbch\af0\loch\f0 4)\tab}}\pard \qj\fi-360\li720\keep\keepn\widctlpar{\*\pn \pnlvlbody\ilvl0\ls2\pnrnot0\pndec\pnstart1\pnindent360\pnhang{\pntxta )}}\ls2\adjustright {If you don\rquote 
+t already have your data dictionary on the target machine, copy your moa data dictionary from a work station to the server machine.  You may need to create directories to do this.   The install process creates a test dictionary named \lquote min\rquote  i
+f you don\rquote t use the customization choice dialog to deselect \lquote sample programs\rquote .  
+\par {\pntext\pard\plain\fs20\cgrid \hich\af0\dbch\af0\loch\f0 5)\tab}}\pard \qj\fi-360\li720\keep\keepn\widctlpar{\*\pn \pnlvlbody\ilvl0\ls2\pnrnot0\pndec\pnstart1\pnindent360\pnhang{\pntxta )}}\ls2\adjustright {
+For each  CDS server that is running, truncate the recovery log file with cdsclrlg.exe.   The old log files may hold recovery records that are incompatible with the new se
+rver.   For each server that is not running, delete its old recovery log file, which is usually named \lquote cds_log\rquote .
+\par {\pntext\pard\plain\fs20\cgrid \hich\af0\dbch\af0\loch\f0 6)\tab}}\pard \qj\fi-360\li720\keep\keepn\widctlpar{\*\pn \pnlvlbody\ilvl0\ls2\pnrnot0\pndec\pnstart1\pnindent360\pnhang{\pntxta )}}\ls2\adjustright {On NT, run \lquote cdinstsv -all stop\rquote 
+ to stop all old CDS servers, if any,  in the services manager database.   This allows cdsv.exe to be replaced, it will }{\i not }{delete your data!! }{\b\fs22 You must logged on as a member of the administrators group}{
+!   If you are changing MOADIR or MOAPROJ, run: \lquote cdinstsv \endash all remove\rquote  instead to remove all of the old CDS entries in the services manager database.
+\par {\pntext\pard\plain\fs20\cgrid \hich\af0\dbch\af0\loch\f0 7)\tab}}\pard \qj\fi-360\li720\keep\keepn\widctlpar{\*\pn \pnlvlbody\ilvl0\ls2\pnrnot0\pndec\pnstart1\pnindent360\pnhang{\pntxta )}}\ls2\adjustright {If you ha
+ve an existing dictionary from V3, delete all of the related ddtime files [\\moaproj\\*\\*cds*\\ddtime].  The install puts newly required fields into your data dictionary.
+\par {\pntext\pard\plain\fs20\cgrid \hich\af0\dbch\af0\loch\f0 8)\tab}}\pard \qj\fi-360\li720\keep\keepn\widctlpar{\*\pn \pnlvlbody\ilvl0\ls2\pnrnot0\pndec\pnstart1\pnindent360\pnhang{\pntxta )}}\ls2\adjustright {
+If you previously installed so that you have a remove option for this package in }{\fs22 My Computer/ Control Panel / Add-Remove}{
+, run the remove/uninstall to properly decrement the registry counts of shared files.   Note that UnInstall is not supported on Windows NT 3.51.
+\par {\pntext\pard\plain\fs20\cgrid \hich\af0\dbch\af0\loch\f0 9)\tab}}\pard \qj\fi-360\li720\keep\keepn\widctlpar{\*\pn \pnlvlbody\ilvl0\ls2\pnrnot0\pndec\pnstart1\pnindent360\pnhang{\pntxta )}}\ls2\adjustright {
+If you are running on Window NT 3.51, you may wish to install WordView 
+at this point, to enable you to read the CDS documentation, which is in Microsoft Word 6.0/95 format.   The WordView package is included on the CD-ROM with the CDS package.  It is not installed automatically.  To install WordView: cd \\wordview\\
+disk1 and run setup.exe.
+\par {\pntext\pard\plain\s16 \fs20\cgrid \hich\af0\dbch\af0\loch\f0 10)\tab}}\pard\plain \s16\qj\fi-360\li720\keep\keepn\widctlpar{\*\pn \pnlvlbody\ilvl0\ls2\pnrnot0\pndec\pnstart1\pnindent360\pnhang{\pntxta )}}\ls2\adjustright \f6\fs20\cgrid {\f0 Install }{
+\b\f0 mosaic OA }{\f0 Central Data Server..   }{\b\f0 On NT you must logged on as a member of the administrators group.}{\b  }{\f0 If you have existing CDS application tables, they will}{\i\f0  not}{\f0  b
+e changed and they will remain accessible.   New entries may be added to the table of tables and the table of indexes to accommodate the new \lquote fields\rquote 
+ table.   New entries may also be added to the field table in your project data dictionary to accommodate the fields table and the ODBC interface. }{\b  }{\f0 
+\par }\pard \s16\qj\li360\keep\keepn\widctlpar\ilvl12\adjustright {\b   }{\f0 
+\par From local CD_ROM or network (letter) mapped drive:
+\par {\pntext\pard\plain\s16 \fs20\cgrid \hich\af0\dbch\af0\loch\f0 a)\tab}}\pard \s16\qj\fi-360\li1440\keep\keepn\widctlpar{\*\pn \pnlvlbody\ilvl0\ls3\pnrnot0\pnlcltr\pnstart1\pnindent360\pnhang{\pntxta )}}\ls3\adjustright {\f0 
+Run SRVSETUP.BAT to install CDS server package V1.4.5. 
+\par {\pntext\pard\plain\s16 \fs20\cgrid \hich\af0\dbch\af0\loch\f0 b)\tab}}\pard \s16\qj\fi-360\li1440\keep\keepn\widctlpar{\*\pn \pnlvlbody\ilvl0\ls3\pnrnot0\pnlcltr\pnstart1\pnindent360\pnhang{\pntxta )}}\ls3\adjustright {\f0 
+If you are installing for emergency journalling on a workstation, use the custom installation option and deselect moa Message Switch (moamsw). 
+\par {\pntext\pard\plain\s16 \fs20\cgrid \hich\af0\dbch\af0\loch\f0 c)\tab}}\pard \s16\qj\fi-360\li1440\keep\keepn\widctlpar{\*\pn \pnlvlbody\ilvl0\ls3\pnrnot0\pnlcltr\pnstart1\pnindent360\pnhang{\pntxta )}}\ls3\adjustright {\f0 
+   Reboot when prompted to do so to reset application environment variables and to start the server(s).
+\par }\pard \s16\qj\li360\keep\keepn\widctlpar\ilvl12\adjustright {\f0 From remote CD_ROM or unmapped drive:
+\par {\pntext\pard\plain\s16 \f6\fs20\cgrid \hich\af6\dbch\af0\loch\f6 1)\tab}}\pard \s16\qj\fi-360\li1080\keep\keepn\widctlpar{\*\pn \pnlvlbody\ilvl0\ls4\pnrnot0\pndec\pnstart1\pnindent360\pnhang{\pntxta )}}\ls4\adjustright {Browse to MOACDSV\\disk1\\
+SETUP.exe and run that. 
+\par }\pard \s16\qj\keep\keepn\widctlpar\ilvl12\adjustright {\f0 
+\par }\pard \s16\qj\li360\keep\keepn\widctlpar\ilvl12\adjustright {\b\f0\fs24 Windows 95 setup bugs work-around:}{\f0  
+\par 
+\par {\pntext\pard\plain\s16 \fs20\cgrid \hich\af0\dbch\af0\loch\f0 1.\tab}}\pard \s16\qj\fi-360\li720\keep\keepn\widctlpar{\*\pn \pnlvlbody\ilvl0\ls5\pnrnot0\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}\ls5\adjustright {\f0 
+Make sure DNS has correct IP address for your machine.
+\par {\pntext\pard\plain\s16 \fs20\cgrid \hich\af0\dbch\af0\loch\f0 2.\tab}}\pard \s16\qj\fi-360\li720\keep\keepn\widctlpar{\*\pn \pnlvlbody\ilvl0\ls5\pnrnot0\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}\ls5\adjustright {\f0 
+If DNS is not present or not correctable, update your windows\\}{\b\f0 hosts }{\f0 file. If you have no windows\\hosts file copy \\windows\\hosts.sam to \\windows\\hosts. Then create an entry for your machine in the hosts file.
+\par {\pntext\pard\plain\s16 \fs20\cgrid \hich\af0\dbch\af0\loch\f0 3.\tab}}\pard \s16\qj\fi-360\li720\keep\keepn\widctlpar{\*\pn \pnlvlbody\ilvl0\ls5\pnrnot0\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}\ls5\adjustright {\f0 
+Make sure that the new field definitions are in your dictionary with \lquote findobj -nYourProject common:DomainName\rquote .   You will see \ldblquote findobj: Can't find object\rdblquote  if the new definitions are missing.
+\par {\pntext\pard\plain\s16 \fs20\cgrid \hich\af0\dbch\af0\loch\f0 4.\tab}}\pard \s16\qj\fi-360\li720\keep\keepn\widctlpar{\*\pn \pnlvlbody\ilvl0\ls5\pnrnot0\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}\ls5\adjustright {\f0 
+If you install a second sever process on one machine, be sure to use a non-default UDP port address for one of the servers.  The servers won\rquote t work with a shared UDP port number on Windows 95.
+\par }\pard\plain \fi-360\li720\sa120\keep\keepn\widctlpar\ilvl12\adjustright \fs20\cgrid {{\*\bkmkstart _Toc283125081}{\*\bkmkstart _Toc283125337}{\*\bkmkstart _Toc283126709}{\*\bkmkstart _Toc283126916}{\*\bkmkstart _Toc283174851}{\*\bkmkstart _Toc283175002}
+{\*\bkmkstart _Toc283188968}{\*\bkmkstart _Toc283195792}{\*\bkmkstart _Toc283457617}{\*\bkmkstart _Toc285416633}{\*\bkmkstart _Toc285584487}{\*\bkmkstart _Toc285617883}{\*\bkmkstart _Toc285617959}{\*\bkmkstart _Toc285618035}{\*\bkmkstart _Toc285618218}
+{\*\bkmkstart _Toc285618378}{\*\bkmkstart _Toc285618470}{\*\bkmkstart _Toc287853900}{\*\bkmkstart _Toc290957038}{\*\bkmkstart _Toc291299120}{\*\bkmkstart _Toc293214608}{\*\bkmkstart _Toc293214726}{\*\bkmkstart _Toc293214826}{\*\bkmkstart _Toc293214885}
+{\*\bkmkstart _Toc296496394}{\*\bkmkstart _Toc298310831}{\*\bkmkstart _Toc299808842}{\*\bkmkstart _Toc301321806}{\*\bkmkstart _Toc301770792}{\*\bkmkstart _Toc301771282}{\*\bkmkstart _Toc302440477}{\*\bkmkstart _Toc303665099}{\*\bkmkstart _Toc304335357}
+{\*\bkmkstart _Toc305210092}{\*\bkmkstart _Toc305312349}{\*\bkmkstart _Toc305312492}{\*\bkmkstart _Toc305312576}{\*\bkmkstart _Toc305313039}{\*\bkmkstart _Toc305313139}{\*\bkmkstart _Toc305481908}{\*\bkmkstart _Toc305894921}{\*\bkmkstart _Toc316106376}
+{\*\bkmkstart _Toc316106698}{\*\bkmkstart _Toc316107083}{\*\bkmkstart _Toc316176565}{\*\bkmkstart _Toc316261384}{\*\bkmkstart _Toc316356070}{\*\bkmkstart _Toc316357298}{\*\bkmkstart _Toc318177050}{\*\bkmkstart _Toc318178526}
+\par }\pard \sa120\keep\keepn\widctlpar\adjustright {Setup prompts you for the parameters required by CDS.  Use the Help feature of setup if you need more information on what to enter for the parameter.
+\par }\pard\plain \s2\sb240\sa60\keep\keepn\widctlpar\outlinelevel1\adjustright \b\i\f1\cgrid {\page {\*\bkmkstart _Toc389469610}mosaic OA CDS DEINSTALLATION{\*\bkmkend _Toc389469610}
+\par }\pard\plain \qj\keep\keepn\widctlpar\adjustright \fs20\cgrid {The following steps must be taken to un-install mosaic OA CDS. None of these work completely.
+\par 
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \qj\fi-360\li360\keep\keepn\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {On Windows NT 4.0:
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \qj\fi-360\li1080\keep\keepn\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {run cdinstsv -all remove
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \qj\fi-360\li1080\keep\keepn\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {
+from Control Panel, run Add/Remove Programs, click on MOA CDSV and remove it.
+\par }\pard \qj\li720\keep\keepn\widctlpar{\*\pn \pnlvlcont\ilvl12\ls0\pnrnot0\pndec }\ilvl12\adjustright {
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \qj\fi-360\li360\keep\keepn\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {On Windows 95:
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \qj\fi-360\li1080\keep\keepn\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {
+Bring up each CDSV task from the task bar and stop it by clicking on the X box.
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \qj\fi-360\li1080\keep\keepn\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {Bring up the \ldblquote Startup
+\rdblquote  window from the task bar and delete all of the entries for CDSV.
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \qj\fi-360\li1080\keep\keepn\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {
+From Control Panel, run Add/Remove Programs, click on \ldblquote MOA CDSV\rdblquote  and remove it.
+\par }\pard \qj\keep\keepn\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright {
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \qj\fi-360\li360\keep\keepn\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {
+On Windows NT 3.51.   No automatic uninstall is provided but the following steps will undo most of the install.   These are hints for knowledgeable, brave administrators.
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \qj\fi-360\li1080\keep\keepn\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {run cdinstsv -all remove
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \qj\fi-360\li1080\keep\keepn\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {cd    to MOADIR directory
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \qj\fi-360\li1080\keep\keepn\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {del *.*
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \qj\fi-360\li1080\keep\keepn\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {cd MOAPROJ directory
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \qj\fi-360\li1080\keep\keepn\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {del *.*
+\par {\pntext\pard\plain\f3\fs20\cgrid \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \qj\fi-360\li1080\keep\keepn\widctlpar{\*\pn \pnlvlblt\ilvl0\ls1\pnrnot0\pnf3\pnstart1\pnindent360\pnhang{\pntxtb \'b7}}\ls1\adjustright {\b 
+This procedure is quite dangerous, should be considered only for Window NT 3.51, and is catastrophic if you want only to remove the server package and keep other mosaic OA components.   }{\b\i NOT RECOMENDED!
+\par }\pard \qj\li720\keep\keepn\widctlpar\ilvl12\adjustright {\i 
+\par }\pard\plain \s1\sb240\sa60\keepn\widctlpar\outlinelevel0\adjustright \b\f1\fs28\kerning28\cgrid {{\*\bkmkstart _Toc337025917}{\*\bkmkstart _Toc337026032}{\*\bkmkstart _Toc359293553}\page {\*\bkmkstart _Toc389469611}MISCELLANEOUS SETUP NOTES
+{\*\bkmkend _Toc283125081}{\*\bkmkend _Toc283125337}{\*\bkmkend _Toc283126709}{\*\bkmkend _Toc283126916}{\*\bkmkend _Toc283174851}{\*\bkmkend _Toc283175002}{\*\bkmkend _Toc283188968}{\*\bkmkend _Toc283195792}{\*\bkmkend _Toc283457617}
+{\*\bkmkend _Toc285416633}{\*\bkmkend _Toc285584487}{\*\bkmkend _Toc285617883}{\*\bkmkend _Toc285617959}{\*\bkmkend _Toc285618035}{\*\bkmkend _Toc285618218}{\*\bkmkend _Toc285618378}{\*\bkmkend _Toc285618470}{\*\bkmkend _Toc287853900}
+{\*\bkmkend _Toc290957038}{\*\bkmkend _Toc291299120}{\*\bkmkend _Toc293214608}{\*\bkmkend _Toc293214726}{\*\bkmkend _Toc293214826}{\*\bkmkend _Toc293214885}{\*\bkmkend _Toc296496394}{\*\bkmkend _Toc298310831}{\*\bkmkend _Toc299808842}
+{\*\bkmkend _Toc301321806}{\*\bkmkend _Toc301770792}{\*\bkmkend _Toc301771282}{\*\bkmkend _Toc302440477}{\*\bkmkend _Toc303665099}{\*\bkmkend _Toc304335357}{\*\bkmkend _Toc305210092}{\*\bkmkend _Toc305312349}{\*\bkmkend _Toc305312492}
+{\*\bkmkend _Toc305312576}{\*\bkmkend _Toc305313039}{\*\bkmkend _Toc305313139}{\*\bkmkend _Toc305481908}{\*\bkmkend _Toc305894921}{\*\bkmkend _Toc316106376}{\*\bkmkend _Toc316106698}{\*\bkmkend _Toc316107083}{\*\bkmkend _Toc316176565}
+{\*\bkmkend _Toc316261384}{\*\bkmkend _Toc316356070}{\*\bkmkend _Toc316357298}{\*\bkmkend _Toc318177050}{\*\bkmkend _Toc318178526}{\*\bkmkend _Toc337025917}{\*\bkmkend _Toc337026032}{\*\bkmkend _Toc359293553}{\*\bkmkend _Toc389469611}
+\par }\pard\plain \s2\sb240\sa60\keepn\widctlpar\outlinelevel1\adjustright \b\i\f1\cgrid {{\*\bkmkstart _Toc389469612}New Fields Required in Dictionary{\*\bkmkend _Toc389469612}
+\par }\pard\plain \qj\widctlpar\adjustright \fs20\cgrid {The setup process adds the new required fields to your dictionary, if they aren\rquote t already there.   You may want to update your source for later re-makes of the dictionary.  The new fields
+ source in \\moa\\ibamindd\\newflds are:
+\par }\pard\plain \s16\li1440\widctlpar\adjustright \f6\fs20\cgrid {CdsFldSeq \tab INT 4  \tab SCDEascuRDmpbdh 0 0 0 0 0 0 0 
+\par CdsFldNo \tab INT 4  \tab SCDEascuRDmpbdh 0 0 0 0 0 0 0 
+\par CdsApplNo \tab INT 4  \tab SCDEascuRDmpbdh 0 0 0 0 0 0 0 
+\par CdsApplName ASCII 20  \tab scdeascurdmpbdh 0 0 0 0 0 0 0 
+\par CdsFldName \tab ASCII 20  \tab scdeascurdmpbdh 0 0 0 0 0 0 0
+\par CdsNullOk \tab ASCII 1  \tab SCDEAscurDmpbdh 0 0 0 0 0 0 0
+\par Cds_count  \tab INT  4 \tab SCDEascuRDmpbdh 0 0 0 0 0 0 0 
+\par CdsDefault \tab ASCII 32 \tab scdeascurdmpbdh 0 0 0 0 0 0 0 
+\par CdsRowVer \tab INT 4 \tab SCDEascuRDmpbdh 0 0 0 0 0 0 0 
+\par CdsLockType ASCII 12 \tab scdeascurdmpbdh 0 0 0 0 0 0 0 
+\par CdsUser \tab ASCII 20 \tab scdeascurdmpbdh 0 0 0 0 0 0 0 
+\par CdsMachine \tab ASCII 20 \tab scdeascurdmpbdh 0 0 0 0 0 0 0 
+\par CdsApp \tab ASCII 20 \tab scdeascurdmpbdh 0 0 0 0 0 0 0 
+\par DomainName \tab ASCII 20 \tab scdeascurdmpbdh 0 0 0 0 0 0 0 
+\par CdsDomain \tab INT 4 \tab SCDEascuRDmpbdh 0 0 0 0 0 0 0 
+\par IndexFilter ASCII 128 \tab scdeascurdmpbdh 0 0 0 0 0 0 0
+\par CdsScope  \tab INT 4 \tab SCDEascuRDmpbdh 0 0 0 0 0 0 0
+\par CdsDataType\tab INT 4 \tab SCDEascuRDmpbdh 0 0 0 0 0 0 0
+\par CdsTypeName ASCII 20 \tab scdeascurdmpbdh 0 0 0 0 0 0 0 
+\par PseudoColumn INT 4 \tab SCDEascuRDmpbdh 0 0 0 0 0 0 0
+\par CdsScale\tab INT 4 \tab SCDEascuRDmpbdh 0 0 0 0 0 0 0
+\par CdsPrecision INT 4 \tab SCDEascuRDmpbdh 0 0 0 0 0 0 0
+\par Cdslength \tab INT 4 \tab SCDEascuRDmpbdh 0 0 0 0 0 0 0
+\par Cardinality INT 4 \tab SCDEascuRDmpbdh 0 0 0 0 0 0 0
+\par CdsPrivilege ASCII 11 \tab scdeascurdmpbdh 0 0 0 0 0 0 0
+\par CdsGrantable ASCII 3  \tab scdeascurdmpbdh 0 0 0 0 0 0 0
+\par CdsGrantor \tab ASCII 20 \tab scdeascurdmpbdh 0 0 0 0 0 0 0 
+\par CdsGrantee \tab ASCII 20 \tab scdeascurdmpbdh 0 0 0 0 0 0 0 
+\par CdsTableType ASCII 12 \tab scdeascurdmpbdh 0 0 0 0 0 0 0
+\par CdsApp \tab ASCII 20 \tab scdeascurdmpbdh 0 0 0 0 0 0 0 
+\par IPaddress \tab SCII 12  \tab scdeascurdmpbdh 0 0 0 0 0 0 0 
+\par CdsProcess \tab INT 4 \tab sCDEascuRDmpbdh 0 0 0 0 0 0 0
+\par CdsCoordinator ASCII 20 scdeascurdmpbdh 0 0 0 0 0 0 0
+\par 
+\par }\pard\plain \li1170\sa120\widctlpar\tx1170\tx2700\tx4320\tx4590\adjustright \fs20\cgrid {\f6\fs16 In the unlikely event that your application previously 
+defined one of these fields with exactly the same name and a different data type or length, you must modify your application.  The field flag settings may differ because they have no significant effect on the action or performance of CDS.}{
+\par }\pard\plain \s2\sb240\sa60\keepn\widctlpar\outlinelevel1\adjustright \b\i\f1\cgrid {{\*\bkmkstart _Toc283125083}{\*\bkmkstart _Toc283125339}{\*\bkmkstart _Toc283126711}{\*\bkmkstart _Toc283126918}{\*\bkmkstart _Toc283174853}{\*\bkmkstart _Toc283175004}
+{\*\bkmkstart _Toc283188970}{\*\bkmkstart _Toc283195794}{\*\bkmkstart _Toc283457619}{\*\bkmkstart _Toc285416635}{\*\bkmkstart _Toc285584489}{\*\bkmkstart _Toc285617885}{\*\bkmkstart _Toc285617961}{\*\bkmkstart _Toc285618037}{\*\bkmkstart _Toc285618220}
+{\*\bkmkstart _Toc285618380}{\*\bkmkstart _Toc285618472}{\*\bkmkstart _Toc287853903}{\*\bkmkstart _Toc290957041}{\*\bkmkstart _Toc291299123}{\*\bkmkstart _Toc293214611}{\*\bkmkstart _Toc293214729}{\*\bkmkstart _Toc293214829}{\*\bkmkstart _Toc293214888}
+{\*\bkmkstart _Toc296496397}{\*\bkmkstart _Toc298310833}{\*\bkmkstart _Toc299808844}{\*\bkmkstart _Toc301321808}{\*\bkmkstart _Toc301770794}{\*\bkmkstart _Toc301771284}{\*\bkmkstart _Toc302440479}{\*\bkmkstart _Toc303665101}{\*\bkmkstart _Toc304335359}
+{\*\bkmkstart _Toc305210094}{\*\bkmkstart _Toc305312351}{\*\bkmkstart _Toc305312494}{\*\bkmkstart _Toc305312578}{\*\bkmkstart _Toc305313041}{\*\bkmkstart _Toc305313141}{\*\bkmkstart _Toc305481910}{\*\bkmkstart _Toc305894923}{\*\bkmkstart _Toc316106378}
+{\*\bkmkstart _Toc316106700}{\*\bkmkstart _Toc316107085}{\*\bkmkstart _Toc316176567}{\*\bkmkstart _Toc316261386}{\*\bkmkstart _Toc316356072}{\*\bkmkstart _Toc316357300}{\*\bkmkstart _Toc318177052}{\*\bkmkstart _Toc318178528}{\*\bkmkstart _Toc337025918}
+{\*\bkmkstart _Toc337026033}{\*\bkmkstart _Toc359293554}\page {\*\bkmkstart _Toc389469613}FILE LOCATION{\*\bkmkend _Toc283125083}{\*\bkmkend _Toc283125339}{\*\bkmkend _Toc283126711}{\*\bkmkend _Toc283126918}{\*\bkmkend _Toc283174853}
+{\*\bkmkend _Toc283175004}{\*\bkmkend _Toc283188970}{\*\bkmkend _Toc283195794}{\*\bkmkend _Toc283457619}{\*\bkmkend _Toc285416635}{\*\bkmkend _Toc285584489}{\*\bkmkend _Toc285617885}{\*\bkmkend _Toc285617961}{\*\bkmkend _Toc285618037}
+{\*\bkmkend _Toc285618220}{\*\bkmkend _Toc285618380}{\*\bkmkend _Toc285618472}{\*\bkmkend _Toc287853903}{\*\bkmkend _Toc290957041}{\*\bkmkend _Toc291299123}{\*\bkmkend _Toc293214611}{\*\bkmkend _Toc293214729}{\*\bkmkend _Toc293214829}
+{\*\bkmkend _Toc293214888}{\*\bkmkend _Toc296496397}{\*\bkmkend _Toc298310833}{\*\bkmkend _Toc299808844}{\*\bkmkend _Toc301321808}{\*\bkmkend _Toc301770794}{\*\bkmkend _Toc301771284}{\*\bkmkend _Toc302440479}{\*\bkmkend _Toc303665101}
+{\*\bkmkend _Toc304335359}{\*\bkmkend _Toc305210094}{\*\bkmkend _Toc305312351}{\*\bkmkend _Toc305312494}{\*\bkmkend _Toc305312578}{\*\bkmkend _Toc305313041}{\*\bkmkend _Toc305313141}{\*\bkmkend _Toc305481910}{\*\bkmkend _Toc305894923}
+{\*\bkmkend _Toc316106378}{\*\bkmkend _Toc316106700}{\*\bkmkend _Toc316107085}{\*\bkmkend _Toc316176567}{\*\bkmkend _Toc316261386}{\*\bkmkend _Toc316356072}{\*\bkmkend _Toc316357300}{\*\bkmkend _Toc318177052}{\*\bkmkend _Toc318178528}
+{\*\bkmkend _Toc337025918}{\*\bkmkend _Toc337026033}{\*\bkmkend _Toc359293554}{\*\bkmkend _Toc389469613}
+\par }\pard\plain \qj\widctlpar\adjustright \fs20\cgrid {The set of files required to operate a }{\b\f16 mosaic OA}{ system do not have to be installed in the root directory.  The following convention i
+s followed to locate files required by CDS and its associated Console Tools.
+\par 
+\par When CDSV or any of the Console Tools are invoked the }{\b MOADIR}{ user environment or Registry key value located at : "HKEY_LOCAL_MACHINE\\\\SOFTWARE\\\\Olivetti North America\\\\mosaic OA\rdblquote 
+  is searched for.  You may set or review the value with the }{\b PUTREG.EXE}{ tool.  This defines the directory where the \ldblquote lib\rdblquote  directory is located by various tools and RunTime components.  The \ldblquote lib\rdblquote 
+ directory contains useful include files and error message text files.
+\par 
+\par To illustrate, when "d:\\apps\\moa\\bin\\ql.exe" is executed, the file "d:\\apps\\moa\\lib\\err_200" will be used  for displaying error message #201.
+\par 
+\par When CDSV or any of the Console Tools are invoked then the }{\b MOAPROJECT}{ user environment  variable or Registry key value is queried to obtain the location of  all }{\b\f16 mosaic OA}{ project Data Dictionaries and sources.  The default location for }
+{\b\f16 mosaic OA }{projects set by the }{\b PUTREG.EXE}{ tool is \ldblquote c:\\moaproj\rdblquote .   To configure a project you use the }{\b DDINIT.EXE}{ tool to opti
+onally create the project directory and its Data Dictionary data files.  The project may be 30 characters long.
+\par 
+\par There is no default project built-in.  However, a }{\b MOACURPROJ}{ user environment or registry key value is searched for if a project is not explicitly referenced on the command line.  This registry key value may be set by the }{\b PUTREG.EXE}{ tool.
+
+\par 
+\par We encourage the use of the registry to contain these }{\b\f16 mosaic OA}{ variable definitions.
+\par }\pard\plain \s2\sb240\sa60\keep\keepn\widctlpar\outlinelevel1\adjustright \b\i\f1\cgrid {{\*\bkmkstart _Toc305210095}{\*\bkmkstart _Toc305312352}{\*\bkmkstart _Toc305312495}{\*\bkmkstart _Toc305312579}{\*\bkmkstart _Toc305313042}
+{\*\bkmkstart _Toc305313142}{\*\bkmkstart _Toc305481911}{\*\bkmkstart _Toc305894924}{\*\bkmkstart _Toc316106379}{\*\bkmkstart _Toc316106701}{\*\bkmkstart _Toc316107086}{\*\bkmkstart _Toc316176568}{\*\bkmkstart _Toc316261387}{\*\bkmkstart _Toc316356073}
+{\*\bkmkstart _Toc316357301}{\*\bkmkstart _Toc318177053}{\*\bkmkstart _Toc318178529}{\*\bkmkstart _Toc337025919}{\*\bkmkstart _Toc337026034}{\*\bkmkstart _Toc359293555}{\*\bkmkstart _Toc389469614}{\*\bkmkstart _Toc283125084}{\*\bkmkstart _Toc283125340}
+{\*\bkmkstart _Toc283126712}{\*\bkmkstart _Toc283126919}{\*\bkmkstart _Toc283174854}{\*\bkmkstart _Toc283175005}{\*\bkmkstart _Toc283188971}{\*\bkmkstart _Toc283195795}{\*\bkmkstart _Toc283457620}{\*\bkmkstart _Toc285416636}{\*\bkmkstart _Toc285584490}
+{\*\bkmkstart _Toc285617886}{\*\bkmkstart _Toc285617962}{\*\bkmkstart _Toc285618038}{\*\bkmkstart _Toc285618221}{\*\bkmkstart _Toc285618381}{\*\bkmkstart _Toc285618473}{\*\bkmkstart _Toc287853904}{\*\bkmkstart _Toc290957042}{\*\bkmkstart _Toc291299124}
+{\*\bkmkstart _Toc293214612}{\*\bkmkstart _Toc293214730}{\*\bkmkstart _Toc293214830}{\*\bkmkstart _Toc293214889}{\*\bkmkstart _Toc296496398}{\*\bkmkstart _Toc298310834}{\*\bkmkstart _Toc299808845}{\*\bkmkstart _Toc301321809}{\*\bkmkstart _Toc301770795}
+{\*\bkmkstart _Toc301771285}{\*\bkmkstart _Toc302440480}{\*\bkmkstart _Toc303665102}{\*\bkmkstart _Toc304335360}INITIALIZATION FILES{\*\bkmkend _Toc305210095}{\*\bkmkend _Toc305312352}{\*\bkmkend _Toc305312495}{\*\bkmkend _Toc305312579}
+{\*\bkmkend _Toc305313042}{\*\bkmkend _Toc305313142}{\*\bkmkend _Toc305481911}{\*\bkmkend _Toc305894924}{\*\bkmkend _Toc316106379}{\*\bkmkend _Toc316106701}{\*\bkmkend _Toc316107086}{\*\bkmkend _Toc316176568}{\*\bkmkend _Toc316261387}
+{\*\bkmkend _Toc316356073}{\*\bkmkend _Toc316357301}{\*\bkmkend _Toc318177053}{\*\bkmkend _Toc318178529}{\*\bkmkend _Toc337025919}{\*\bkmkend _Toc337026034}{\*\bkmkend _Toc359293555}{\*\bkmkend _Toc389469614}
+\par }\pard\plain \s3\sb240\sa60\keepn\widctlpar\outlinelevel2\adjustright \b\cgrid {{\*\bkmkstart _Toc305210096}{\*\bkmkstart _Toc305312353}{\*\bkmkstart _Toc305312496}{\*\bkmkstart _Toc305312580}{\*\bkmkstart _Toc305313043}{\*\bkmkstart _Toc305313143}
+{\*\bkmkstart _Toc305481912}{\*\bkmkstart _Toc305894925}{\*\bkmkstart _Toc316106380}{\*\bkmkstart _Toc316106702}{\*\bkmkstart _Toc316107087}{\*\bkmkstart _Toc316176569}{\*\bkmkstart _Toc316261388}{\*\bkmkstart _Toc316356074}{\*\bkmkstart _Toc316357302}
+{\*\bkmkstart _Toc318177054}{\*\bkmkstart _Toc318178530}{\*\bkmkstart _Toc337025920}{\*\bkmkstart _Toc337026035}{\*\bkmkstart _Toc359293556}{\*\bkmkstart _Toc389469615}The Dictionary \ldblquote .INI\rdblquote  {\*\bkmkend _Toc283125084}
+{\*\bkmkend _Toc283125340}{\*\bkmkend _Toc283126712}{\*\bkmkend _Toc283126919}{\*\bkmkend _Toc283174854}{\*\bkmkend _Toc283175005}{\*\bkmkend _Toc283188971}{\*\bkmkend _Toc283195795}{\*\bkmkend _Toc283457620}{\*\bkmkend _Toc285416636}
+{\*\bkmkend _Toc285584490}{\*\bkmkend _Toc285617886}{\*\bkmkend _Toc285617962}{\*\bkmkend _Toc285618038}{\*\bkmkend _Toc285618221}{\*\bkmkend _Toc285618381}{\*\bkmkend _Toc285618473}{\*\bkmkend _Toc287853904}{\*\bkmkend _Toc290957042}
+{\*\bkmkend _Toc291299124}{\*\bkmkend _Toc293214612}{\*\bkmkend _Toc293214730}{\*\bkmkend _Toc293214830}{\*\bkmkend _Toc293214889}{\*\bkmkend _Toc296496398}{\*\bkmkend _Toc298310834}{\*\bkmkend _Toc299808845}{\*\bkmkend _Toc301321809}
+{\*\bkmkend _Toc301770795}{\*\bkmkend _Toc301771285}{\*\bkmkend _Toc302440480}{\*\bkmkend _Toc303665102}{\*\bkmkend _Toc304335360}File{\*\bkmkend _Toc305210096}{\*\bkmkend _Toc305312353}{\*\bkmkend _Toc305312496}{\*\bkmkend _Toc305312580}
+{\*\bkmkend _Toc305313043}{\*\bkmkend _Toc305313143}{\*\bkmkend _Toc305481912}{\*\bkmkend _Toc305894925}{\*\bkmkend _Toc316106380}{\*\bkmkend _Toc316106702}{\*\bkmkend _Toc316107087}{\*\bkmkend _Toc316176569}{\*\bkmkend _Toc316261388}
+{\*\bkmkend _Toc316356074}{\*\bkmkend _Toc316357302}{\*\bkmkend _Toc318177054}{\*\bkmkend _Toc318178530}{\*\bkmkend _Toc337025920}{\*\bkmkend _Toc337026035}{\*\bkmkend _Toc359293556}{\*\bkmkend _Toc389469615}
+\par }\pard\plain \qj\keep\widctlpar\adjustright \fs20\cgrid {This is a text file which stores information in several sections.  (}{\i Refer also to  the section titled }{\i\ul mosaic OA Initialization File}{\i  in the }{\b\i 
+mosaic OA RunTime System Reference Manual}{).   Each section title is enclosed in square brackets, in typical windows ".ini" style.  A default copy of this file is generated by }{\b DDINIT.EXE}{.  Since it\rquote 
+s a text file, it may be copied from another dictionary and renamed for the target dictionary.  Here are some of the sections, along with a description of the information stored in each:
+\par }\pard\plain \s4\sb240\sa60\keepn\widctlpar\outlinelevel3\adjustright \b\i\cgrid {{\*\bkmkstart _Toc301770796}{\*\bkmkstart _Toc301771286}{\*\bkmkstart _Toc302440481}{\*\bkmkstart _Toc303665103}{\*\bkmkstart _Toc304335361}{\*\bkmkstart _Toc283125085}
+{\*\bkmkstart _Toc283125341}{\*\bkmkstart _Toc283126713}{\*\bkmkstart _Toc283126920}{\*\bkmkstart _Toc283174855}{\*\bkmkstart _Toc283175006}{\*\bkmkstart _Toc283188972}{\*\bkmkstart _Toc283195796}{\*\bkmkstart _Toc283457621}{\*\bkmkstart _Toc285416637}
+{\*\bkmkstart _Toc285584491}{\*\bkmkstart _Toc285617887}{\*\bkmkstart _Toc285617963}{\*\bkmkstart _Toc285618039}{\*\bkmkstart _Toc285618222}{\*\bkmkstart _Toc285618382}{\*\bkmkstart _Toc285618474}{\*\bkmkstart _Toc287853905}{\*\bkmkstart _Toc290957043}
+{\*\bkmkstart _Toc291299125}{\*\bkmkstart _Toc293214613}{\*\bkmkstart _Toc293214731}{\*\bkmkstart _Toc293214831}{\*\bkmkstart _Toc293214890}{\*\bkmkstart _Toc296496399}{\*\bkmkstart _Toc298310835}{\*\bkmkstart _Toc299808846}{\*\bkmkstart _Toc301321810}
+[CDS{\*\bkmkend _Toc301770796}{\*\bkmkend _Toc301771286}{\*\bkmkend _Toc302440481}{\*\bkmkend _Toc303665103}{\*\bkmkend _Toc304335361}]
+\par }\pard\plain \li720\sa120\widctlpar\adjustright \fs20\cgrid {For each cdserver there may be a section in the .ini file.  The section name is: }{\b cds}{SERVNAME, where }{\b cds}{
+ is a constant and SERVNAME is the optional service name suffix of the server, like}{\i  main}{ or }{\i cl}{.
+\par }\pard \fi-2016\li3456\sa120\widctlpar\adjustright {\b CDS_PRIMARY_NP}{\tab The name of the designated primary or only NT machine that runs cdserver.   Default is to use UDP broadcast search for the server.    }{\b 
+The default is usually fine for customer installation but it is perilous in a development environment because you may randomly connect to someone else\rquote s server with the same service name in your LAN.}{
+\par }{\b CDS_SHADOW_NP}{\tab Needed only for resilient (UNIX server) systems. The name of the designated resilient shadow machine or }{\i none}{. (must be lower case \lquote none\rquote )
+\par }{\b CDS_DIRECTORY}{\tab Needed only when cdserver runs on an NT machine and only if the default is not taken.  The default is a subdirectory within the dictionary directory.
+\par }{\b CDS_LOG_PATH}{\tab Path to the recover log file.  Needed only when the default \ldblquote cds_log\rdblquote   is not wanted.  The only reason to set this is to get the recovery log on a separate disk drive.
+\par }{\b CDS_NWLOG}{\tab Optional MCN debug logging mask, for debugging only.
+\par }{\b {\*\bkmkstart _Toc283174866}{\*\bkmkstart _Toc283175017}{\*\bkmkstart _Toc283188983}{\*\bkmkstart _Toc283195807}{\*\bkmkstart _Toc283457633}{\*\bkmkstart _Toc285416649}{\*\bkmkstart _Toc285584503}{\*\bkmkstart _Toc285617899}
+{\*\bkmkstart _Toc285617975}{\*\bkmkstart _Toc285618051}{\*\bkmkstart _Toc285618234}{\*\bkmkstart _Toc285618394}{\*\bkmkstart _Toc285618486}{\*\bkmkstart _Toc287853917}{\*\bkmkstart _Toc290957055}{\*\bkmkstart _Toc291299137}{\*\bkmkstart _Toc293214625}
+{\*\bkmkstart _Toc293214743}{\*\bkmkstart _Toc293214843}{\*\bkmkstart _Toc293214902}{\*\bkmkstart _Toc296496411}{\*\bkmkstart _Toc298310846}{\*\bkmkstart _Toc299808853}{\*\bkmkstart _Toc301321816}{\*\bkmkstart _Toc301770803}{\*\bkmkstart _Toc301771293}
+{\*\bkmkstart _Toc302440488}{\*\bkmkstart _Toc303665110}{\*\bkmkstart _Toc304335368}{\*\bkmkstart _Toc305210102}{\*\bkmkstart _Toc305312359}{\*\bkmkstart _Toc305312502}{\*\bkmkstart _Toc305312586}{\*\bkmkstart _Toc305313049}{\*\bkmkstart _Toc305313149}
+{\*\bkmkstart _Toc305481918}{\*\bkmkstart _Toc305894931}{\*\bkmkstart _Toc316106386}{\*\bkmkstart _Toc316106708}{\*\bkmkstart _Toc316107090}{\*\bkmkstart _Toc316176572}{\*\bkmkstart _Toc316261390}{\*\bkmkstart _Toc316356076}{\*\bkmkstart _Toc316357304}
+{\*\bkmkstart _Toc318177055}{\*\bkmkstart _Toc318178531}{\*\bkmkstart _Toc337025921}{\*\bkmkstart _Toc337026036}{\*\bkmkstart _Toc359293557}{\*\bkmkend _Toc283125085}{\*\bkmkend _Toc283125341}{\*\bkmkend _Toc283126713}{\*\bkmkend _Toc283126920}
+{\*\bkmkend _Toc283174855}{\*\bkmkend _Toc283175006}{\*\bkmkend _Toc283188972}{\*\bkmkend _Toc283195796}{\*\bkmkend _Toc283457621}{\*\bkmkend _Toc285416637}{\*\bkmkend _Toc285584491}{\*\bkmkend _Toc285617887}{\*\bkmkend _Toc285617963}
+{\*\bkmkend _Toc285618039}{\*\bkmkend _Toc285618222}{\*\bkmkend _Toc285618382}{\*\bkmkend _Toc285618474}{\*\bkmkend _Toc287853905}{\*\bkmkend _Toc290957043}{\*\bkmkend _Toc291299125}{\*\bkmkend _Toc293214613}{\*\bkmkend _Toc293214731}
+{\*\bkmkend _Toc293214831}{\*\bkmkend _Toc293214890}{\*\bkmkend _Toc296496399}{\*\bkmkend _Toc298310835}{\*\bkmkend _Toc299808846}{\*\bkmkend _Toc301321810}CDS_DEBUGSW}{\tab Optional debug logging mask for cdsv.   This is re-read when you run cdsstat -D
+
+\par }\pard\plain \s2\sb240\sa60\keepn\widctlpar\outlinelevel1\adjustright \b\i\f1\cgrid {{\*\bkmkstart _Toc389469616}SYSTEM BACKUP{\*\bkmkend _Toc283174866}{\*\bkmkend _Toc283175017}{\*\bkmkend _Toc283188983}{\*\bkmkend _Toc283195807}{\*\bkmkend _Toc283457633
+}{\*\bkmkend _Toc285416649}{\*\bkmkend _Toc285584503}{\*\bkmkend _Toc285617899}{\*\bkmkend _Toc285617975}{\*\bkmkend _Toc285618051}{\*\bkmkend _Toc285618234}{\*\bkmkend _Toc285618394}{\*\bkmkend _Toc285618486}{\*\bkmkend _Toc287853917}
+{\*\bkmkend _Toc290957055}{\*\bkmkend _Toc291299137}{\*\bkmkend _Toc293214625}{\*\bkmkend _Toc293214743}{\*\bkmkend _Toc293214843}{\*\bkmkend _Toc293214902}{\*\bkmkend _Toc296496411}{\*\bkmkend _Toc298310846}{\*\bkmkend _Toc299808853}
+{\*\bkmkend _Toc301321816}{\*\bkmkend _Toc301770803}{\*\bkmkend _Toc301771293}{\*\bkmkend _Toc302440488}{\*\bkmkend _Toc303665110}{\*\bkmkend _Toc304335368}{\*\bkmkend _Toc305210102}{\*\bkmkend _Toc305312359}{\*\bkmkend _Toc305312502}
+{\*\bkmkend _Toc305312586}{\*\bkmkend _Toc305313049}{\*\bkmkend _Toc305313149}{\*\bkmkend _Toc305481918}{\*\bkmkend _Toc305894931}{\*\bkmkend _Toc316106386}{\*\bkmkend _Toc316106708}{\*\bkmkend _Toc316107090}{\*\bkmkend _Toc316176572}
+{\*\bkmkend _Toc316261390}{\*\bkmkend _Toc316356076}{\*\bkmkend _Toc316357304}{\*\bkmkend _Toc318177055}{\*\bkmkend _Toc318178531}{\*\bkmkend _Toc337025921}{\*\bkmkend _Toc337026036}{\*\bkmkend _Toc359293557}{\*\bkmkend _Toc389469616}
+\par }\pard\plain \qj\sa120\widctlpar\adjustright \fs20\cgrid {The backup capabilities provided by Windows NT should be used to create system backups.  No provisions are provided by MOA for system backup.   }{\b After system backup is complete, run }{\b\fs24 
+cdsclrlg}{\b  to truncate the recover log file.
+\par }\pard\plain \s2\sb240\sa60\keepn\widctlpar\outlinelevel1\adjustright \b\i\f1\cgrid {{\*\bkmkstart _Toc389469617}Emergency Workstation Server Setup{\*\bkmkend _Toc389469617}
+\par }\pard\plain \sa120\widctlpar\adjustright \fs20\cgrid {To ensure that all the required files are installed properly, please run a complete server install for each NT workstation that needs the emergency Journalling server,  selecting the \lquote COMPACT
+\rquote  option to avoid installing anything undesirable, such as the moa message switch server.   When you see the server configuration dialog panel, \ldblquote CDS Configuration Options\rdblquote 
+, check the Emergency Server check box.  That option directs the setup to copy the required files bu
+t to not install any particular server in the service manager database of NT or in the START window of Windows 95.   The emergency server is started by the application when required.
+\par You can\rquote t directly change an existing server to reconfigure it to be an Emergency Server.  Instead, delete the server with }{\b cdinstsv remove.  }{
+ Then run the CDServer Configuration utility to describe a new server, using the Emergency Server check-box option.
+\par }\pard\plain \s1\sb240\sa60\keepn\widctlpar\outlinelevel0\adjustright \b\f1\fs28\kerning28\cgrid {{\*\bkmkstart _Toc305481919}{\*\bkmkstart _Toc305894932}{\*\bkmkstart _Toc316106387}{\*\bkmkstart _Toc316106709}{\*\bkmkstart _Toc316107091}
+{\*\bkmkstart _Toc316176573}{\*\bkmkstart _Toc316261391}{\*\bkmkstart _Toc316356077}{\*\bkmkstart _Toc316357305}\page {\*\bkmkstart _Toc283125123}{\*\bkmkstart _Toc283125379}{\*\bkmkstart _Toc283126751}{\*\bkmkstart _Toc283126958}
+{\*\bkmkstart _Toc283174894}{\*\bkmkstart _Toc283175045}{\*\bkmkstart _Toc283189015}{\*\bkmkstart _Toc283195839}{\*\bkmkstart _Toc283457665}{\*\bkmkstart _Toc285416685}{\*\bkmkstart _Toc285584539}{\*\bkmkstart _Toc285617935}{\*\bkmkstart _Toc285618011}
+{\*\bkmkstart _Toc285618087}{\*\bkmkstart _Toc285618270}{\*\bkmkstart _Toc285618430}{\*\bkmkstart _Toc285618522}{\*\bkmkstart _Toc287853955}{\*\bkmkstart _Toc290957093}{\*\bkmkstart _Toc291299175}{\*\bkmkstart _Toc293214663}{\*\bkmkstart _Toc293214781}
+{\*\bkmkstart _Toc293214940}{\*\bkmkstart _Toc296496450}{\*\bkmkstart _Toc298310860}{\*\bkmkstart _Toc299808854}{\*\bkmkstart _Toc301321817}{\*\bkmkstart _Toc301770804}{\*\bkmkstart _Toc301771294}{\*\bkmkstart _Toc302440489}{\*\bkmkstart _Toc303665111}
+{\*\bkmkstart _Toc304335369}{\*\bkmkstart _Toc305210103}{\*\bkmkstart _Toc305312360}{\*\bkmkstart _Toc305312503}{\*\bkmkstart _Toc305312587}{\*\bkmkstart _Toc305313050}{\*\bkmkstart _Toc305313150}{\*\bkmkstart _Toc305481920}{\*\bkmkstart _Toc305894933}
+{\*\bkmkstart _Toc316106388}{\*\bkmkstart _Toc316106710}{\*\bkmkstart _Toc316107092}{\*\bkmkstart _Toc316176574}{\*\bkmkstart _Toc316261392}{\*\bkmkstart _Toc316356078}{\*\bkmkstart _Toc316357306}{\*\bkmkstart _Toc318177056}{\*\bkmkstart _Toc318178532}
+{\*\bkmkstart _Toc337025922}{\*\bkmkstart _Toc337026037}{\*\bkmkstart _Toc359293558}{\*\bkmkstart _Toc389469618}{\*\bkmkend _Toc305481919}{\*\bkmkend _Toc305894932}{\*\bkmkend _Toc316106387}{\*\bkmkend _Toc316106709}{\*\bkmkend _Toc316107091}
+{\*\bkmkend _Toc316176573}{\*\bkmkend _Toc316261391}{\*\bkmkend _Toc316356077}{\*\bkmkend _Toc316357305}OUTSTANDING PROBLEMS{\*\bkmkend _Toc283125123}{\*\bkmkend _Toc283125379}{\*\bkmkend _Toc283126751}{\*\bkmkend _Toc283126958}{\*\bkmkend _Toc283174894}
+{\*\bkmkend _Toc283175045}{\*\bkmkend _Toc283189015}{\*\bkmkend _Toc283195839}{\*\bkmkend _Toc283457665}{\*\bkmkend _Toc285416685}{\*\bkmkend _Toc285584539}{\*\bkmkend _Toc285617935}{\*\bkmkend _Toc285618011}{\*\bkmkend _Toc285618087}
+{\*\bkmkend _Toc285618270}{\*\bkmkend _Toc285618430}{\*\bkmkend _Toc285618522}{\*\bkmkend _Toc287853955}{\*\bkmkend _Toc290957093}{\*\bkmkend _Toc291299175}{\*\bkmkend _Toc293214663}{\*\bkmkend _Toc293214781}{\*\bkmkend _Toc293214940}
+{\*\bkmkend _Toc296496450}{\*\bkmkend _Toc298310860}{\*\bkmkend _Toc299808854}{\*\bkmkend _Toc301321817}{\*\bkmkend _Toc301770804}{\*\bkmkend _Toc301771294}{\*\bkmkend _Toc302440489}{\*\bkmkend _Toc303665111}{\*\bkmkend _Toc304335369}
+{\*\bkmkend _Toc305210103}{\*\bkmkend _Toc305312360}{\*\bkmkend _Toc305312503}{\*\bkmkend _Toc305312587}{\*\bkmkend _Toc305313050}{\*\bkmkend _Toc305313150}{\*\bkmkend _Toc305481920}{\*\bkmkend _Toc305894933}{\*\bkmkend _Toc316106388}
+{\*\bkmkend _Toc316106710}{\*\bkmkend _Toc316107092}{\*\bkmkend _Toc316176574}{\*\bkmkend _Toc316261392}{\*\bkmkend _Toc316356078}{\*\bkmkend _Toc316357306}{\*\bkmkend _Toc318177056}{\*\bkmkend _Toc318178532}{\*\bkmkend _Toc337025922}
+{\*\bkmkend _Toc337026037}{\*\bkmkend _Toc359293558}{\*\bkmkend _Toc389469618}
+\par }\pard\plain \qj\widctlpar\adjustright \fs20\cgrid {
+\par When you run a Winsock application (such as CDS or its clients), your Internet provider (such as The Microsoft Network) sign-in screen may appear. This behavior occurs when you have a network adapter and a modem installed in your
+ computer and the AutoDial feature is enabled
+\par RESOLUTION 
+\par 
+\par }\pard \qj\li720\widctlpar\adjustright {To prevent this behavior from occurring, follow these steps: 
+\par {\pntext\pard\plain\fs20\cgrid \hich\af0\dbch\af0\loch\f0 1.\tab}}\pard \qj\fi-360\li1080\widctlpar\jclisttab\tx1080{\*\pn \pnlvlbody\ilvl0\ls20\pnrnot0\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}\ls20\adjustright {
+Use the right mouse button to click the Internet icon on your desktop, and then click Properties on the menu that appears.
+\par {\pntext\pard\plain\fs20\cgrid \hich\af0\dbch\af0\loch\f0 2.\tab}}\pard \qj\fi-360\li1080\widctlpar\jclisttab\tx1080{\*\pn \pnlvlbody\ilvl0\ls20\pnrnot0\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}\ls20\adjustright {
+Click the Use AutoDial check box to clear it. 
+\par {\pntext\pard\plain\fs20\cgrid \hich\af0\dbch\af0\loch\f0 3.\tab}}\pard \qj\fi-360\li1080\widctlpar\jclisttab\tx1080{\*\pn \pnlvlbody\ilvl0\ls20\pnrnot0\pndec\pnstart1\pnindent360\pnhang{\pntxta .}}\ls20\adjustright {Click OK. 
+\par }\pard \qj\li720\widctlpar\adjustright {
+\par When you want Internet access, connect using The Microsoft Network desktop icon or your Internet provider icon. 
+\par 
+\par }\pard \qj\widctlpar\adjustright {When upgrading from version 1.3, moa message switch server (moamsw) usually cra
+shes during the install process.   If this brings up Dr. Watson, simply clear it and continue.   This is a known bug in version 1.3 of moamsw.exe and the install process replaces it with a new version.
+\par 
+\par QL will not attempt to use the pager, even on ql comm
+ands that request the pager.  This is due to a bug in Microsoft Visual C++ 4.2 which generally does not properly support the popen function.  Microsoft is working on this problem.  We recommend that the ql user resize the command window and use the scroll
+ bar until a future release makes the pager again available.
+\par 
+\par A CDS client cannot access tables created by other clients unless those tables were created before the client connected to the database server.  This sometimes gives odd results.  For example: 
+\par \tab \ldblquote select prime_key from X \ldblquote   gives \ldblquote table X does not exist\rdblquote 
+\par     immediately followed by:
+\par \tab \ldblquote create table X (prime_key int primary key)\rdblquote   gives \ldblquote Attempt to create duplicate table X\rdblquote .
+\par 
+\par Moa Investigator print function fails on Windows NT 4.0.
+\par 
+\par Documentation about required nightly administration of the CDS server on NT is not clear.
+\par \page 
+\par }\pard\plain \s1\sb240\sa60\keepn\widctlpar\outlinelevel0\adjustright \b\f1\fs28\kerning28\cgrid {{\*\bkmkstart _Toc337026038}{\*\bkmkstart _Toc359293559}{\*\bkmkstart _Toc389469619}CHANGE LOG}{\f2 {\*\bkmkend _Toc337026038}{\*\bkmkend _Toc359293559}
+{\*\bkmkend _Toc389469619}
+\par }\pard\plain \qc\ri-720\sa120\widctlpar\box\brdrs\brdrw60\brsp20 \adjustright \fs20\cgrid {\b\fs24 Mosaic OA Central Data Server "Change & Enhancement" Log
+\par }\pard \ri-720\sa120\widctlpar\box\brdrs\brdrw60\brsp20 \adjustright {\fs24 
+\par }\pard \qc\ri-720\sa120\widctlpar\box\brdrs\brdrw60\brsp20 \adjustright {\fs24 Listed below are all changes implemented in version }{\b\fs24 4.10
+\par }{\fs24 of the }{\b\fs24 mosaic OA}{\fs24  Central Data Server
+\par &
+\par Console Tools  P/N: }{\b\fs24 85-35011-D02}{\fs24 
+\par }\pard \ri-720\sa120\widctlpar\box\brdrs\brdrw60\brsp20 \adjustright {\fs24 
+\par }\pard \qc\ri-720\sa120\widctlpar\box\brdrs\brdrw60\brsp20 \adjustright {\i Note: These changes are listed in chronological order beginning with the latest changes listed first.
+\par }\pard \ri-720\sa120\widctlpar\box\brdrs\brdrw60\brsp20 \adjustright {\f2 
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {8-4-97 CDSV smatch/rmatch fix (bjo)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls26\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls26\adjustright \f1\fs20\cgrid {
+Fixed a problem where the server would crash when trying to compare a non-character field with a smatch/rmatch pattern. PTR#: 97070901, Files:optbl.c
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {8-1-97 CDSV rename table fix (bjo)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls26\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls26\adjustright \f1\fs20\cgrid {
+Rename table did not change the internal file name.  This lead to the potential of trying to create duplicate file names or worse!  Rename now computes the new internal file name based on the new table name.  Files: cdstable.c
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {7-28-97 CDSV enhancement, misc. fixes (bjo)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls26\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls26\adjustright \f1\fs20\cgrid {
+Added the ability to do CDS log r
+ecovery to a select set of tables rather than the entire database.  This is accomplished by listing the tables to recover in the apply log file.  See the CDS notes for more information on this feature. Files: cdsv.c, rollfor.c, rollback.c, cdsinit.c, cdsl
+og.c, logread.c \endash  PTR#95111103
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Fixed a recently introduced problem where CDS would not properly recover a replace with index change. Rollfor.c
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Fixed a problem where CDS would not process rollbacks during recovery. Rollback.c
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Fixed a problem where CDS would complain of a bad log when applying a log that contained create table commands. Logread.c
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \ilvl12\adjustright \b\f1\cgrid {7-18-97 CDSV.exe Fix (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls26\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls26\adjustright \f1\fs20\cgrid {
+Fixed bug which caused a NOT match operation to become a MATCH operation when the pattern was a simple string with no pattern characters.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {7-8-97 moa\\src\\MAKEFILE change (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls26\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls26\adjustright \f1\fs20\cgrid {
+Removed CDS package specific makes and moved them to MakeCDS  to avoid getting the wrong part numbers.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl12\ls0\pnrnot0\pndec }\ilvl12\adjustright \b\f1\cgrid {6-26-97 CDSV minor fixes/enhancements (bjo)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls26\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls26\adjustright \f1\fs20\cgrid {
+out file now contains explicit message when NT application event log is full. File: cdsfatal.c
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Fixed an obscure problem that could cause a cds 1855 error.  Problem would happen when RT has an empty FIXED field (defined with no decimal places \endash 
+ eg: 5.0), increments the field by 0.5, and attempts to insert it into CDS. File: tablist.c, PTR# 96050601
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \ilvl12\adjustright \b\f1\cgrid {6-25-97 CDS client change (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls26\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls26\adjustright \f1\fs20\cgrid {
+cds_udp_port() now returns a negative if it fails rather than calling an exit function (ersysn()).  So now calling programs should check for an error and handle it.  The function cds_udp_port() is exposed in cdscl.dll.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl12\ls0\pnrnot0\pndec }\ilvl12\adjustright \b\f1\cgrid {6-25-97 CDS install fix (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls26\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls26\adjustright \f1\fs20\cgrid {
+Close the program group window before finishing so it won't obscure the completion message.
+\par }\pard\plain \sa120\widctlpar{\*\pn \pnlvlcont\ilvl12\ls0\pnrnot0\pndec }\ilvl12\adjustright \fs20\cgrid {
+\par }{\b\fs24\ul 6-24-97 CDS and CDSODBC R1V4 Checkpoint 9 Complete\tab }{\b\fs24 
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {6-20-97 CDS install fix (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls21\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls21\adjustright \f1\fs20\cgrid {
+Run Drop-1A.exe on NT machines to get rid of control-Z characters at the end of \\etc\\services before running svrcfg.exe to update that file.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {6-20-97 CDS fix for more recovery problems (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls21\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls21\adjustright \f1\fs20\cgrid {
+Don't crash rolling forward a drop table when the table to be dropped already doesn\rquote t exist.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Allow three days of out file instead of only two before discarding it on open.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {6-16-97 CDS fix for duplicate record problem (bjo)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls22\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls22\adjustright \f1\fs20\cgrid {
+Fixed a problem where CDServer could create duplicate records in the database.  The specific problem occurred when CDS recovered after a record replace followed by a replace
+ with index change on the same record.  CDS compression can be used to remove the duplicate records after the index is rebuilt.  PTR# 97052901, files: rollfor.c
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {6-11-97 SVRCFG (CDS configurator) Fixes (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls23\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls23\adjustright \f1\fs20\cgrid {
+Fixed problems dealing with service name suffixes}{\ul 
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}{Use lower case for CDS section names in ddproj.ini
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {6-6-97 QL.exe Fix (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls24\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls24\adjustright \f1\fs20\cgrid {
+Allow the date value "0" for backward compatibility.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {6-05-97 CDS Fix (bjo)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls25\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls25\adjustright \f1\fs20\cgrid {
+Fixed a problem in CDS where CDS would terminate with an out file message: Caught signal 21 and Terminated by signal 21.  This problem was related to a user signing off of the server sometime after compression was run.  PTR# 97060402.  Files: cdscmprs.c
+
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {5-28-97 CDS Fixes (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls18\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls18\adjustright \f1\fs20\cgrid {
+Fixed problem that caused crash in cdsv.exe when project name was longer than 30 characters.}{\ul 
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls19\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls19\adjustright {
+Changed package to not install msvcrt40.dll, to avoid problems on Win95.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls18\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls18\adjustright {
+Fixed bugs in svrcfg.exe and svrcfgh.dll, the CDS configuration utility.  Made enhancements suggested by John Lowry:
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard \s32\fi-360\li720\widctlpar{\*\pn \pnlvlblt\ilvl0\ls18\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls18\adjustright {
+Provide a pick list for project name, based on subdirectories of MOAPROJDIR.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Hide advanced options unless called for by the user.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Show previously configured advanced options when reconfiguring a server.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Fix bugs in showing previously configured UDP port number.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {5-15-97 CDS & RT header modules (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls17\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls17\adjustright \f1\fs20\cgrid {
+Removed cds_errno from rtdef.h.  It is no longer exported.  Use clenv.h instead.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Removed cds_errno as an export from cdserror.h.   It is no longer exported, as of checkpoint 8.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}There is a new function, CdsErrNo(clenv *env), exported by cdscl.dll, which returns the cds_errno value for an environment.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {V1.4.7 here
+\par 4-7-97 CDS Table Rename When Using Multiple CDServers (bjo)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls16\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls16\adjustright \f1\fs20\cgrid {
+When renaming a table while connecting to multiple CDServers, a duplicate table e
+rror would be reported if the new table name existed on ANY of the CDServers.  Changed so that the name only has to be unique on the server with the table that is being renamed.  File: clstubs.c
+\par }\pard\plain \sa120\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \fs20\cgrid {
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {4-7-97 QL.EXE Data Length Validation (bjo)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls16\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls16\adjustright \f1\fs20\cgrid {
+ql has been ch
+anged to validate the length of data being inserted into CDS.  The default action for data larger than the defined field size is to report an error.  Optionally, ql can be set to truncate the excess data or to ignore the length validation and allow the da
+ta into CDS. Files changed: ql.h, ql.c, qldml.c, qlaux.c.  PTR# 97030504 
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Minor change to allow specific index to be displayed on table using named service specification (show indexes on service:table).  Files: ql.c, PTR#: 97032401
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {04-02-97 CDSV change (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls14\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls14\adjustright \f1\fs20\cgrid {
+Create a debug map from the link of cdsv.exe and put it in the distribution.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {3-21-97 CDS Enhancement (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls13\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls13\adjustright \f1\fs20\cgrid {
+When cdsv is started from the command line it shows a minimized window only unless the command line option }{\b \endash W}{ is used.  This addresses PSR# 3968.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {3-20-97 CDS prcapture bug fixes (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls13\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls13\adjustright \f1\fs20\cgrid {
+Fixed print of statistics evoked by the \endash s command line option by using vsprintf() instead of wvsprintf() in misc\\hexdmp.c.   Only vsprintf() supports the %f format.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Get ticks per second from capture file, if available, so prcapture can accurately show the time used per function at the original server machine.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {3-18-97 CDS Enhancement (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls10\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls10\adjustright \f1\fs20\cgrid {
+Added LIST option to cdinstsv.exe.  This is an abbreviated list of the VIEW info plus showing the UDP port number used. 
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {3-17-97 CDS Setup Fixes (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls11\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls11\adjustright \f1\fs20\cgrid {
+Changed svrcfg.exe and svrcfgh.dll to accept only a full path for the cds recovery log file.   This fixes PSR 4000.   The program now tries to show the option previously chosen when re-configuring.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Changed svrcfg.exe handli
+ng of UDP port numbers so that the existing previously configured port number for a server is preserved unless explicitly overridden by the developer.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Changed svrcfg.exe handling of UDP port numbers so that if a user specifies an existing previously conf
+igured port number for a different server, that user gets a warning message and a chance to reconsider the port number.  This fixes PSR #4005.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls12\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls12\adjustright {
+Changed svrcfg.exe to insist on a valid project name.  This fixes PSR #4037.
+\par }\pard \s32\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright {
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {3-17-97 CDS ODBC Enhancement (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls10\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls10\adjustright \f1\fs20\cgrid {
+Added support for SQL ALTER TABLE statement to allow developers to add or drop column definitions for a table.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}ALTER TABLE with ADD column is now supported for variable schema tables to allow use with third party reporting tools like Crystal Reports and MS Access.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {3-12-97 cdsstat.exe Enhancement (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls9\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls9\adjustright \f1\fs20\cgrid {
+Added option \ldblquote \endash C\rdblquote  to show count of current connections.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {3-12-97 ql.exe Enhancement (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls9\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls9\adjustright \f1\fs20\cgrid {
+Added SLEEP verb for use in testing scripts.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {3-12-97 Osql.exe Enhancement (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls9\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls9\adjustright \f1\fs20\cgrid {
+Added SLEEP verb for use in testing scripts.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {3-12-97 ODB.DLL Fix (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls9\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls9\adjustright \f1\fs20\cgrid {
+Fix bugs in setting column precision, especially for timestamp data.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Added to dberrs.h #define MOA_PUT_EMPTY_STRING_AS_NULL 2202, option ID for DBsetConnectOption().
+\par }\pard \s32\widctlpar\adjustright {
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {3-10-97 Osql.exe  changes (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls8\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls8\adjustright \f1\fs20\cgrid {
+Allow semi-colon at end of tables, sqltables, and types requests.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Honor 'commit', 'rollback' and 'begin work' requests.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {3-5-97 CDSV Running as Service Fix (bjo)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls8\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls8\adjustright \f1\fs20\cgrid {
+Fixed a problem where CDSV would fail to run as a service, reporting event information related to a different project than expected for the service.  PTR 97012302, Files: cdsv.c, start.c
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {03-05-97 CDSODBC.dll - Enhancement (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls8\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls8\adjustright \f1\fs20\cgrid {
+Added support for inserting mulitple records, using bound parameter arrays.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Added support for ODBC API function SQLParamOptions() as a part of the array insert support.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {03-04-97 ODB.dll - Enhancement (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls8\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls8\adjustright \f1\fs20\cgrid {
+New client side option MOA_PUT_EMPTY_STRING_AS_NULL for DBsetConnectOption().  The default is FALSE, meaning FT_ASCII fields 
+with empty string values are set to the database as a zero length string.  The trouble with this is that SQL-Server silently converts empty strings to single character blank strings.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {02-28-97 CDS import and export fix/enhancement (bjo)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls8\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls8\adjustright \f1\fs20\cgrid {
+Modified cdsimprt and cdsexprt to support connection to multiple servers.  See cds notes for more details on this feature.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Added -T switch to cdsimprt to allow truncation of ascii and numeric data that exceeds defined field size.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Made cdsexprt and cdsimprt compatible w
+ith previous versions.  Old export files can be imported on current version and export files from current version can be imported on older versions.  Files: imexport.h, cdsimprt.c, cdsexprt.c.  For PTRs: 97022703, 97022704, 97020501, 97012902.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {02-28-97 CDS setup bug fixes (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls8\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls8\adjustright \f1\fs20\cgrid {
+Changed cdinstsv.exe to prevent install when MOAPROJDIR is a remote drive or a RAM drive.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Changed cdsv.exe to prevent logging of superfluous start and stop events.  In particular \ldblquote StartServiceCtrlDispatcher failed\rdblquote  information is 
+no longer written.  It wasn\rquote t helpful.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {02-27-97 CDS bug fixes (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls8\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls8\adjustright \f1\fs20\cgrid {
+Postpone checking for server running on designated machine to allow a mix of machine for different service name suffixes with the same dictionary.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Fixed bug that caused crash in CDS ODBC driver when selecting with a very long projection list.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {02-27-97 CDS ODBC Enhancements (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls8\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls8\adjustright \f1\fs20\cgrid {
+Allow smalldatetype as a column data-type, meaning DATE
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Allow column definition option of NULL, which the default, meaning \lquote allow null value\rquote .
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}support error SQLState 21S01 when insert values list doesn\rquote t match the column list.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Give a more explicit error message when user tries to update current of cursor when that cursor was not defined with a FOR UPDATE clause in the select statement.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {02-27-97 CDS prcaptur.exe bug fix (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls8\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls8\adjustright \f1\fs20\cgrid {
+Fixed bug that caused failure when -S option was used in the command line.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {02-25-97 CDS bug fixes (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls8\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls8\adjustright \f1\fs20\cgrid {
+Use exclusive record update locks on ODBC fetches when reading on an updatable context within a LUW, when the SQL_TXN_ISOLATION option is SQL_TXN_READ_COMMITTED (the default) or higher.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}
+Use exclusive lock inside the server when reading for Update_All() and currently in a LUW and current connection option for concurrency is SQL_TXN_READ_COMMITTED.  That option setting is the default 
+for users of the CDS ODBC driver.   Users of the old interface may set that option too, via SetConnectOption(), but their default is SQL_TXN_READ_UNCOMMITTED.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Wrap the update in a LUW whenever not already in a LUW and the update is a Cds_Update_All() that could affect more than one record.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Set proper SQLState for bad option ID and bad option parm value for SQLSetConnectOption.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Make sure that SQL_TXN_ISOLATION option default value at the server is SQL_TXN_READ_COMMITTED.   (For ODBC clients only).
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Added support for updating a column  to NULL value from ODBC.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Return correct SQLState when given a bad table name on an ODBC INSERT statement.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Return correct SQLState when given a bad primary key for an insert or a bad secondary key for any update.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {02-24-97 CDS QL bug fix (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls8\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls8\adjustright \f1\fs20\cgrid {
+Adjust at run time to not use batch insert on insert from select when the server can\rquote t handle it.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {02-21-97 CDS crash on find_n (bjo)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls8\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls8\adjustright \f1\fs20\cgrid {
+Fixed a problem where CDS could crash on find_n if a previous find_n on the same context failed for some reason.  The example used to produce the failure was encountering an exclusive locked record. Files changed: cdsfind.c. PTR #97021301
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {02-21-97 CDS bug fix (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls8\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls8\adjustright \f1\fs20\cgrid {
+Fixed bug that prevented the closing of a pseudo-connection created during restart general recovery for rollback of an incomplete LUW.   Changed only ccb.c.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {02-14-97 CDS Enhancements (s)
+\par {\pntext\pard\plain\s32 \f14\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls8\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls8\adjustright \f1\fs20\cgrid {\b\fs24 
+Requests for EXCLUSIVE record locks are }{\b\i\fs24 silently}{\b\fs24  downgraded to simple update locks when the lock requests are outside of a Logical Unit of Work.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}{CDS ODBC SQL now supports insert from a query spec as well as from a values list.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {02-13-97 CDS Enhancements (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls8\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls8\adjustright \f1\fs20\cgrid {
+Ordinal numbers in SQL \lquote ORDER BY\rquote  clauses are now supported.  The ordinal number must refer to a column in the projection list.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {02-11-97 CDS Enhancements (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls8\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls8\adjustright \f1\fs20\cgrid {
+Added batch insert function to client and server.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Changed QL to use batch insert when inserting from a selected context.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Changed CDSODBC driver to use batch insert for every insert.  The normal batch size is one.  The batch may contain as many records as will fit in one 64K buffer.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Allow multiple VALUES lists on an SQL insert statement to create multiple rows with one statement.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Allow TEXT as a data type specifier in a create table statement.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Allow user to use dictionary fields from up to 7 different dictionary applications, within a single SQL statement, such as CREATE TABLE.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {02-06-97 CDSODBC.dll bug fixes (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls8\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls8\adjustright \f1\fs20\cgrid {
+Added multi-thread support.   The driver is now \lquote thread safe\rquote .  Fixes PSR 4011.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Detect and report invalid date literals in SQL \lquote where\rquote  clauses.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Cleanup up some other error reporting to return the correct SQLState.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Change parser to allow table_name.index name in DROP INDEX table_name.index_name.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {01-31-97 CDS Two-Phase Commit Fixes (bjo)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls8\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls8\adjustright \f1\fs20\cgrid {
+Made fixes necessary f
+or NT CDServer to pass the two-phase commit tests in the CDS regression test suite.  Prior to these changes, CDS would fail on all two phase commit or rollback attempts.  Changed both CDS and RT. Files: clstubs.c, cmfparms.c, cdslog.c, cds.c, ccb.c, svdof
+unc.c, svsvproc.h, svinit.c, svunpack.c, servnt.c, server.c, svsetup.c.  PTR 96112001, 97011401.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {01-31-97 CDS 873 Causes RT to Crash (bjo)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls8\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls8\adjustright \f1\fs20\cgrid {
+Changed RT to not catastrophe on CDS 873 errors.  Application is now responsible for checking for such errors and taking appropriate action.  File: execcds.c, clstusbs.c.  PTR 96120601
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {01-31-97 CDSODBC.dll bug fixes (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls8\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls8\adjustright \f1\fs20\cgrid {
+Added function SQLNativeSql().  If the parser likes a statement it will return it via SQLNativeSql.   You still can\rquote t see what goes to server execept through prcaptur.exe.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Changed parser to recognize GRANT statements.  Nothing is done with them but now scripts with GRANTs in them can be executed without error.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {01-30-97 CDSODBC.dll bug fixes (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls8\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls8\adjustright \f1\fs20\cgrid {
+don't release the context created for an insert and don't create a new CDS context when the existing stmt->contxt will work for an insert.  This speeds performance on insert.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Announce that only one connection per user is allowed via SQLGetInfo(SQL_ACTIVE_CONNECTIONS).
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {01-28-97 LOGDUMP utility fix (bjo)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls8\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls8\adjustright \f1\fs20\cgrid {
+The CDS logdump utility would crash or report incorrect information when processing some 2-phase commit log records.  It now reports those records properly.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {01-28-97 RT - do not catastrophe on CDS 873 errors (bjo)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls8\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls8\adjustright \f1\fs20\cgrid {Change
+d RT to not catastrophe on CDS 873 (CDS_NOT_IN_LUW) errors.  Any application request for rollback will result in a rollback at all the CDServers that the client is connected to.  The application is responsible for taking the proper action when a rollback 
+occurs.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {01-28-97 ODB.dll - Fix DBbegin() to work with the above fix for LUWs. (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls8\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls8\adjustright \f1\fs20\cgrid {
+Changed DBbegin to work with new cdscl.dll changed in clstubs.c Cds_Rollback().
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {01-28-97 CDSV.exe bug fixes (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls8\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls8\adjustright \f1\fs20\cgrid {
+Fixed bug in displaying debug stuff before connect->ftab was setup.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Fixed bug of incorrectly returning a value from a no_ret function.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {01-28-97 CDSODBC.dll bug fixes (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls8\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls8\adjustright \f1\fs20\cgrid {
+Fixed bugs in parsing and handling hexadecimal (bulk) constants.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {01-27-97 CDSV.exe bug fixes (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls8\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls8\adjustright \f1\fs20\cgrid {
+stop ignoring lengths in comparison of two bulk values.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {01-22-97 mi.exe bug fixes (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Fixed bug that caused mi to crash on an assert in _spawnl() when attempting to run udpinfo.exe.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Fixed bug that caused mi to not find udpinfo.exe when run from a directory where udpinfo.exe did not reside.    [both changes to module network.cpp only]
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {01-20-97 CDSV.exe bug fixes (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Fixed bugs in handling next fetch on a cursor after an update that changed the key of the current record for the index used for the cursor.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {01-15-97 QL.exe (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Fixed bug inserting from one table to another that cause creation of a context name that was too long.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {1-14-97 CBS.exe (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Added and extra 3 bytes for each FT_FIXED decimal field.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {01-06-97 CDSV.exe fixes   (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Allow an 8 character suffix name with a 30 character project name.   Previous version allowed only a total of 34 characters.  Now allow a total of 58 characters.  Published, supported limit is 30 + 8.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Use a case insensitive name search when looking for duplicate table names.  Names weren\rquote t truly case insensitive since we moved to NT from unix.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {12-20-96 CDSV setup fixes and enhancements (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Added an empty wrdview6.opt to the distribution to improve the uninstall.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Changed to not allow selection of moa message switch on win95.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Use c:\\temp, if it exists, as the working directory for moa investigator, to receive mi.log files.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {V1.4.4 checkpoint made here.
+\par 12-18-96 CDSV setup fixes and enhancements (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Fixed bug in svrcfg.exe that prevented upgrade of dictionary field tables with \lquote newflds\rquote  file.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Fixed bug in svrcfg.exe that stopped the moa message switch server.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {12-09-96 CDSV Install fixes and enhancements (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Fixed binary version number info in all programs.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Fixed rcbump to correctly set the binary version number in _v.rc files.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Fixed svrcfg.exe to work correctly with Windows 95.  
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {11-30-96 CDSreasn.exe bug fix (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Fixed bug preventing print of last line in a segment of the out file.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {11-27-96 MKdist.mak ported to msvc 4. (s)
+\par 11-27-96 setup.mak  files ported to msvc 4. (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+moasetup.mak  and moved files from setupcmn to moasetup directory.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}svrcfgh.mak
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}svrcfg.amk
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}ssetuph.mak
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}ssetup.mak
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {11-15-96 QL - disabled pager while popen broke in Visual C 4.2 (bjo)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+QL will not attempt to use the pager, even on ql commands that request the pager.  This is due to a problem in VC 4.2 that generally does not properly support the popen command.  Microsoft is working on this problem.  Recommend that t
+he ql user resize the command window and use the scroll bar until the pager is again available. Changed ql.h, ql.c, qldml.c, and qlaux.c.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {11-09-96 CDS bug fixes (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Terminate the heartbeat thread during MCNClose() if there are no more active connections.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Deregister the class used for the private window in all clients but rt.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {11-04-96 CDS bug fixes (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Fixed a V4 bug in cdsv.exe that caused the server to crash (unrecoverably!) during some node merges and some node split recovery logging.   The changed touched cbtree.h, cbtree.lib and cdscl.dll as well as cdsv.exe.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Fixed a V4 bug in QL.exe that caused it to load incorrectly rotated values from ascii source for FT_IND fields.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {11-04-96 CDSexprt changes (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+More descriptive and informative messages about failures, especially FT_IND translation failures.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Give a second chance on FT_IND translation failures, rotating the integer value before the second try.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {11-01-96 CDS changes (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Changed cdsnight.cmd to include an option for an rdate server.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Changed cdsnight.cmd to use long enough sleep periods to allow the services manager to flush out its time-out queues before restarting or stopping cdsv.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Fixed bug in cdsrtest.ksh to remove a dependency on the location of MOAPROJ.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Added MFC42d.DLL to distribution for use by mi.exe.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {10-21-96 CDS fixes (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Fixed bug in handling superfluous table name qualifiers in selection criteria.  Example: select from TEST where TEST.common:mycolumn < 12.   In previous versions, table name qualifiers on column references were allowed only in join selection criteria.
+
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Changed }{\b is_null}{ and }{\b is_not_null}{ to single operand operators, binding left.  Retained }{\b is_missing}{
+ as allowing and sometimes requiring two operands, with the second operand being a meaningless placeholder.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {10-14-96 CDS enhancements and fixes (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Enable a client to think it has multiple connections to a single server at one push level.  - Added a use count for each connect.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Enable a single client to connect to servers with different interface levels.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Fixed a bug in prcapture\rquote s display of zero length decimal values.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Fixed a bug in prcapture\rquote s display of hexadecimal (bulk) values, so that extra blank lines are not printed.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}New function clFreeEnv() destroys environment object created by clAllocEnv().
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {10-01-96 CDS fix (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Added optional ANSI-SQL cursor fetch behavior.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}New, more flexible and backward compatible interface specification for client/server functions.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Removed cdsv global variable This_connect.  It is now passed as a parameter where needed.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Added two new functions to listmgr.c to reduce the need for malloc() and free() of list heads.
+\par }\pard \s32\widctlpar\adjustright {
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {09-26-96 CDS fix (s)
+\par {\pntext\pard\plain\f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \fi-360\li360\sa120\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \fs20\cgrid {
+Slightly better handling of the Event Log.  Almost all messages are now message #1, which is not optimal.   The event source and message types are not \ldblquote unknown\rdblquote  anymore.
+\par {\pntext\pard\plain\f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard \fi-360\li360\sa120\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright {
+Cdsv.exe automatically sets up the application event log registry values that are required.
+\par {\pntext\pard\plain\f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard \fi-360\li360\sa120\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright {The superfluous \ldblquote 
+Going down at hh:mm:ss message is no longer appended to the event log.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {09-25-96 CDS fix (bjo)
+\par {\pntext\pard\plain\f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \fi-360\li360\sa120\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \fs20\cgrid {
+There was a problem dealing with corrupt indexes.  If the tempdir was null, CDS would attempt to move the corrupt index onto itself.  Now the corrupt index will always have a suffix of id-, rather than idx.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {09-16-96 CDS fix (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Fixed cdinstsv to allow starting servers that are not for MOACURPROJ project by properly getting service registry parameters.
+\par }\pard \s32\widctlpar{\*\pn \pnlvlcont\ilvl12\ls0\pnrnot0\pndec }\ilvl12\adjustright {
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright {
+Enhanced cdsv.exe to halt with a message during initialization  when the tables directory is remotely mounted.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {09-15-96 CDS fix (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {Don
+\rquote t post a NOT_RUN after killing a server because there is already a server running on the same directory.   Followed Bruce Oscarson\rquote s code for R1V2.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {09-13-96 CDS enhancement (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Added more fields used by cdsv to the minimum dictionary in \\moa\\ibamindd.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Extended the newflds file use for upgrading to the V1.4 CDS.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {09-11-96 CDS tcl makefile  fixes (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Changed all executables to use resource for version info and to use cdscl.dll for smaller footprint. 
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Changed to compile and link with MSVC++ 4.2.   Includes changes to DLLs. 
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {09-08-96 CDS fixes (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Support hexadecimal constants in ASCII where clause criteria.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}zero length is same as NULL_VALUE for FT_BULK, FT_DATE, and FT_IND fields.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Fixed bug in comparison of two FT_IND values.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Fixed bug in support of \ldblquote not null\rdblquote  and \ldblquote null Ok\rdblquote  in table definitions.   The bug appeared during insert and update.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Support window handle in cds environment control block on clients.  This allows the CDS processing to use a different window than other parts 
+of a process.   Global window handles are no longer used.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Don\rquote t raise an error when a client closes a context that has no remote (server-side) pointer.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Fixed bug in use of hexdmp() when printing a cds record for debugging.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {09-02-96 CDS fix (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {Fixed
+ bugs in logdump.exe that caused crashes when trying to print database record contents.   Now using WriteFile() instead of printf().
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {08-29-96 CDS log timer (bjo)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Increased the maximum time allowed for the logging thread to complete a log write from 3 seconds to 10.  In some extreme cases, 3 was not enough, and when this timer expires, CDS fails hard (NOT_RUN). 
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {08-23-96 CDS client bug fix (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Fix bug of rotating table buffer size on client side for newly created tables.   Size was wrong only on client side and only for the task that created the table.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {08-05-96 CDS client change (bjo)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Change in client to eliminate possibility of CDS connect request looping when we get an unexpected error code from MCNConnectService.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {08-01-96 CDSimport enhancement (bjo)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Added support for conversion from ASCII to NUMERIC during import.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {07-21-96 CDS  changes (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Fixed usage statement response to cdsclrlg -U.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Added new messages to err_5200 about the new \lquote fields\rquote  table.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Added MSVCR40D.dll to cdsodbc setup.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Added prevention of direct update of the fields meta-table.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}changed cdinstsv, cdsreasn, and prcaptur to use resource for version info.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {06-26-96 CDS  changes (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Increased maximum index trees per table from 20 to 30 on the NT version.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {06-25-96 CDSV.EXE changes (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Added File Manager visible version resource.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {06-25-96 CDS NOTES
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Changed name of manual from CDS NOTES to \ldblquote CDS Programmer\rquote s Reference\rdblquote , as requested by Q/A to avoid confusion with the release notes document.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {06-13-96 CDS Setup fixes (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Added msvc40d.dll to moasrvr.fil because putreg.exe uses it.   The install puts it in \\moa\\bin.  It ordinarily resides in \\winnt35\\system32.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Deleted superfluous include files from moasrvr.fil.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Added cdscl.dll to moasrvr.fil.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Added new fields to ibamindd\\fld file and DDOBJ.*
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard \s32\fi-360\li1080\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright {
+CdsFldSeq INT 4 [ ] SCDEascuRDmpbdh 0 0 0 0 0 0 0 
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}CdsFldNo INT 4 [ ] SCDEascuRDmpbdh 0 0 0 0 0 0 0 
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}CdsApplNo INT 4 [ ] SCDEascuRDmpbdh 0 0 0 0 0 0 0 
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}CdsApplName ASCII 20 [ ] scdeascurdmpbdh 0 0 0 0 0 0 0 
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}CdsFldName ASCII 20 [ ] scdeascurdmpbdh 0 0 0 0 0 0 0
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}CdsNullOk ASCII 1 [ ] SCDEAscurDmpbdh 0 0 0 0 0 0 0
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {06-05-96 CDSCL.DLL changes (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Fixed bug in rollback of deletes, as per Bruce Oscarson in R1V3.  This bug caused server to crash during rollback and recovery.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Fix reentrancy problem in debugging code.  This made it possible to use cdscl.lib for prcaptur.exe.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {04-23-96 CDSV.exe Enhancements  (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Added comparators like, not_like, and is_not_null to PQL for support of ODBC interface.   These comparators are usable through the ASCII interface only (not from OFB).
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\adjustright \b\f1\cgrid {04-23-96 CDSSTAT.exe Enhancement   (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Added -D command line option to tell cdsv to reset debugsw and mcn tracing from ddproj.ini values for CDS_DEBUGSW and CDS_NWLIB.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Changed usage statement for cdsstat in \\moa\\lib\\err_5800.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {04-18-96 CDSV Enhancements (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Added more information to messages about failures of recovery during rollforward from the recover log.   Put more into the event log message to compensate for not having a core dump.   Updated \\moa\\lib\\err_5800 and cds\\rollfor.c
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Improved response to shutdown requests.  Don\rquote t open a new listen if Sv_running = False. changes in servnt.c.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Got rid of DNIX code in ccb.c
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {04-04-96 CDSV Enhancements (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Enhanced the optimizer to recognize comparisons to empty string values for fields in indexes.  Always read the minimum or zero index and base records.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Enhanced the optimizer to recognize IS_MISSING criteria for fields in indexes.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Added more explanation of the optimizer\rquote s index choices when the -E option is used
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Added printing of number of index and base records read when the Explanation level option is relevant and set non-zero.   See CDSNOTES.doc.
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}Increased the maximum number of variables in a criteria expression from 100 to 255.
+\par }\pard\plain \s31\sb240\sa60\keepn\widctlpar\brdrb\brdrs\brdrw15\brsp20 \adjustright \b\f1\cgrid {1-19-96 CDS clients enhancement (CDSCL.DLL) (s)
+\par {\pntext\pard\plain\s32 \f14\fs20\cf10\cgrid \loch\af14\dbch\af0\hich\f14 \'fc\tab}}\pard\plain \s32\fi-360\li360\widctlpar{\*\pn \pnlvlblt\ilvl0\ls6\pnrnot0\pncf10\pnf14\pnstart1\pnindent360\pnhang{\pntxtb \'fc}}\ls6\adjustright \f1\fs20\cgrid {
+Created new dynamic link library, cdscl.dll for all cds clients except rt.  New subdirectory \\moa\\src\\cdscl, new src\\cdscl.mak.
+\par }\pard\plain \s29\qj\keep\keepn\widctlpar\adjustright \f2\fs18\cgrid {
+\par }}

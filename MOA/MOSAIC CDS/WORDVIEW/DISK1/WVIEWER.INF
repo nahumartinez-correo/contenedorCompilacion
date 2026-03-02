@@ -1,0 +1,75 @@
+;*** BEGIN **********************************************************
+;**                                                                **
+;** Automatically generated on: Mon Mar 03 16:57:36 1997           **
+;**                                                                **
+;** Diamond Version: (32) 1.00.0520 (12/16/94)                     **
+;**                                                                **
+;*** BEGIN **********************************************************
+;<disk number>, <disk label>, <file>, <path>
+[Source Media Descriptions]
+ "1","Microsoft Word Viewer 97 Disk 1","Viewer1.cab","..\disk1"
+ "2","Microsoft Word Viewer 97 Disk 2","Viewer2.cab","..\disk2"
+ "3","Microsoft Word Viewer 97 Disk 3","Viewer3.cab","..\disk3"
+ "4","Microsoft Word Viewer 97 Disk 4","Viewer4.cab","..\disk4"
+;************* INF File list *****************
+[Default File Settings]
+"STF_BACKUP" = ""
+"STF_COPY" = "YES"
+"STF_DECOMPRESS" = "CABINET"
+"STF_OVERWRITE" = "OLDER"
+"STF_READONLY" = ""
+"STF_ROOT" = "YES"
+"STF_SETTIME" = "YES"
+"STF_TIME" = ""
+"STF_VITAL" = ""
+"STF_DATE" = "1997-03-03"
+
+[Setup]
+"setup_ini"=  1,SETUP.INI,,,,1997-03-03,!DECOMPRESS,,,,,,,,,149,,,,,
+"setup_tdf"=  1,SETUP.TDF,,,,1997-03-03,!DECOMPRESS,,,,,,,,,84,,,,,
+"acmsetup_exe"=  1,ACMSETUP.EXE,,,,1997-03-03,,1033,,,,setup.exe,!ROOT,,,331776,SYSTEM,,,1.20.0.2402,
+"amcsetup_hlp"=  1,ACMSETUP.HLP,,,,1997-03-03,,,,,,,,,,18397,,,,,
+"mssetup_dll"=  1,MSSETUP.DLL,,,,1997-03-03,,1033,,,,,,,,249344,SYSTEM,,,1.20.0.2402,
+"wviewer_inf"=  1,wviewer.INF,,,,1997-03-03,!DECOMPRESS,,,,,,,,,3802,,,,,
+"viewer_dll"=  1,viewer.DLL,,,,1997-03-03,,1033,,,,,,,,92672,SYSTEM,,,95.6.5.1,
+"viewer_dll"=  1,acmereg.DLL,,,,1997-03-03,,1033,,,,,,,,43008,SYSTEM,,,1.2.0.2,
+
+[System]
+
+[Install]
+"WORDVIEW.EXE"=  2,wordview.exe,,,,1997-03-03,,0,,,,,,,,3492352,,,,8.0.0.3626,
+
+[viewer]
+"INSTALL.TXT"=  3,install.txt,,,,1997-03-03,,,,,,,,,,5216,,,,,
+"LICENSE.TXT"=  1,license.txt,,,,1997-03-03,!DECOMPRESS,,,,,,,,,6018,,,,,
+
+[Shared Files]
+"HLINK_DLL"=  1,hlink.dll,,,,1997-03-03,,0,,,,,,,,71440,SYSTEM,,,1.0.0.3505,
+"HLINKPRX_DLL"=  1,hlinkprx.dll,,,,1997-03-03,,0,,,,,,,,12288,SYSTEM,,,1.0.0.3319,
+"MSO7ENUV_DLL"=  1,msv7enu.dll,,,,1997-03-03,,1033,,,,,,,,229136,SYSTEM,,,8.0.0.3828,
+"MSO97V_DLL"=  1,mso97v.dll,,,,1997-03-03,,0,,,,,,,,1659664,SYSTEM,,,8.0.0.3828,
+"MSORFS_DLL"=  1,msorfs.dll,,,,1997-03-03,,,,,,,,,,16384,SYSTEM,,,,
+"DOCOBJ_DLL"=  1,docobj.dll,,,,1997-03-03,,0,,,,,,,,22016,SYSTEM,,,8.0.0.3314,
+"T2EMBED_DLL"=  2,t2embed.dll,,,,1997-03-03,,0,,,,,,,,216064,SYSTEM,,,0.2.0.21,
+"URLMON_DLL"=  2,urlmon.dll,,,,1997-03-03,,1033,,,,,,,,166160,SYSTEM,,,4.70.0.1215,
+"RICHED20_DLL"=  2,riched20.dll,,,,1997-03-03,,0,,,,,,,,294672,SYSTEM,,,5.0.140.1,
+"WININET_DLL"=  2,wininet.dll,,,,1997-03-03,,1033,,,,,,,,291600,SYSTEM,,,4.70.0.1215,
+"WWINTL_DLL"=  3,wwint32v.dll,,,,1997-03-03,,0,,,,,,,,662016,SYSTEM,,,8.0.0.3626,
+"TAHOMA_TTF"=  3,tahoma.ttf,,,,1997-03-03,,,,,,,,,,105312,,,,1.0.0.0,
+[Remove Files]
+"WINTL32V_DLL"=  1,System\wintl32v.dll,,,!COPY,,,,,,REMOVE,,,,,525824,,,,7.10.0.4310,
+
+[netscape]
+"NPDOC_DLL"=  3,npdoc.dll,,,,1997-03-03,,1033,,,,,,,,22528,,,,2.5.0.8,
+"OLEGPLUG_DLL"=  3,oleplug.dll,,,,1997-03-03,,1033,,,,,,,,294912,,,,2.5.0.8,
+"OLEPLUG_INI"=  4,oleplug.ini,,,,1997-03-03,,,,,,,,,,70,,,,,
+"ERRORMSG_DLL"=  3,errormsg.dll,,,,1997-03-03,,,,,,,,,,197120,,,,,
+
+[Readme]
+  1,LICENSE.TXT,,,,1997-03-03,!DECOMPRESS,,,,,,,,,6018,,,,,
+  1,readme.doc,,,,1997-03-03,,,,,,,,,,849408,,,,,
+;*** END ************************************************************
+;**                                                                **
+;** Automatically generated on: Mon Mar 03 16:57:36 1997           **
+;**                                                                **
+;*** END ************************************************************

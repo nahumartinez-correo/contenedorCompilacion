@@ -1,0 +1,153 @@
+System Requirements for the use of Word Viewer
+ -  A personal computer with an 80386 or higher microprocessor
+ -  4 MB of memory (6 MB recommended)
+ -  3 MB of hard disk space (6MB free for installation only)
+ -  MS-DOS(R) operating system version 3.0 or later
+ -  Microsoft Windows (TM) operating system version 3.1 or later
+ -  Microsoft Mouse or compatible pointing device
+
+To install Word Viewer, please follow these instructions:
+
+1.	Installation of Word Viewer is designed to take place from within 
+	Microsoft Windows.  If Windows is not running, please start it before 
+	continuing.
+
+2.	Make sure to close all applications first, and make sure you are not 
+	running any utilities or virus protection before proceeding.  
+
+3.	Start File Manager.  From Program Manager, this can be done by 
+	double-clicking on the File Manager icon or by choosing Run from the 
+	File menu and typing "winfile.exe" in the dialog box.  
+
+4.	Create a new directory for Word Viewer:  a) Choose File Create 
+	Directory, b) Type in a name (Ex:  "c:\wordview" ), c) Click OK.  
+	Move the WV.EXE file from your download directory into the directory 
+	you just created; Word Viewer will install into that directory.  Run 
+	the WV.EXE program by double-clicking on it in File Manager or by 
+	choosing File Run and typing "wv.exe".
+
+5.	If you are installing off a floppy disk, you can either copy the 
+	WV.EXE program onto your hard disk first, or you can run directly off 
+	the floppy.  Select the directory you wish to install into in File 
+	Manager and choose File Run, "a:wv.exe".
+
+6.	Word Viewer will then automatically expand its files.  These are the 
+	correct file sizes and locations:
+
+	File Name	File Size	Location
+	===================================================
+	vshare.386	   14,933 	\windows\system
+	license.doc	   14,336	Word Viewer directory
+	readme.doc	   33,792	Word Viewer directory
+	sdv.dll	  	  103,904 	Word Viewer directory
+	ttembedv.dll	  105,472 	Word Viewer directory
+	ttembext.dll	    5,280 	Word Viewer directory
+	wordview.exe	1,815,040	Word Viewer directory
+	wrdview6.reg	      504 	Word Viewer directory
+	wwintlv.dll	  369,152	Word Viewer directory
+
+
+7.	To run Word Viewer:  double-click on the WORDVIEW.EXE file in File
+	Manager.
+
+
+========================================================================
+Installing OLE 2.02:
+====================
+Word Viewer requires OLE 2.01 or greater.  If the WV.EXE installation
+program does not find this on your system, it will halt installation.
+You must then install OLE before running WV.EXE again.  You can obtain
+OLE 2.02 from any of the sources described below.  If you ordered Word
+Viewer directly from Microsoft Sales, Disk #2 contains all the required
+files, and you follow the instructions on the disk label.
+
+Note:  If you install Word Viewer, but when you try to run it, you receive
+the following error message: "There is not enough memory to start Word
+Viewer", then you are probably running OLE 2.0.  Follow these instructions
+to install OLE 2.02, and Word Viewer should then load correctly.
+
+
+WW1116: OLE Version 2.02                                      [win3x]
+ID: Q123087    CREATED: 21-NOV-1994   MODIFIED: 29-NOV-1994
+.
+.
+TO OBTAIN THIS APPLICATION NOTE
+===============================
+
+ - On CompuServe, GEnie, and Microsoft OnLine, Application Notes
+   are located in the Microsoft Software Library. You can find
+   WW1116 in the Software Library by searching on the word WW1116,
+   the Q number of this article, or S15010. WW1116 is a compressed,
+   self-extracting file. After you download WW1116, run it to
+   extract the file(s) it contains.
+
+ - Application Notes are available by modem from the Microsoft
+   Download Service (MSDL), which you can reach by calling (206)
+   936-6735. This service is available 24 hours a day, 7 days a week.
+   The highest download speed available is 14,400 bits per second (bps).
+   For more information about using the MSDL, call (800) 936-4200 and
+   follow the prompts. To obtain WW1116, download WW1116.EXE.
+   WW1116.EXE is a compressed, self-extracting file. After you
+   download WW1116, run it to extract the file(s) it contains.
+
+ - On the Internet, Application Notes are located on the Microsoft
+   anonymous ftp server, which you can reach by typing "ftp
+   ftp.microsoft.com" (without the quotation marks) at the ">" command
+   prompt. You can find WW1116.EXE in the SOFTLIB\MSLFILES directory.
+
+ - If you are unable to access the source(s) listed above, you can
+   have this Application Note mailed or faxed to you by calling
+   Microsoft Product Support Services Monday through Friday, 6:00 A.M.
+   to 6:00 P.M. Pacific time at (206) 637-7098. If you are outside the
+   United States, contact the Microsoft subsidiary for your area. To
+   locate your subsidiary, call the Microsoft International Sales
+   Information Center at (206) 936-8661.
+
+
+========================================================================
+Further information:
+====================
+
+While Microsoft Product Services does not provide direct technical 
+support for no charge items such as Word Viewer either via phone or 
+CompuServe, there are a number of no charge options available to you to 
+obtain more technical information about Microsoft products. These 
+include Microsoft FastTips and the Microsoft Knowledge Base. 
+
+Microsoft FastTips
+
+Toll-free, automated information about key Microsoft products. Access
+technical articles (including common questions and answers) via voice,
+fax, and U.S. mail. 
+
+FastTips for Desktop Applications          (800)-936-4100
+
+ - FastTips are available by modem from the Microsoft Download Service
+   (MSDL), which you can reach by calling (206) 936-6735. This service
+   is available 24 hours a day, 7 days a week. The highest download
+   speed available is 14,400 bits per second (bps). For more
+   information about using the MSDL, call (800) 936-4100 and follow
+   the prompts. 
+
+ - On the Internet, FastTips are located on the Microsoft anonymous
+   ftp server, which you can reach by typing "ftp ftp.microsoft.com"
+   (without the quotation marks) at the ">" command prompt.
+
+ - You can have any FastTip mailed or faxed to you from the automated
+   Microsoft FastTips Technical Library, which you can call 24 hours a
+   day, 7 days a week at (800) 936-4100.
+
+ - If you are outside the United States, contact the Microsoft 
+   subsidiary for your area for possible no charge support offerings 
+   such as FastTips. To locate your subsidiary, call Microsoft 
+   International Customer Service at(206) 936-8661.
+
+Microsoft Knowledge Base
+
+This is the primary Microsoft product information source--a database 
+of more than 25,000 detailed articles containing technical information, 
+fix lists and more.  Access via CompuServe, the Internet, GEnie, and 
+Microsoft OnLine.
+
+Copyright 1995 Microsoft Corporation. All rights reserved.
+

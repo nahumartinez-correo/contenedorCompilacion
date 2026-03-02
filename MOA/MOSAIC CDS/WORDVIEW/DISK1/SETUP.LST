@@ -1,0 +1,39 @@
+[Windows 95 Params] 
+	WndTitle   = Microsoft Word Viewer 97
+	WndMess    = Initializing Microsoft Word Viewer 97 for Windows Setup, Please Wait...
+	TmpDirSize  = 2000
+	TmpDirName  = ~msstfqf.t
+	CmdLine     = acmsetup /T wviewer.stf /S %s %s
+	DrvWinClass = Stuff-Shell
+	Require31   = This application requires a newer version of Microsoft Windows.
+	CabinetFile = Viewer1.cab
+
+[Windows 95 Files]
+	@acmsetup.exe = acmsetup.exe
+	@acmsetup.hlp = acmsetup.hlp
+	@mssetup.dll  = mssetup.dll
+	@viewer.dll  = viewer.dll
+	@wviewer.stf  = wviewer.stf
+	wviewer.inf = wviewer.inf
+	@acmereg.dll = acmereg.dll
+	
+
+[NT3.51 Intel Params]
+	WndTitle   = Microsoft Word Viewer 97
+	WndMess    = Initializing Microsoft Word Viewer 97 for Windows Setup, Please Wait...
+	TmpDirSize  = 2000
+	TmpDirName  = ~msstfqf.t
+	CmdLine     = acmsetup /T wviewer.stf /S %s %s
+	DrvWinClass = Stuff-Shell
+	Require31   = This application requires a newer version of Microsoft Windows.
+	CabinetFile = Viewer1.cab
+
+[NT3.51 Intel Files]
+	@acmsetup.exe = acmsetup.exe
+	@acmsetup.hlp = acmsetup.hlp
+	@mssetup.dll  = mssetup.dll
+	@viewer.dll  = viewer.dll
+	@wviewer.stf  = wviewer.stf
+	wviewer.inf = wviewer.inf
+	@acmereg.dll = acmereg.dll
+	
