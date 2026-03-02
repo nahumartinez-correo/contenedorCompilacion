@@ -1,0 +1,1695 @@
+Test to new stderr out	Fri Feb 27 15:07:41
+
+CDS started: 	Fri Feb 27 15:07:41
+
+CDSV.EXE:		cdserver on NT
+Version:       	1.4.13.0, Sun Jun 27 14:11:28 1999
+Binary Version:	1.4.13.0
+Package:       	85-35011-D13, Mosaic OA - CDS Server
+DataDictNo:    	108
+Copyright © 1994-1999 Wang Global Wang Global, all rights reserved
+Opening 'tables' as table #0
+	Fri Feb 27 15:07:41 
+5928: Starting rebuild of tables index	Fri Feb 27 15:07:41
+freelst = 0xa9e6, eoflst = 0xd56e	 Expecting 224 records	Fri Feb 27 15:07:41
+.......last btloc = 0xd48c	Fri Feb 27 15:07:41
+finished rebuilding indexes for tables processed 224 records	Fri Feb 27 15:07:41
+Opening 'indexes' as table #1
+	Fri Feb 27 15:07:41
+5928: Starting rebuild of indexes index	Fri Feb 27 15:07:41
+freelst = 0xa1f6, eoflst = 0x342ea	 Expecting 1085 records	Fri Feb 27 15:07:41
+................................ 1024 records	Fri Feb 27 15:07:41
+.last btloc = 0x34272	Fri Feb 27 15:07:41
+finished rebuilding indexes for indexes processed 1085 records	Fri Feb 27 15:07:41
+Opening 'fields' as table #2
+	Fri Feb 27 15:07:41
+5928: Starting rebuild of fields index	Fri Feb 27 15:07:41
+freelst = 0x0, eoflst = 0xf88	 Expecting 34 records	Fri Feb 27 15:07:41
+.last btloc = 0xf20	Fri Feb 27 15:07:41
+finished rebuilding indexes for fields processed 34 records	Fri Feb 27 15:07:41
+Opening 'AdelCM' as table #56
+	Fri Feb 27 15:07:41
+Opening 'AdelLG' as table #110
+	Fri Feb 27 15:07:41
+Opening 'AdelTB' as table #136
+	Fri Feb 27 15:07:41
+Opening 'AdmRPP_tmp' as table #188
+	Fri Feb 27 15:07:41
+Opening 'AnteTM' as table #100
+	Fri Feb 27 15:07:41
+Opening 'AnulChq' as table #120
+	Fri Feb 27 15:07:41
+Opening 'AutoSec' as table #124
+	Fri Feb 27 15:07:41
+Opening 'AuxCheq' as table #5
+	Fri Feb 27 15:07:41
+Opening 'AuxChkMov' as table #202
+	Fri Feb 27 15:07:41
+Opening 'AuxComp' as table #36
+	Fri Feb 27 15:07:41
+Opening 'AuxEspV' as table #6
+	Fri Feb 27 15:07:41
+Opening 'AuxImpp' as table #153
+	Fri Feb 27 15:07:41
+Opening 'AuxIngBr' as table #32
+	Fri Feb 27 15:07:41
+Opening 'AuxIvaUP' as table #217
+	Fri Feb 27 15:07:41
+Opening 'AuxProdMay' as table #207
+	Fri Feb 27 15:07:41
+Opening 'BenefTmp' as table #70
+	Fri Feb 27 15:07:41
+Opening 'Beneficios' as table #69
+	Fri Feb 27 15:07:41
+Opening 'Bloq_Adic_OC' as table #55
+	Fri Feb 27 15:07:41
+Opening 'CC_BUI' as table #84
+	Fri Feb 27 15:07:41
+Opening 'CC_pedidos' as table #216
+	Fri Feb 27 15:07:41
+Opening 'CaidasChq' as table #125
+	Fri Feb 27 15:07:41
+Opening 'CancelLG' as table #128
+	Fri Feb 27 15:07:41
+Opening 'CancelPED' as table #152
+	Fri Feb 27 15:07:41
+Opening 'Caratulas' as table #66
+	Fri Feb 27 15:07:41
+Opening 'CbPrtAux' as table #34
+	Fri Feb 27 15:07:41
+Opening 'CheqCta' as table #172
+	Fri Feb 27 15:07:41
+Opening 'CheqMov' as table #104
+	Fri Feb 27 15:07:41
+Opening 'CliCC' as table #59
+	Fri Feb 27 15:07:41
+Opening 'CliIBCliMed' as table #20
+	Fri Feb 27 15:07:41
+Opening 'CliIngBr' as table #43
+	Fri Feb 27 15:07:41
+Opening 'CliMed' as table #123
+	Fri Feb 27 15:07:41
+Opening 'CliMedSucu' as table #19
+	Fri Feb 27 15:07:41
+Opening 'CliOca' as table #44
+	Fri Feb 27 15:07:41
+Opening 'ClientesWeb' as table #237
+	Fri Feb 27 15:07:41
+Opening 'CobTB' as table #137
+	Fri Feb 27 15:07:41
+Opening 'CodSeq' as table #48
+	Fri Feb 27 15:07:41
+Opening 'CompPED' as table #162
+	Fri Feb 27 15:07:41
+Opening 'Compromisos' as table #35
+	Fri Feb 27 15:07:41
+Opening 'ControlFact' as table #24
+	Fri Feb 27 15:07:41
+Opening 'CteApTmp' as table #179
+	Fri Feb 27 15:07:41
+Opening 'DenCaja' as table #213
+	Fri Feb 27 15:07:41
+Opening 'DepBuzon' as table #87
+	Fri Feb 27 15:07:41
+Opening 'Desp_BH2_tmp' as table #247
+	Fri Feb 27 15:07:41
+Opening 'DetNCpedEnOrigen' as table #161
+	Fri Feb 27 15:07:41
+Opening 'DetRep' as table #47
+	Fri Feb 27 15:07:41
+Opening 'DetTmp' as table #58
+	Fri Feb 27 15:07:41
+Opening 'DevPza1' as table #175
+	Fri Feb 27 15:07:41
+Opening 'DevPza2' as table #176
+	Fri Feb 27 15:07:41
+Opening 'DevPza3' as table #177
+	Fri Feb 27 15:07:41
+Opening 'DevPza4' as table #178
+	Fri Feb 27 15:07:41
+Opening 'DiaSuc' as table #98
+	Fri Feb 27 15:07:41
+Opening 'DifFact' as table #65
+	Fri Feb 27 15:07:41
+Opening 'DumpRep' as table #42
+	Fri Feb 27 15:07:41
+Opening 'EntPzas_tmp' as table #89
+	Fri Feb 27 15:07:41
+Opening 'EntrPieza' as table #167
+	Fri Feb 27 15:07:41
+Opening 'Escaneos_OL' as table #168
+	Fri Feb 27 15:07:41
+Opening 'ExcepTmp' as table #41
+	Fri Feb 27 15:07:41
+Opening 'FactAudi' as table #233
+	Fri Feb 27 15:07:41
+Opening 'Fact_Incumplida' as table #99
+	Fri Feb 27 15:07:41
+Opening 'FacturasWeb' as table #234
+	Fri Feb 27 15:07:41
+Opening 'FacturasWebRel' as table #235
+	Fri Feb 27 15:07:41
+Opening 'FallosCrem' as table #81
+	Fri Feb 27 15:07:41
+Opening 'FeDeVida' as table #169
+	Fri Feb 27 15:07:41
+Opening 'Franqueadoras' as table #16
+	Fri Feb 27 15:07:41
+Opening 'GStock' as table #75
+	Fri Feb 27 15:07:41
+Opening 'Giros_Limites' as table #111
+	Fri Feb 27 15:07:41
+Opening 'GpoApTmp' as table #154
+	Fri Feb 27 15:07:41
+Opening 'GpoCteTmp' as table #224
+	Fri Feb 27 15:07:41
+Opening 'HabBuzon' as table #186
+	Fri Feb 27 15:07:41
+Opening 'ImpreTmp' as table #63
+	Fri Feb 27 15:07:41
+Opening 'InfoList' as table #227
+	Fri Feb 27 15:07:41
+Opening 'Items_OC' as table #50
+	Fri Feb 27 15:07:41
+Opening 'LimSupEspV' as table #97
+	Fri Feb 27 15:07:41
+Opening 'LineaTmp' as table #225
+	Fri Feb 27 15:07:41
+Opening 'MD5_lg' as table #112
+	Fri Feb 27 15:07:41
+Opening 'MD5_ped' as table #150
+	Fri Feb 27 15:07:41
+Opening 'MPago_aux' as table #118
+	Fri Feb 27 15:07:41
+Opening 'MedioPagoHab' as table #228
+	Fri Feb 27 15:07:41
+Opening 'MedioPagoWeb' as table #240
+	Fri Feb 27 15:07:41
+Opening 'ModPieza_tmp' as table #174
+	Fri Feb 27 15:07:41
+Opening 'MotAgrup' as table #116
+	Fri Feb 27 15:07:41
+Opening 'MovimCta' as table #170
+	Fri Feb 27 15:07:41
+Opening 'NCpedEnOrigen' as table #160
+	Fri Feb 27 15:07:41
+Opening 'NcTable' as table #143
+	Fri Feb 27 15:07:41
+Opening 'NovTT' as table #184
+	Fri Feb 27 15:07:41
+Opening 'NovTTtmp' as table #223
+	Fri Feb 27 15:07:41
+Opening 'OpcFact' as table #206
+	Fri Feb 27 15:07:41
+Opening 'Opc_Items_OC' as table #51
+	Fri Feb 27 15:07:41
+Opening 'OpcionalesWeb' as table #239
+	Fri Feb 27 15:07:41
+Opening 'Orden_Compra' as table #49
+	Fri Feb 27 15:07:41
+Opening 'PEDpend' as table #156
+	Fri Feb 27 15:07:41
+Opening 'PForzTes' as table #105
+	Fri Feb 27 15:07:41
+Opening 'Pagadores' as table #67
+	Fri Feb 27 15:07:41
+Opening 'ParamCCT' as table #129
+	Fri Feb 27 15:07:41
+Opening 'Permisos' as table #115
+	Fri Feb 27 15:07:41
+Opening 'PiezaReenc' as table #244
+	Fri Feb 27 15:07:41
+Opening 'PiezasObs' as table #242
+	Fri Feb 27 15:07:41
+Opening 'PrePaq_tmp' as table #182
+	Fri Feb 27 15:07:41
+Opening 'Presu' as table #45
+	Fri Feb 27 15:07:41
+Opening 'PresuAct' as table #71
+	Fri Feb 27 15:07:41
+Opening 'PresuPag' as table #73
+	Fri Feb 27 15:07:41
+Opening 'ProdVs_tmp' as table #54
+	Fri Feb 27 15:07:41
+Opening 'Prod_Incumplido' as table #101
+	Fri Feb 27 15:07:41
+Opening 'PteTmp' as table #77
+	Fri Feb 27 15:07:41
+Opening 'RSacaTmp' as table #173
+	Fri Feb 27 15:07:41
+Opening 'RecepChk' as table #121
+	Fri Feb 27 15:07:41
+Opening 'RecepCont' as table #83
+	Fri Feb 27 15:07:41
+Opening 'RecepTmp' as table #80
+	Fri Feb 27 15:07:41
+Opening 'RegRPP_tmp' as table #189
+	Fri Feb 27 15:07:41
+Opening 'RegVAP_tmp' as table #144
+	Fri Feb 27 15:07:41
+Opening 'ReguPza_tmp' as table #166
+	Fri Feb 27 15:07:41
+Opening 'Rem_BCNV' as table #53
+	Fri Feb 27 15:07:41
+Opening 'RepAux' as table #46
+	Fri Feb 27 15:07:41
+Opening 'Rep_Exp' as table #95
+	Fri Feb 27 15:07:41
+Opening 'SF1_Cod' as table #185
+	Fri Feb 27 15:07:41
+Opening 'SacasLinTmp' as table #181
+	Fri Feb 27 15:07:41
+Opening 'SacasTmp' as table #155
+	Fri Feb 27 15:07:41
+Opening 'SaldoCta' as table #171
+	Fri Feb 27 15:07:41
+Opening 'ServClient' as table #146
+	Fri Feb 27 15:07:41
+Opening 'ServFact' as table #90
+	Fri Feb 27 15:07:41
+Opening 'SesionGm_cabec' as table #62
+	Fri Feb 27 15:07:41
+Opening 'StockPvAux' as table #29
+	Fri Feb 27 15:07:41
+Opening 'StockpCDD' as table #78
+	Fri Feb 27 15:07:41
+Opening 'StockpCDDHist' as table #79
+	Fri Feb 27 15:07:41
+Opening 'StockpCDD_Aux' as table #76
+	Fri Feb 27 15:07:41
+Opening 'TT_VDI' as table #92
+	Fri Feb 27 15:07:41
+Opening 'TTaux' as table #38
+	Fri Feb 27 15:07:41
+Opening 'TTgiros' as table #4
+	Fri Feb 27 15:07:41
+Opening 'TesChkMov' as table #204
+	Fri Feb 27 15:07:41
+Opening 'TesEspV' as table #85
+	Fri Feb 27 15:07:41
+Opening 'TesEspVMov' as table #86
+	Fri Feb 27 15:07:41
+Opening 'TesoCheq' as table #103
+	Fri Feb 27 15:07:41
+Opening 'TmpDocFis' as table #142
+	Fri Feb 27 15:07:41
+Opening 'TmplMot_aux' as table #122
+	Fri Feb 27 15:07:41
+Opening 'TmplMot_tmp' as table #39
+	Fri Feb 27 15:07:41
+Opening 'TotMedioPago' as table #88
+	Fri Feb 27 15:07:41
+Opening 'TotalTransac' as table #226
+	Fri Feb 27 15:07:41
+Opening 'TotalesSf1' as table #21
+	Fri Feb 27 15:07:41
+Opening 'TranCont' as table #22
+	Fri Feb 27 15:07:41
+Opening 'TranPend' as table #96
+	Fri Feb 27 15:07:41
+Opening 'TranStat' as table #102
+	Fri Feb 27 15:07:41
+Opening 'TransacWeb' as table #238
+	Fri Feb 27 15:07:41
+Opening 'Transf_Banc' as table #93
+	Fri Feb 27 15:07:41
+Opening 'UltMovEspv' as table #106
+	Fri Feb 27 15:07:41
+Opening 'UltMovMerch' as table #94
+	Fri Feb 27 15:07:41
+Opening 'VerTablas' as table #230
+	Fri Feb 27 15:07:41
+Opening 'alertas' as table #140
+	Fri Feb 27 15:07:41
+Opening 'cabec_lg' as table #109
+	Fri Feb 27 15:07:41
+Opening 'cabec_ped' as table #148
+	Fri Feb 27 15:07:41
+Opening 'caidas_CompPED' as table #163
+	Fri Feb 27 15:07:41
+Opening 'cc_seq' as table #215
+	Fri Feb 27 15:07:41
+Opening 'cod_ctrl' as table #158
+	Fri Feb 27 15:07:41
+Opening 'conflicto_CCT_PF' as table #147
+	Fri Feb 27 15:07:41
+Opening 'consultaPzasPed' as table #159
+	Fri Feb 27 15:07:41
+Opening 'control_franq' as table #17
+	Fri Feb 27 15:07:41
+Opening 'conv_productos' as table #139
+	Fri Feb 27 15:07:41
+Opening 'conv_ventas' as table #180
+	Fri Feb 27 15:07:41
+Opening 'conv_ventas_loc' as table #18
+	Fri Feb 27 15:07:41
+Opening 'cupon' as table #131
+	Fri Feb 27 15:07:41
+Opening 'cupon_rep' as table #132
+	Fri Feb 27 15:07:41
+Opening 'cupon_tmp' as table #130
+	Fri Feb 27 15:07:41
+Opening 'estadoPED' as table #157
+	Fri Feb 27 15:07:41
+Opening 'ev_aux' as table #107
+	Fri Feb 27 15:07:41
+Opening 'excep_diferido' as table #251
+	Fri Feb 27 15:07:41
+Opening 'excep_prod_opc' as table #183
+	Fri Feb 27 15:07:41
+Opening 'excep_productos' as table #249
+	Fri Feb 27 15:07:41
+Opening 'excep_tmpCM' as table #252
+	Fri Feb 27 15:07:41
+Opening 'excep_ventas' as table #250
+	Fri Feb 27 15:07:41
+Opening 'excepcion' as table #245
+	Fri Feb 27 15:07:41
+Opening 'girosChqTmp' as table #210
+	Fri Feb 27 15:07:41
+Opening 'girosTmp' as table #209
+	Fri Feb 27 15:07:41
+Opening 'indiceVAP' as table #141
+	Fri Feb 27 15:07:41
+Opening 'items_lg' as table #113
+	Fri Feb 27 15:07:41
+Opening 'jnl_AdelantoChq' as table #117
+	Fri Feb 27 15:07:41
+Opening 'jnl_caidas' as table #205
+	Fri Feb 27 15:07:41
+Opening 'jnl_caidas_ach' as table #126
+	Fri Feb 27 15:07:41
+Opening 'jnl_caidas_cup' as table #133
+	Fri Feb 27 15:07:41
+Opening 'jnl_caidas_gm' as table #64
+	Fri Feb 27 15:07:41
+Opening 'jnl_caidas_lg' as table #119
+	Fri Feb 27 15:07:41
+Opening 'jnl_caidas_ped' as table #151
+	Fri Feb 27 15:07:41
+Opening 'jnl_caidas_pm' as table #72
+	Fri Feb 27 15:07:41
+Opening 'jnl_cheques' as table #57
+	Fri Feb 27 15:07:41
+Opening 'jnl_crem' as table #82
+	Fri Feb 27 15:07:41
+Opening 'jnl_fact_lg' as table #127
+	Fri Feb 27 15:07:41
+Opening 'jnl_facturas' as table #26
+	Fri Feb 27 15:07:41
+Opening 'journal' as table #3
+	Fri Feb 27 15:07:41
+Opening 'leyendaPF' as table #138
+	Fri Feb 27 15:07:41
+Opening 'opc_lg' as table #114
+	Fri Feb 27 15:07:41
+Opening 'profiles' as table #8
+	Fri Feb 27 15:07:41
+Opening 'rem_item' as table #25
+	Fri Feb 27 15:07:41
+Opening 'rem_item_aux' as table #52
+	Fri Feb 27 15:07:41
+Opening 'remitTmp' as table #208
+	Fri Feb 27 15:07:41
+Opening 'remitos' as table #23
+	Fri Feb 27 15:07:41
+Opening 'rend_caj' as table #9
+	Fri Feb 27 15:07:41
+Opening 'rep_doc_ped' as table #164
+	Fri Feb 27 15:07:41
+Opening 'rpp_rep' as table #187
+	Fri Feb 27 15:07:41
+Opening 'sesion_gm' as table #61
+	Fri Feb 27 15:07:41
+Opening 'sesion_lg' as table #108
+	Fri Feb 27 15:07:41
+Opening 'sesion_ped' as table #149
+	Fri Feb 27 15:07:41
+Opening 'simon_caidas' as table #91
+	Fri Feb 27 15:07:41
+Opening 'stockp' as table #68
+	Fri Feb 27 15:07:41
+Opening 'stockpHist' as table #74
+	Fri Feb 27 15:07:41
+Opening 'stockpUP' as table #27
+	Fri Feb 27 15:07:41
+Opening 'stockpUP_lis' as table #33
+	Fri Feb 27 15:07:41
+Opening 'stockpUP_pend' as table #30
+	Fri Feb 27 15:07:41
+Opening 'stockpUP_simp' as table #31
+	Fri Feb 27 15:07:41
+Opening 'stockpUP_tmp' as table #28
+	Fri Feb 27 15:07:41
+Opening 'stockp_recep' as table #37
+	Fri Feb 27 15:07:41
+Opening 'stockp_temp' as table #165
+	Fri Feb 27 15:07:41
+Opening 'subteso' as table #7
+	Fri Feb 27 15:07:41
+Opening 'sucur_act' as table #11
+	Fri Feb 27 15:07:41
+Opening 'teso_bak' as table #13
+	Fri Feb 27 15:07:41
+Opening 'teso_mov' as table #40
+	Fri Feb 27 15:07:41
+Opening 'tesoro' as table #12
+	Fri Feb 27 15:07:41
+Opening 'tot_envio' as table #60
+	Fri Feb 27 15:07:41
+Opening 'totals' as table #15
+	Fri Feb 27 15:07:41
+Opening 'totals_aux' as table #14
+	Fri Feb 27 15:07:41
+Opening 'track_trace' as table #10
+	Fri Feb 27 15:07:41
+Opening 'vap_rep' as table #145
+	Fri Feb 27 15:07:41
+Opening 'web_rep' as table #135
+	Fri Feb 27 15:07:41
+Opening 'web_tmp' as table #134
+	Fri Feb 27 15:07:41
+started recovery log processing: Fri Feb 27 15:07:41 2026
+	Fri Feb 27 15:07:41
+length of last record on log is 34	Fri Feb 27 15:07:41
+finished recovery log processing: Fri Feb 27 15:07:41 2026
+  processed 1 log records	Fri Feb 27 15:07:41
+Fri Feb 27 15:07:41 2026
+Verifying table web_tmp
+Verifying table web_rep
+Verifying table vap_rep
+Verifying table track_trace
+Verifying table totals_aux
+Verifying table totals
+Verifying table tot_envio
+Verifying table tesoro
+Verifying table teso_mov
+Verifying table teso_bak
+Verifying table sucur_act
+Verifying table subteso
+Verifying table stockp_temp
+Verifying table stockp_recep
+Verifying table stockpUP_tmp
+Verifying table stockpUP_simp
+Verifying table stockpUP_pend
+Verifying table stockpUP_lis
+Verifying table stockpUP
+Verifying table stockpHist
+Verifying table stockp
+Verifying table simon_caidas
+Verifying table sesion_ped
+Verifying table sesion_lg
+Verifying table sesion_gm
+Verifying table rpp_rep
+Verifying table rep_doc_ped
+Verifying table rend_caj
+Verifying table remitos
+Verifying table remitTmp
+Verifying table rem_item_aux
+Verifying table rem_item
+Verifying table profiles
+Verifying table opc_lg
+Verifying table leyendaPF
+Verifying table journal
+Verifying table jnl_facturas
+Verifying table jnl_fact_lg
+Verifying table jnl_crem
+Verifying table jnl_cheques
+Verifying table jnl_caidas_pm
+Verifying table jnl_caidas_ped
+Verifying table jnl_caidas_lg
+Verifying table jnl_caidas_gm
+Verifying table jnl_caidas_cup
+Verifying table jnl_caidas_ach
+Verifying table jnl_caidas
+Verifying table jnl_AdelantoChq
+Verifying table items_lg
+Verifying table indiceVAP
+Verifying table girosTmp
+Verifying table girosChqTmp
+Verifying table excepcion
+Verifying table excep_ventas
+Verifying table excep_tmpCM
+Verifying table excep_productos
+Verifying table excep_prod_opc
+Verifying table excep_diferido
+Verifying table ev_aux
+Verifying table estadoPED
+Verifying table cupon_tmp
+Verifying table cupon_rep
+Verifying table cupon
+Verifying table conv_ventas_loc
+Verifying table conv_ventas
+Verifying table conv_productos
+Verifying table control_franq
+Verifying table consultaPzasPed
+Verifying table conflicto_CCT_PF
+Verifying table cod_ctrl
+Verifying table cc_seq
+Verifying table caidas_CompPED
+Verifying table cabec_ped
+Verifying table cabec_lg
+Verifying table alertas
+Verifying table VerTablas
+Verifying table UltMovMerch
+Verifying table UltMovEspv
+Verifying table Transf_Banc
+Verifying table TransacWeb
+Verifying table TranStat
+Verifying table TranPend
+Verifying table TranCont
+Verifying table TotalesSf1
+Verifying table TotalTransac
+Verifying table TotMedioPago
+Verifying table TmplMot_tmp
+Verifying table TmplMot_aux
+Verifying table TmpDocFis
+Verifying table TesoCheq
+Verifying table TesEspVMov
+Verifying table TesEspV
+Verifying table TesChkMov
+Verifying table TTgiros
+Verifying table TTaux
+Verifying table TT_VDI
+Verifying table StockpCDD_Aux
+Verifying table StockpCDDHist
+Verifying table StockpCDD
+Verifying table StockPvAux
+Verifying table SesionGm_cabec
+Verifying table ServFact
+Verifying table ServClient
+Verifying table SaldoCta
+Verifying table SacasTmp
+Verifying table SacasLinTmp
+Verifying table SF1_Cod
+Verifying table Rep_Exp
+Verifying table RepAux
+Verifying table Rem_BCNV
+Verifying table ReguPza_tmp
+Verifying table RegVAP_tmp
+Verifying table RegRPP_tmp
+Verifying table RecepTmp
+Verifying table RecepCont
+Verifying table RecepChk
+Verifying table RSacaTmp
+Verifying table PteTmp
+Verifying table Prod_Incumplido
+Verifying table ProdVs_tmp
+Verifying table PresuPag
+Verifying table PresuAct
+Verifying table Presu
+Verifying table PrePaq_tmp
+Verifying table PiezasObs
+Verifying table PiezaReenc
+Verifying table Permisos
+Verifying table ParamCCT
+Verifying table Pagadores
+Verifying table PForzTes
+Verifying table PEDpend
+Verifying table Orden_Compra
+Verifying table OpcionalesWeb
+Verifying table Opc_Items_OC
+Verifying table OpcFact
+Verifying table NovTTtmp
+Verifying table NovTT
+Verifying table NcTable
+Verifying table NCpedEnOrigen
+Verifying table MovimCta
+Verifying table MotAgrup
+Verifying table ModPieza_tmp
+Verifying table MedioPagoWeb
+Verifying table MedioPagoHab
+Verifying table MPago_aux
+Verifying table MD5_ped
+Verifying table MD5_lg
+Verifying table LineaTmp
+Verifying table LimSupEspV
+Verifying table Items_OC
+Verifying table InfoList
+Verifying table ImpreTmp
+Verifying table HabBuzon
+Verifying table GpoCteTmp
+Verifying table GpoApTmp
+Verifying table Giros_Limites
+Verifying table GStock
+Verifying table Franqueadoras
+Verifying table FeDeVida
+Verifying table FallosCrem
+Verifying table FacturasWebRel
+Verifying table FacturasWeb
+Verifying table Fact_Incumplida
+Verifying table FactAudi
+Verifying table ExcepTmp
+Verifying table Escaneos_OL
+Verifying table EntrPieza
+Verifying table EntPzas_tmp
+Verifying table DumpRep
+Verifying table DifFact
+Verifying table DiaSuc
+Verifying table DevPza4
+Verifying table DevPza3
+Verifying table DevPza2
+Verifying table DevPza1
+Verifying table DetTmp
+Verifying table DetRep
+Verifying table DetNCpedEnOrigen
+Verifying table Desp_BH2_tmp
+Verifying table DepBuzon
+Verifying table DenCaja
+Verifying table CteApTmp
+Verifying table ControlFact
+Verifying table Compromisos
+Verifying table CompPED
+Verifying table CodSeq
+Verifying table CobTB
+Verifying table ClientesWeb
+Verifying table CliOca
+Verifying table CliMedSucu
+Verifying table CliMed
+Verifying table CliIngBr
+Verifying table CliIBCliMed
+Verifying table CliCC
+Verifying table CheqMov
+Verifying table CheqCta
+Verifying table CbPrtAux
+Verifying table Caratulas
+Verifying table CancelPED
+Verifying table CancelLG
+Verifying table CaidasChq
+Verifying table CC_pedidos
+Verifying table CC_BUI
+Verifying table Bloq_Adic_OC
+Verifying table Beneficios
+Verifying table BenefTmp
+Verifying table AuxProdMay
+Verifying table AuxIvaUP
+Verifying table AuxIngBr
+Verifying table AuxImpp
+Verifying table AuxEspV
+Verifying table AuxComp
+Verifying table AuxChkMov
+Verifying table AuxCheq
+Verifying table AutoSec
+Verifying table AnulChq
+Verifying table AnteTM
+Verifying table AdmRPP_tmp
+Verifying table AdelTB
+Verifying table AdelLG
+Verifying table AdelCM
+Verifying table fields
+Verifying table indexes
+Verifying table tables
+Fri Feb 27 15:07:42 2026
+Completed table opens	Fri Feb 27 15:07:42
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:45
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:45
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:45
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:46
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:46
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:46
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:46
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:46
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:46
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:46
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:46
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:46
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:47
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:47
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:47
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:47
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:47
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:47
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:47
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:47
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:47
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:48
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:48
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:48
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:48
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:48
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:48
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:48
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:48
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:48
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:49
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:49
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:49
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:49
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:49
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:49
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:49
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:49
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:49
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:50
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:50
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:50
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:50
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:50
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:50
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:50
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:50
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:51
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:52
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:52
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:52
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:52
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:52
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:52
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:53
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:53
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:53
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:53
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:53
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:53
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:53
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:53
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:54
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:54
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:54
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:54
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:54
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:54
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:54
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:55
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:55
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:55
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:55
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:55
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:55
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:55
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:55
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:55
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:56
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:56
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:56
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:56
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:56
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:56
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:56
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:56
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:57
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:57
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:57
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:57
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:57
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:57
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:57
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:57
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:57
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:58
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:58
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:58
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:58
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:58
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:58
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:58
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:58
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:58
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:59
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:59
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:59
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:59
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:59
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:59
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:59
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:07:59
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:00
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:00
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:00
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:00
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:00
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:00
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:00
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:00
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:00
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:01
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:01
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:01
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:01
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:01
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:01
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:01
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:01
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:02
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:02
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:02
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:02
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:02
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:02
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:02
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:02
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:03
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:03
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:03
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:03
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:03
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:03
+record count = 0
+Opening '___temp' as table #248
+	Fri Feb 27 15:08:03
+record count = 0
+ReadComp() len=-10053, ccb=12c8af8,
+ccb->user=nahumartinez c1274agew0152 8988, count=0	Fri Feb 27 15:08:03
+ReadComp() len=-10053, ccb=12c8a40,
+ccb->user=nahumartinez c1274agew0152 26224, count=0	Fri Feb 27 15:08:14
+Opening '___temp' as table #248
+	Fri Feb 27 15:09:02
+record count = 0
+ReadComp() len=-10053, ccb=12c8988,
+ccb->user=nahumartinez c1274agew0152 22724, count=0	Fri Feb 27 15:09:02
+ReadComp() len=-10053, ccb=12c8af8,
+ccb->user=nahumartinez c1274agew0152 25156, count=0	Fri Feb 27 18:00:02:
+ReadComp() len=-10053, ccb=12c8818,
+ccb->user=Servicios_MOA c1274agew0152 1320, count=0	Sat Feb 28 03:30:24
+ReadComp() len=-10053, ccb=12c8a40,
+ccb->user=Servicios_MOA c1274agew0152 14052, count=0	Sun Mar 01 03:30:42
+ReadComp() len=-10053, ccb=12c8988,
+ccb->user=Servicios_MOA c1274agew0152 15324, count=0	Sun Mar 01 03:30:42
+ReadComp() len=-10053, ccb=12c8818,
+ccb->user=Servicios_MOA c1274agew0152 16272, count=0	Sun Mar 01 03:30:42
+ReadComp() len=-10053, ccb=12c8c68,
+ccb->user=Servicios_MOA c1274agew0152 8464, count=0	Sun Mar 01 03:30:42
+ReadComp() len=-10053, ccb=12c8bb0,
+ccb->user=Servicios_MOA c1274agew0152 30104, count=0	Sun Mar 01 03:30:42
+ReadComp() len=-10053, ccb=12c8af8,
+ccb->user=Servicios_MOA c1274agew0152 29832, count=0	Sun Mar 01 03:30:42
+ReadComp() len=-10053, ccb=12c8a40,
+ccb->user=Servicios_MOA c1274agew0152 27668, count=0	Sun Mar 01 03:30:42
+ReadComp() len=-10053, ccb=12c8988,
+ccb->user=Servicios_MOA c1274agew0152 30252, count=0	Sun Mar 01 03:30:43
+ReadComp() len=-10053, ccb=12c8818,
+ccb->user=Servicios_MOA c1274agew0152 26780, count=0	Sun Mar 01 03:30:43
+ReadComp() len=-10053, ccb=12c8c68,
+ccb->user=Servicios_MOA c1274agew0152 1572, count=0	Sun Mar 01 03:30:44
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:44
+record count = 0
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:44
+record count = 0
+ReadComp() len=-10053, ccb=12c8bb0,
+ccb->user=Servicios_MOA c1274agew0152 10488, count=0	Sun Mar 01 03:30:44
+ReadComp() len=-10053, ccb=12c8af8,
+ccb->user=Servicios_MOA c1274agew0152 19252, count=0	Sun Mar 01 03:30:44
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:44
+record count = 0
+ReadComp() len=-10053, ccb=12c8a40,
+ccb->user=Servicios_MOA c1274agew0152 9680, count=0	Sun Mar 01 03:30:44
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:44
+record count = 0
+ReadComp() len=-10053, ccb=12c8988,
+ccb->user=Servicios_MOA c1274agew0152 8524, count=0	Sun Mar 01 03:30:44
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:44
+record count = 0
+ReadComp() len=-10053, ccb=12c8818,
+ccb->user=Servicios_MOA c1274agew0152 4592, count=0	Sun Mar 01 03:30:44
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:45
+record count = 0
+ReadComp() len=-10053, ccb=12c8c68,
+ccb->user=Servicios_MOA c1274agew0152 19256, count=0	Sun Mar 01 03:30:45
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:45
+record count = 0
+ReadComp() len=-10053, ccb=12c8bb0,
+ccb->user=Servicios_MOA c1274agew0152 19900, count=0	Sun Mar 01 03:30:45
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:45
+record count = 0
+ReadComp() len=-10053, ccb=12c8af8,
+ccb->user=Servicios_MOA c1274agew0152 16040, count=0	Sun Mar 01 03:30:45
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:45
+record count = 0
+ReadComp() len=-10053, ccb=12c8a40,
+ccb->user=Servicios_MOA c1274agew0152 19324, count=0	Sun Mar 01 03:30:45
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:45
+record count = 0
+ReadComp() len=-10053, ccb=12c8988,
+ccb->user=Servicios_MOA c1274agew0152 27120, count=0	Sun Mar 01 03:30:45
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:46
+record count = 0
+ReadComp() len=-10053, ccb=12c8818,
+ccb->user=Servicios_MOA c1274agew0152 26852, count=0	Sun Mar 01 03:30:46
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:46
+record count = 0
+ReadComp() len=-10053, ccb=12c8c68,
+ccb->user=Servicios_MOA c1274agew0152 15628, count=0	Sun Mar 01 03:30:46
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:46
+record count = 0
+ReadComp() len=-10053, ccb=12c8bb0,
+ccb->user=Servicios_MOA c1274agew0152 18116, count=0	Sun Mar 01 03:30:46
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:46
+record count = 0
+ReadComp() len=-10053, ccb=12c8af8,
+ccb->user=Servicios_MOA c1274agew0152 19992, count=0	Sun Mar 01 03:30:46
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:46
+record count = 0
+ReadComp() len=-10053, ccb=12c8a40,
+ccb->user=Servicios_MOA c1274agew0152 2832, count=0	Sun Mar 01 03:30:46
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:47
+record count = 0
+ReadComp() len=-10053, ccb=12c8988,
+ccb->user=Servicios_MOA c1274agew0152 29796, count=0	Sun Mar 01 03:30:47
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:47
+record count = 0
+ReadComp() len=-10053, ccb=12c8818,
+ccb->user=Servicios_MOA c1274agew0152 23944, count=0	Sun Mar 01 03:30:47
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:47
+record count = 0
+ReadComp() len=-10053, ccb=12c8c68,
+ccb->user=Servicios_MOA c1274agew0152 10292, count=0	Sun Mar 01 03:30:47
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:47
+record count = 0
+ReadComp() len=-10053, ccb=12c8bb0,
+ccb->user=Servicios_MOA c1274agew0152 19120, count=0	Sun Mar 01 03:30:47
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:47
+record count = 0
+ReadComp() len=-10053, ccb=12c8af8,
+ccb->user=Servicios_MOA c1274agew0152 11344, count=0	Sun Mar 01 03:30:47
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:48
+record count = 0
+ReadComp() len=-10053, ccb=12c8a40,
+ccb->user=Servicios_MOA c1274agew0152 4300, count=0	Sun Mar 01 03:30:48
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:48
+record count = 0
+ReadComp() len=-10053, ccb=12c8988,
+ccb->user=Servicios_MOA c1274agew0152 24740, count=0	Sun Mar 01 03:30:48
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:48
+record count = 0
+ReadComp() len=-10053, ccb=12c8818,
+ccb->user=Servicios_MOA c1274agew0152 20724, count=0	Sun Mar 01 03:30:48
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:48
+record count = 0
+ReadComp() len=-10053, ccb=12c8c68,
+ccb->user=Servicios_MOA c1274agew0152 19928, count=0	Sun Mar 01 03:30:48
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:48
+record count = 0
+ReadComp() len=-10053, ccb=12c8bb0,
+ccb->user=Servicios_MOA c1274agew0152 22800, count=0	Sun Mar 01 03:30:48
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:48
+record count = 0
+ReadComp() len=-10053, ccb=12c8af8,
+ccb->user=Servicios_MOA c1274agew0152 16612, count=0	Sun Mar 01 03:30:49
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:49
+record count = 0
+ReadComp() len=-10053, ccb=12c8a40,
+ccb->user=Servicios_MOA c1274agew0152 30484, count=0	Sun Mar 01 03:30:49
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:49
+record count = 0
+ReadComp() len=-10053, ccb=12c8988,
+ccb->user=Servicios_MOA c1274agew0152 22908, count=0	Sun Mar 01 03:30:49
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:49
+record count = 0
+ReadComp() len=-10053, ccb=12c8818,
+ccb->user=Servicios_MOA c1274agew0152 11916, count=0	Sun Mar 01 03:30:49
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:49
+record count = 0
+ReadComp() len=-10053, ccb=12c8c68,
+ccb->user=Servicios_MOA c1274agew0152 6084, count=0	Sun Mar 01 03:30:49
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:49
+record count = 0
+ReadComp() len=-10053, ccb=12c8bb0,
+ccb->user=Servicios_MOA c1274agew0152 19520, count=0	Sun Mar 01 03:30:50
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:50
+record count = 0
+ReadComp() len=-10053, ccb=12c8af8,
+ccb->user=Servicios_MOA c1274agew0152 10660, count=0	Sun Mar 01 03:30:50
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:50
+record count = 0
+ReadComp() len=-10053, ccb=12c8a40,
+ccb->user=Servicios_MOA c1274agew0152 29196, count=0	Sun Mar 01 03:30:50
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:50
+record count = 0
+ReadComp() len=-10053, ccb=12c8988,
+ccb->user=Servicios_MOA c1274agew0152 19196, count=0	Sun Mar 01 03:30:50
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:50
+record count = 0
+ReadComp() len=-10053, ccb=12c8818,
+ccb->user=Servicios_MOA c1274agew0152 28392, count=0	Sun Mar 01 03:30:50
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:50
+record count = 0
+ReadComp() len=-10053, ccb=12c8c68,
+ccb->user=Servicios_MOA c1274agew0152 28984, count=0	Sun Mar 01 03:30:51
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:51
+record count = 0
+ReadComp() len=-10053, ccb=12c8bb0,
+ccb->user=Servicios_MOA c1274agew0152 18440, count=0	Sun Mar 01 03:30:51
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:51
+record count = 0
+ReadComp() len=-10053, ccb=12c8af8,
+ccb->user=Servicios_MOA c1274agew0152 30312, count=0	Sun Mar 01 03:30:51
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:51
+record count = 0
+ReadComp() len=-10053, ccb=12c8a40,
+ccb->user=Servicios_MOA c1274agew0152 26768, count=0	Sun Mar 01 03:30:51
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:51
+record count = 0
+ReadComp() len=-10053, ccb=12c8988,
+ccb->user=Servicios_MOA c1274agew0152 19152, count=0	Sun Mar 01 03:30:51
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:51
+record count = 0
+ReadComp() len=-10053, ccb=12c8818,
+ccb->user=Servicios_MOA c1274agew0152 11972, count=0	Sun Mar 01 03:30:52
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:52
+record count = 0
+ReadComp() len=-10053, ccb=12c8c68,
+ccb->user=Servicios_MOA c1274agew0152 18788, count=0	Sun Mar 01 03:30:52
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:52
+record count = 0
+ReadComp() len=-10053, ccb=12c8bb0,
+ccb->user=Servicios_MOA c1274agew0152 21044, count=0	Sun Mar 01 03:30:52
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:52
+record count = 0
+ReadComp() len=-10053, ccb=12c8af8,
+ccb->user=Servicios_MOA c1274agew0152 30264, count=0	Sun Mar 01 03:30:52
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:52
+record count = 0
+ReadComp() len=-10053, ccb=12c8a40,
+ccb->user=Servicios_MOA c1274agew0152 24296, count=0	Sun Mar 01 03:30:52
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:52
+record count = 0
+ReadComp() len=-10053, ccb=12c8988,
+ccb->user=Servicios_MOA c1274agew0152 20912, count=0	Sun Mar 01 03:30:53
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:53
+record count = 0
+ReadComp() len=-10053, ccb=12c8818,
+ccb->user=Servicios_MOA c1274agew0152 29764, count=0	Sun Mar 01 03:30:53
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:53
+record count = 0
+ReadComp() len=-10053, ccb=12c8c68,
+ccb->user=Servicios_MOA c1274agew0152 26804, count=0	Sun Mar 01 03:30:53
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:53
+record count = 0
+ReadComp() len=-10053, ccb=12c8bb0,
+ccb->user=Servicios_MOA c1274agew0152 5952, count=0	Sun Mar 01 03:30:53
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:53
+record count = 0
+ReadComp() len=-10053, ccb=12c8af8,
+ccb->user=Servicios_MOA c1274agew0152 6224, count=0	Sun Mar 01 03:30:53
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:53
+record count = 0
+ReadComp() len=-10053, ccb=12c8a40,
+ccb->user=Servicios_MOA c1274agew0152 6692, count=0	Sun Mar 01 03:30:53
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:54
+record count = 0
+ReadComp() len=-10053, ccb=12c8988,
+ccb->user=Servicios_MOA c1274agew0152 20368, count=0	Sun Mar 01 03:30:54
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:54
+record count = 0
+ReadComp() len=-10053, ccb=12c8818,
+ccb->user=Servicios_MOA c1274agew0152 4384, count=0	Sun Mar 01 03:30:54
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:54
+record count = 0
+ReadComp() len=-10053, ccb=12c8c68,
+ccb->user=Servicios_MOA c1274agew0152 27708, count=0	Sun Mar 01 03:30:54
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:54
+record count = 35
+ReadComp() len=-10053, ccb=12c8bb0,
+ccb->user=Servicios_MOA c1274agew0152 8784, count=0	Sun Mar 01 03:30:54
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:54
+record count = 0
+ReadComp() len=-10053, ccb=12c8af8,
+ccb->user=Servicios_MOA c1274agew0152 27692, count=0	Sun Mar 01 03:30:54
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:55
+record count = 0
+ReadComp() len=-10053, ccb=12c8a40,
+ccb->user=Servicios_MOA c1274agew0152 24484, count=0	Sun Mar 01 03:30:55
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:55
+record count = 0
+ReadComp() len=-10053, ccb=12c8988,
+ccb->user=Servicios_MOA c1274agew0152 29260, count=0	Sun Mar 01 03:30:55
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:55
+record count = 0
+ReadComp() len=-10053, ccb=12c8818,
+ccb->user=Servicios_MOA c1274agew0152 17640, count=0	Sun Mar 01 03:30:55
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:55
+record count = 0
+ReadComp() len=-10053, ccb=12c8c68,
+ccb->user=Servicios_MOA c1274agew0152 28752, count=0	Sun Mar 01 03:30:55
+ReadComp() len=-10053, ccb=12c8bb0,
+ccb->user=Servicios_MOA c1274agew0152 22944, count=0	Sun Mar 01 03:30:55
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:55
+record count = 0
+ReadComp() len=-10053, ccb=12c8af8,
+ccb->user=Servicios_MOA c1274agew0152 25432, count=0	Sun Mar 01 03:30:56
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:56
+record count = 0
+ReadComp() len=-10053, ccb=12c8a40,
+ccb->user=Servicios_MOA c1274agew0152 21280, count=0	Sun Mar 01 03:30:56
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:56
+record count = 0
+ReadComp() len=-10053, ccb=12c8988,
+ccb->user=Servicios_MOA c1274agew0152 21552, count=0	Sun Mar 01 03:30:56
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:56
+record count = 0
+ReadComp() len=-10053, ccb=12c8818,
+ccb->user=Servicios_MOA c1274agew0152 5380, count=0	Sun Mar 01 03:30:56
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:56
+record count = 0
+ReadComp() len=-10053, ccb=12c8c68,
+ccb->user=Servicios_MOA c1274agew0152 23632, count=0	Sun Mar 01 03:30:56
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:56
+record count = 0
+ReadComp() len=-10053, ccb=12c8bb0,
+ccb->user=Servicios_MOA c1274agew0152 8328, count=0	Sun Mar 01 03:30:57
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:57
+record count = 0
+ReadComp() len=-10053, ccb=12c8af8,
+ccb->user=Servicios_MOA c1274agew0152 30028, count=0	Sun Mar 01 03:30:57
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:57
+record count = 0
+ReadComp() len=-10053, ccb=12c8a40,
+ccb->user=Servicios_MOA c1274agew0152 27128, count=0	Sun Mar 01 03:30:57
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:57
+record count = 0
+ReadComp() len=-10053, ccb=12c8988,
+ccb->user=Servicios_MOA c1274agew0152 5792, count=0	Sun Mar 01 03:30:57
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:57
+record count = 0
+ReadComp() len=-10053, ccb=12c8818,
+ccb->user=Servicios_MOA c1274agew0152 27524, count=0	Sun Mar 01 03:30:57
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:58
+record count = 0
+ReadComp() len=-10053, ccb=12c8c68,
+ccb->user=Servicios_MOA c1274agew0152 25988, count=0	Sun Mar 01 03:30:58
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:58
+record count = 0
+ReadComp() len=-10053, ccb=12c8bb0,
+ccb->user=Servicios_MOA c1274agew0152 6092, count=0	Sun Mar 01 03:30:58
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:58
+record count = 0
+ReadComp() len=-10053, ccb=12c8af8,
+ccb->user=Servicios_MOA c1274agew0152 30396, count=0	Sun Mar 01 03:30:58
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:58
+record count = 0
+ReadComp() len=-10053, ccb=12c8a40,
+ccb->user=Servicios_MOA c1274agew0152 7612, count=0	Sun Mar 01 03:30:58
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:58
+record count = 0
+ReadComp() len=-10053, ccb=12c8988,
+ccb->user=Servicios_MOA c1274agew0152 19720, count=0	Sun Mar 01 03:30:58
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:59
+record count = 0
+ReadComp() len=-10053, ccb=12c8818,
+ccb->user=Servicios_MOA c1274agew0152 20360, count=0	Sun Mar 01 03:30:59
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:59
+record count = 0
+ReadComp() len=-10053, ccb=12c8c68,
+ccb->user=Servicios_MOA c1274agew0152 15764, count=0	Sun Mar 01 03:30:59
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:59
+record count = 0
+ReadComp() len=-10053, ccb=12c8bb0,
+ccb->user=Servicios_MOA c1274agew0152 9572, count=0	Sun Mar 01 03:30:59
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:59
+record count = 0
+ReadComp() len=-10053, ccb=12c8af8,
+ccb->user=Servicios_MOA c1274agew0152 21948, count=0	Sun Mar 01 03:30:59
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:59
+record count = 0
+ReadComp() len=-10053, ccb=12c8a40,
+ccb->user=Servicios_MOA c1274agew0152 884, count=0	Sun Mar 01 03:30:59
+Opening '___temp' as table #248
+	Sun Mar 01 03:30:59
+record count = 0
+ReadComp() len=-10053, ccb=12c8988,
+ccb->user=Servicios_MOA c1274agew0152 30184, count=0	Sun Mar 01 03:31:00
+Opening '___temp' as table #248
+	Sun Mar 01 03:31:00
+record count = 0
+ReadComp() len=-10053, ccb=12c8818,
+ccb->user=Servicios_MOA c1274agew0152 5384, count=0	Sun Mar 01 03:31:00
+Opening '___temp' as table #248
+	Sun Mar 01 03:31:00
+record count = 0
+ReadComp() len=-10053, ccb=12c8c68,
+ccb->user=Servicios_MOA c1274agew0152 23744, count=0	Sun Mar 01 03:31:00
+Opening '___temp' as table #248
+	Sun Mar 01 03:31:00
+record count = 0
+ReadComp() len=-10053, ccb=12c8bb0,
+ccb->user=Servicios_MOA c1274agew0152 25812, count=0	Sun Mar 01 03:31:00
+Opening '___temp' as table #248
+	Sun Mar 01 03:31:00
+record count = 0
+ReadComp() len=-10053, ccb=12c8af8,
+ccb->user=Servicios_MOA c1274agew0152 17732, count=0	Sun Mar 01 03:31:00
+Opening '___temp' as table #248
+	Sun Mar 01 03:31:00
+record count = 0
+ReadComp() len=-10053, ccb=12c8a40,
+ccb->user=Servicios_MOA c1274agew0152 30208, count=0	Sun Mar 01 03:31:01
+Opening '___temp' as table #248
+	Sun Mar 01 03:31:01
+record count = 0
+ReadComp() len=-10053, ccb=12c8988,
+ccb->user=Servicios_MOA c1274agew0152 10360, count=0	Sun Mar 01 03:31:01
+Opening '___temp' as table #248
+	Sun Mar 01 03:31:01
+record count = 0
+ReadComp() len=-10053, ccb=12c8818,
+ccb->user=Servicios_MOA c1274agew0152 19548, count=0	Sun Mar 01 03:31:01
+Opening '___temp' as table #248
+	Sun Mar 01 03:31:01
+record count = 0
+ReadComp() len=-10053, ccb=12c8c68,
+ccb->user=Servicios_MOA c1274agew0152 19680, count=0	Sun Mar 01 03:31:01
+Opening '___temp' as table #248
+	Sun Mar 01 03:31:01
+record count = 0
+ReadComp() len=-10053, ccb=12c8bb0,
+ccb->user=Servicios_MOA c1274agew0152 23308, count=0	Sun Mar 01 03:31:01
+Opening '___temp' as table #248
+	Sun Mar 01 03:31:01
+record count = 0
+ReadComp() len=-10053, ccb=12c8af8,
+ccb->user=Servicios_MOA c1274agew0152 8404, count=0	Sun Mar 01 03:31:01
+Opening '___temp' as table #248
+	Sun Mar 01 03:31:02
+record count = 0
+ReadComp() len=-10053, ccb=12c8a40,
+ccb->user=Servicios_MOA c1274agew0152 22252, count=0	Sun Mar 01 03:31:02
+Opening '___temp' as table #248
+	Sun Mar 01 03:31:02
+record count = 0
+ReadComp() len=-10053, ccb=12c8988,
+ccb->user=Servicios_MOA c1274agew0152 24820, count=0	Sun Mar 01 03:31:02
+Opening '___temp' as table #248
+	Sun Mar 01 03:31:02
+record count = 0
+ReadComp() len=-10053, ccb=12c8818,
+ccb->user=Servicios_MOA c1274agew0152 24388, count=0	Sun Mar 01 03:31:02
+Opening '___temp' as table #248
+	Sun Mar 01 03:31:02
+record count = 0
+ReadComp() len=-10053, ccb=12c8c68,
+ccb->user=Servicios_MOA c1274agew0152 8620, count=0	Sun Mar 01 03:31:02
+Opening '___temp' as table #248
+	Sun Mar 01 03:31:02
+record count = 0
+ReadComp() len=-10053, ccb=12c8bb0,
+ccb->user=Servicios_MOA c1274agew0152 23840, count=0	Sun Mar 01 03:31:02
+Opening '___temp' as table #248
+	Sun Mar 01 03:31:03
+record count = 0
+ReadComp() len=-10053, ccb=12c8af8,
+ccb->user=Servicios_MOA c1274agew0152 28164, count=0	Sun Mar 01 03:31:03
+Opening '___temp' as table #248
+	Sun Mar 01 03:31:03
+record count = 0
+ReadComp() len=-10053, ccb=12c8a40,
+ccb->user=Servicios_MOA c1274agew0152 2796, count=0	Sun Mar 01 03:31:03
+Opening '___temp' as table #248
+	Sun Mar 01 03:31:03
+record count = 0
+ReadComp() len=-10053, ccb=12c8988,
+ccb->user=Servicios_MOA c1274agew0152 20640, count=0	Sun Mar 01 03:31:03
+Opening '___temp' as table #248
+	Sun Mar 01 03:31:03
+record count = 0
+ReadComp() len=-10053, ccb=12c8818,
+ccb->user=Servicios_MOA c1274agew0152 28972, count=0	Sun Mar 01 03:31:03
+Opening '___temp' as table #248
+	Sun Mar 01 03:31:03
+record count = 0
+ReadComp() len=-10053, ccb=12c8c68,
+ccb->user=Servicios_MOA c1274agew0152 19000, count=0	Sun Mar 01 03:31:03
+Opening '___temp' as table #248
+	Sun Mar 01 03:31:04
+record count = 0
+ReadComp() len=-10053, ccb=12c8bb0,
+ccb->user=Servicios_MOA c1274agew0152 3232, count=0	Sun Mar 01 03:31:04
+Opening '___temp' as table #248
+	Sun Mar 01 03:31:04
+record count = 0
+ReadComp() len=-10053, ccb=12c8af8,
+ccb->user=Servicios_MOA c1274agew0152 27204, count=0	Sun Mar 01 03:31:04
+Opening '___temp' as table #248
+	Sun Mar 01 03:31:04
+record count = 0
+ReadComp() len=-10053, ccb=12c8a40,
+ccb->user=Servicios_MOA c1274agew0152 26916, count=0	Sun Mar 01 03:31:04
+Opening '___temp' as table #248
+	Sun Mar 01 03:31:04
+record count = 0
+ReadComp() len=-10053, ccb=12c8988,
+ccb->user=Servicios_MOA c1274agew0152 17684, count=0	Sun Mar 01 03:31:04

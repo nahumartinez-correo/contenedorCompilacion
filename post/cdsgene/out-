@@ -1,0 +1,2518 @@
+
+CDS started: 	Fri Feb 27 15:05:34
+
+CDSV.EXE:		cdserver on NT
+Version:       	1.4.13.0, Sun Jun 27 14:11:28 1999
+Binary Version:	1.4.13.0
+Package:       	85-35011-D13, Mosaic OA - CDS Server
+DataDictNo:    	108
+Copyright © 1994-1999 Wang Global Wang Global, all rights reserved
+Opening 'tables' as table #0
+	Fri Feb 27 15:05:34 
+5928: Starting rebuild of tables index	Fri Feb 27 15:05:34
+freelst = 0x3288, eoflst = 0x9f76	 Expecting 208 records	Fri Feb 27 15:05:34
+......last btloc = 0x9edc	Fri Feb 27 15:05:34
+finished rebuilding indexes for tables processed 208 records	Fri Feb 27 15:05:34
+Opening 'indexes' as table #1
+	Fri Feb 27 15:05:34
+5928: Starting rebuild of indexes index	Fri Feb 27 15:05:34
+freelst = 0x24f68, eoflst = 0x25afa	 Expecting 486 records	Fri Feb 27 15:05:34
+...............last btloc = 0x25a72	Fri Feb 27 15:05:34
+finished rebuilding indexes for indexes processed 486 records	Fri Feb 27 15:05:34
+Opening 'fields' as table #2
+	Fri Feb 27 15:05:34
+5928: Starting rebuild of fields index	Fri Feb 27 15:05:34À
+freelst = 0x0, eoflst = 0xf88	 Expecting 34 records	Fri Feb 27 15:05:34
+.last btloc = 0xf20	Fri Feb 27 15:05:34
+finished rebuilding indexes for fields processed 34 records	Fri Feb 27 15:05:34
+5927: already rebuilt index for fields	Fri Feb 27 15:05:34
+Opening 'AcrePerc' as table #93
+	Fri Feb 27 15:05:34
+5928: Starting rebuild of AcrePerc index	Fri Feb 27 15:05:34
+freelst = 0x0, eoflst = 0xf0	 Expecting 2 records	Fri Feb 27 15:05:34
+last btloc = 0x98	Fri Feb 27 15:05:34
+finished rebuilding indexes for AcrePerc processed 2 records	Fri Feb 27 15:05:34
+Opening 'AperCO' as table #57
+	Fri Feb 27 15:05:34
+5928: Starting rebuild of AperCO index	Fri Feb 27 15:05:34
+freelst = 0x0, eoflst = 0xf6	 Expecting 5 records	Fri Feb 27 15:05:34
+last btloc = 0xda	Fri Feb 27 15:05:34
+finished rebuilding indexes for AperCO processed 5 records	Fri Feb 27 15:05:34
+Opening 'Apertura' as table #58
+	Fri Feb 27 15:05:34
+5928: Starting rebuild of Apertura index	Fri Feb 27 15:05:34
+freelst = 0x0, eoflst = 0x100	 Expecting 5 records	Fri Feb 27 15:05:34
+last btloc = 0xdc	Fri Feb 27 15:05:34
+finished rebuilding indexes for Apertura processed 5 records	Fri Feb 27 15:05:34
+Opening 'AuxCatel' as table #145
+	Fri Feb 27 15:05:34
+5928: Starting rebuild of AuxCatel index	Fri Feb 27 15:05:34
+freelst = 0x20, eoflst = 0x11c	 Expecting 0 records	Fri Feb 27 15:05:34
+last btloc = 0x0	Fri Feb 27 15:05:34ÿ
+finished rebuilding indexes for AuxCatel processed 0 records	Fri Feb 27 15:05:34
+Opening 'AuxIva' as table #129
+	Fri Feb 27 15:05:34
+5928: Starting rebuild of AuxIva index	Fri Feb 27 15:05:34
+freelst = 0x0, eoflst = 0x1430	 Expecting 63 records	Fri Feb 27 15:05:34
+.last btloc = 0x13f6	Fri Feb 27 15:05:34
+finished rebuilding indexes for AuxIva processed 63 records	Fri Feb 27 15:05:34
+Opening 'BR_adt_br' as table #3
+	Fri Feb 27 15:05:34
+5928: Starting rebuild of BR_adt_br index	Fri Feb 27 15:05:34
+freelst = 0x738fe, eoflst = 0xc9da0	 Expecting 2080 records	Fri Feb 27 15:05:34
+................................ 1024 records	Fri Feb 27 15:05:34
+................................ 2048 records	Fri Feb 27 15:05:35
+.last btloc = 0xc9c06	Fri Feb 27 15:05:35
+finished rebuilding indexes for BR_adt_br processed 2080 records	Fri Feb 27 15:05:35
+Opening 'BR_transp' as table #170
+	Fri Feb 27 15:05:35
+5928: Starting rebuild of BR_transp index	Fri Feb 27 15:05:35
+freelst = 0x0, eoflst = 0x48	 Expecting 1 records	Fri Feb 27 15:05:35
+last btloc = 0x2c	Fri Feb 27 15:05:35
+finished rebuilding indexes for BR_transp processed 1 records	Fri Feb 27 15:05:35
+Opening 'CPCor' as table #59
+	Fri Feb 27 15:05:35
+5928: Starting rebuild of CPCor index	Fri Feb 27 15:05:35
+freelst = 0x0, eoflst = 0x20	 Expecting 0 records	Fri Feb 27 15:05:35
+last btloc = 0x0	Fri Feb 27 15:05:35
+finished rebuilding indexes for CPCor processed 0 records	Fri Feb 27 15:05:35
+Opening 'CTP' as table #60
+	Fri Feb 27 15:05:35
+5928: Starting rebuild of CTP index	Fri Feb 27 15:05:35
+freelst = 0x0, eoflst = 0x80e	 Expecting 33 records	Fri Feb 27 15:05:35
+.last btloc = 0x7da	Fri Feb 27 15:05:35
+finished rebuilding indexes for CTP processed 33 records	Fri Feb 27 15:05:35
+Opening 'CaiRemito' as table #51
+	Fri Feb 27 15:05:35
+5928: Starting rebuild of CaiRemito index	Fri Feb 27 15:05:35
+freelst = 0x0, eoflst = 0x2a0	 Expecting 10 records	Fri Feb 27 15:05:35
+last btloc = 0x26c	Fri Feb 27 15:05:35
+finished rebuilding indexes for CaiRemito processed 10 records	Fri Feb 27 15:05:35
+Opening 'CajaBuzon' as table #61
+	Fri Feb 27 15:05:35
+5928: Starting rebuild of CajaBuzon index	Fri Feb 27 15:05:35
+freelst = 0x0, eoflst = 0x2fb4	 Expecting 287 records	Fri Feb 27 15:05:35
+........last btloc = 0x2f9a	Fri Feb 27 15:05:35
+finished rebuilding indexes for CajaBuzon processed 287 records	Fri Feb 27 15:05:35
+Opening 'CajaProd' as table #39
+	Fri Feb 27 15:05:35
+5928: Starting rebuild of CajaProd index	Fri Feb 27 15:05:35
+freelst = 0x7ba, eoflst = 0xa74	 Expecting 11 records	Fri Feb 27 15:05:35
+last btloc = 0xa4c	Fri Feb 27 15:05:35
+finished rebuilding indexes for CajaProd processed 11 records	Fri Feb 27 15:05:35
+Opening 'CatIngBr' as table #94
+	Fri Feb 27 15:05:35
+5928: Starting rebuild of CatIngBr index	Fri Feb 27 15:05:35
+freelst = 0x0, eoflst = 0xd2	 Expecting 3 records	Fri Feb 27 15:05:35
+last btloc = 0xa4	Fri Feb 27 15:05:35
+finished rebuilding indexes for CatIngBr processed 3 records	Fri Feb 27 15:05:35
+Opening 'CatIva' as table #95
+	Fri Feb 27 15:05:35
+5928: Starting rebuild of CatIva index	Fri Feb 27 15:05:35
+freelst = 0x0, eoflst = 0x26a	 Expecting 6 records	Fri Feb 27 15:05:35
+last btloc = 0x20e	Fri Feb 27 15:05:35
+finished rebuilding indexes for CatIva processed 6 records	Fri Feb 27 15:05:35
+Opening 'CheqRech' as table #130
+	Fri Feb 27 15:05:35
+5928: Starting rebuild of CheqRech index	Fri Feb 27 15:05:35
+freelst = 0x0, eoflst = 0x126	 Expecting 1 records	Fri Feb 27 15:05:35
+last btloc = 0x2c	Fri Feb 27 15:05:35
+finished rebuilding indexes for CheqRech processed 1 records	Fri Feb 27 15:05:35
+Opening 'CheqRob' as table #178
+	Fri Feb 27 15:05:35
+5928: Starting rebuild of CheqRob index	Fri Feb 27 15:05:35
+freelst = 0x0, eoflst = 0x20	 Expecting 0 records	Fri Feb 27 15:05:35
+last btloc = 0x0	Fri Feb 27 15:05:35
+finished rebuilding indexes for CheqRob processed 0 records	Fri Feb 27 15:05:35
+Opening 'CliIBUP' as table #131
+	Fri Feb 27 15:05:35
+5928: Starting rebuild of CliIBUP index	Fri Feb 27 15:05:35
+freelst = 0x0, eoflst = 0x4ae1a	 Expecting 2572 records	Fri Feb 27 15:05:35
+................................ 1024 records	Fri Feb 27 15:05:35
+................................ 2048 records	Fri Feb 27 15:05:35
+................last btloc = 0x4adb0	Fri Feb 27 15:05:35
+finished rebuilding indexes for CliIBUP processed 2572 records	Fri Feb 27 15:05:35
+Opening 'CliMay_crem' as table #184
+	Fri Feb 27 15:05:35
+5928: Starting rebuild of CliMay_crem index	Fri Feb 27 15:05:35
+freelst = 0x0, eoflst = 0x27bc	 Expecting 19 records	Fri Feb 27 15:05:35
+last btloc = 0x25b6	Fri Feb 27 15:05:35
+finished rebuilding indexes for CliMay_crem processed 19 records	Fri Feb 27 15:05:35
+Opening 'CliUP' as table #111
+	Fri Feb 27 15:05:35
+5928: Starting rebuild of CliUP index	Fri Feb 27 15:05:35
+freelst = 0x0, eoflst = 0x16e44a	 Expecting 3689 records	Fri Feb 27 15:05:35
+................................ 1024 records	Fri Feb 27 15:05:35
+................................ 2048 records	Fri Feb 27 15:05:36
+................................ 3072 records	Fri Feb 27 15:05:36
+...................last btloc = 0x16e2d2	Fri Feb 27 15:05:36
+finished rebuilding indexes for CliUP processed 3689 records	Fri Feb 27 15:05:36
+Opening 'CodInt' as table #96
+	Fri Feb 27 15:05:36
+5928: Starting rebuild of CodInt index	Fri Feb 27 15:05:36
+freelst = 0x736, eoflst = 0x814	 Expecting 27 records	Fri Feb 27 15:05:36
+last btloc = 0x7ea	Fri Feb 27 15:05:36
+finished rebuilding indexes for CodInt processed 27 records	Fri Feb 27 15:05:36
+Opening 'CodPost' as table #62
+	Fri Feb 27 15:05:36
+5928: Starting rebuild of CodPost index	Fri Feb 27 15:05:36
+freelst = 0x0, eoflst = 0x236f8e	 Expecting 23092 records	Fri Feb 27 15:05:36
+................................ 1024 records	Fri Feb 27 15:05:36
+................................ 2048 records	Fri Feb 27 15:05:36
+................................ 3072 records	Fri Feb 27 15:05:36
+................................ 4096 records	Fri Feb 27 15:05:36
+................................ 5120 records	Fri Feb 27 15:05:36
+................................ 6144 records	Fri Feb 27 15:05:37
+................................ 7168 records	Fri Feb 27 15:05:37
+................................ 8192 records	Fri Feb 27 15:05:37
+................................ 9216 records	Fri Feb 27 15:05:37
+................................ 10240 records	Fri Feb 27 15:05:37
+................................ 11264 records	Fri Feb 27 15:05:37
+................................ 12288 records	Fri Feb 27 15:05:37
+................................ 13312 records	Fri Feb 27 15:05:38
+................................ 14336 records	Fri Feb 27 15:05:38
+................................ 15360 records	Fri Feb 27 15:05:38
+................................ 16384 records	Fri Feb 27 15:05:38
+................................ 17408 records	Fri Feb 27 15:05:38
+................................ 18432 records	Fri Feb 27 15:05:38
+................................ 19456 records	Fri Feb 27 15:05:39
+................................ 20480 records	Fri Feb 27 15:05:39
+................................ 21504 records	Fri Feb 27 15:05:39
+................................ 22528 records	Fri Feb 27 15:05:39
+.................last btloc = 0x236f3c	Fri Feb 27 15:05:39
+finished rebuilding indexes for CodPost processed 23092 records	Fri Feb 27 15:05:39
+Opening 'CodRespAdic' as table #180
+	Fri Feb 27 15:05:39
+5928: Starting rebuild of CodRespAdic index	Fri Feb 27 15:05:39
+freelst = 0x0, eoflst = 0x714	 Expecting 18 records	Fri Feb 27 15:05:39
+last btloc = 0x6bc	Fri Feb 27 15:05:39
+finished rebuilding indexes for CodRespAdic processed 18 records	Fri Feb 27 15:05:39
+Opening 'CodTrack' as table #112
+	Fri Feb 27 15:05:39
+5928: Starting rebuild of CodTrack index	Fri Feb 27 15:05:39
+freelst = 0x11a8, eoflst = 0x1688	 Expecting 65 records	Fri Feb 27 15:05:39
+..last btloc = 0x163a	Fri Feb 27 15:05:39
+finished rebuilding indexes for CodTrack processed 65 records	Fri Feb 27 15:05:39
+Opening 'CodTrackTx' as table #185
+	Fri Feb 27 15:05:39
+5928: Starting rebuild of CodTrackTx index	Fri Feb 27 15:05:39
+freelst = 0x0, eoflst = 0x20	 Expecting 0 records	Fri Feb 27 15:05:39
+last btloc = 0x0	Fri Feb 27 15:05:39
+finished rebuilding indexes for CodTrackTx processed 0 records	Fri Feb 27 15:05:39
+Opening 'Cod_AFJP' as table #173
+	Fri Feb 27 15:05:39
+5928: Starting rebuild of Cod_AFJP index	Fri Feb 27 15:05:39
+freelst = 0x0, eoflst = 0x472	 Expecting 19 records	Fri Feb 27 15:05:39
+last btloc = 0x44a	Fri Feb 27 15:05:39
+finished rebuilding indexes for Cod_AFJP processed 19 records	Fri Feb 27 15:05:39
+Opening 'Combos' as table #154
+	Fri Feb 27 15:05:39
+5928: Starting rebuild of Combos index	Fri Feb 27 15:05:39
+freelst = 0x0, eoflst = 0x20	 Expecting 0 records	Fri Feb 27 15:05:39
+last btloc = 0x0	Fri Feb 27 15:05:39
+finished rebuilding indexes for Combos processed 0 records	Fri Feb 27 15:05:39
+Opening 'CompConc' as table #161
+	Fri Feb 27 15:05:39
+5928: Starting rebuild of CompConc index	Fri Feb 27 15:05:39
+freelst = 0x0, eoflst = 0x8a	 Expecting 2 records	Fri Feb 27 15:05:39
+last btloc = 0x62	Fri Feb 27 15:05:39
+finished rebuilding indexes for CompConc processed 2 records	Fri Feb 27 15:05:39
+Opening 'CompItem' as table #162
+	Fri Feb 27 15:05:39
+5928: Starting rebuild of CompItem index	Fri Feb 27 15:05:39
+freelst = 0x0, eoflst = 0xa8	 Expecting 2 records	Fri Feb 27 15:05:39
+last btloc = 0x70	Fri Feb 27 15:05:39
+finished rebuilding indexes for CompItem processed 2 records	Fri Feb 27 15:05:39
+Opening 'CompSubItem' as table #163
+	Fri Feb 27 15:05:39
+5928: Starting rebuild of CompSubItem index	Fri Feb 27 15:05:39
+freelst = 0x0, eoflst = 0x2be	 Expecting 10 records	Fri Feb 27 15:05:39
+last btloc = 0x28e	Fri Feb 27 15:05:39
+finished rebuilding indexes for CompSubItem processed 10 records	Fri Feb 27 15:05:39
+Opening 'ContCombo' as table #158
+	Fri Feb 27 15:05:39
+5928: Starting rebuild of ContCombo index	Fri Feb 27 15:05:39
+freelst = 0x0, eoflst = 0x20	 Expecting 0 records	Fri Feb 27 15:05:39
+last btloc = 0x0	Fri Feb 27 15:05:39
+finished rebuilding indexes for ContCombo processed 0 records	Fri Feb 27 15:05:39
+Opening 'CorDest' as table #63
+	Fri Feb 27 15:05:39
+5928: Starting rebuild of CorDest index	Fri Feb 27 15:05:39
+freelst = 0x0, eoflst = 0x886	 Expecting 43 records	Fri Feb 27 15:05:39
+.last btloc = 0x860	Fri Feb 27 15:05:39
+finished rebuilding indexes for CorDest processed 43 records	Fri Feb 27 15:05:39
+Opening 'CorOpAp' as table #64
+	Fri Feb 27 15:05:39
+5928: Starting rebuild of CorOpAp index	Fri Feb 27 15:05:39
+freelst = 0x0, eoflst = 0x138	 Expecting 7 records	Fri Feb 27 15:05:39
+last btloc = 0x11c	Fri Feb 27 15:05:39
+finished rebuilding indexes for CorOpAp processed 7 records	Fri Feb 27 15:05:39
+Opening 'CorSucCTP' as table #65
+	Fri Feb 27 15:05:39
+5928: Starting rebuild of CorSucCTP index	Fri Feb 27 15:05:39
+freelst = 0x0, eoflst = 0x90bc	 Expecting 594 records	Fri Feb 27 15:05:39
+..................last btloc = 0x9088	Fri Feb 27 15:05:39
+finished rebuilding indexes for CorSucCTP processed 594 records	Fri Feb 27 15:05:39
+Opening 'CorteOp' as table #40
+	Fri Feb 27 15:05:39
+5928: Starting rebuild of CorteOp index	Fri Feb 27 15:05:39
+freelst = 0x0, eoflst = 0xcfa	 Expecting 25 records	Fri Feb 27 15:05:39
+last btloc = 0xc8c	Fri Feb 27 15:05:39
+finished rebuilding indexes for CorteOp processed 25 records	Fri Feb 27 15:05:39
+Opening 'CotiMone' as table #75
+	Fri Feb 27 15:05:39
+5928: Starting rebuild of CotiMone index	Fri Feb 27 15:05:39
+freelst = 0x0, eoflst = 0x80	 Expecting 1 records	Fri Feb 27 15:05:39
+last btloc = 0x2c	Fri Feb 27 15:05:39
+finished rebuilding indexes for CotiMone processed 1 records	Fri Feb 27 15:05:39
+Opening 'CptoAfip' as table #113
+	Fri Feb 27 15:05:39
+5928: Starting rebuild of CptoAfip index	Fri Feb 27 15:05:39
+freelst = 0x0, eoflst = 0x23ca	 Expecting 131 records	Fri Feb 27 15:05:39
+....last btloc = 0x238a	Fri Feb 27 15:05:39
+finished rebuilding indexes for CptoAfip processed 131 records	Fri Feb 27 15:05:39
+Opening 'CtasBanco' as table #21
+	Fri Feb 27 15:05:39
+5928: Starting rebuild of CtasBanco index	Fri Feb 27 15:05:39
+freelst = 0xbe98, eoflst = 0x13910	 Expecting 615 records	Fri Feb 27 15:05:39
+...................last btloc = 0x1389a	Fri Feb 27 15:05:39
+finished rebuilding indexes for CtasBanco processed 615 records	Fri Feb 27 15:05:39
+Opening 'CtasCont' as table #22
+	Fri Feb 27 15:05:39
+5928: Starting rebuild of CtasCont index	Fri Feb 27 15:05:39
+freelst = 0x0, eoflst = 0x16d08	 Expecting 1461 records	Fri Feb 27 15:05:39
+................................ 1024 records	Fri Feb 27 15:05:39
+.............last btloc = 0x16cd0	Fri Feb 27 15:05:39
+finished rebuilding indexes for CtasCont processed 1461 records	Fri Feb 27 15:05:39
+Opening 'DGralSuc' as table #4
+	Fri Feb 27 15:05:39
+5928: Starting rebuild of DGralSuc index	Fri Feb 27 15:05:39
+freelst = 0x0, eoflst = 0x348	 Expecting 2 records	Fri Feb 27 15:05:39
+last btloc = 0x24e	Fri Feb 27 15:05:39
+finished rebuilding indexes for DGralSuc processed 2 records	Fri Feb 27 15:05:39
+Opening 'DepStock' as table #41
+	Fri Feb 27 15:05:39
+5928: Starting rebuild of DepStock index	Fri Feb 27 15:05:39
+freelst = 0x0, eoflst = 0x4a	 Expecting 1 records	Fri Feb 27 15:05:39
+last btloc = 0x2c	Fri Feb 27 15:05:39
+finished rebuilding indexes for DepStock processed 1 records	Fri Feb 27 15:05:39
+Opening 'DesPost' as table #42
+	Fri Feb 27 15:05:40
+5928: Starting rebuild of DesPost index	Fri Feb 27 15:05:40
+freelst = 0x130e, eoflst = 0x531c	 Expecting 306 records	Fri Feb 27 15:05:40
+.........last btloc = 0x52e8	Fri Feb 27 15:05:40
+finished rebuilding indexes for DesPost processed 306 records	Fri Feb 27 15:05:40
+Opening 'DesctoServicio' as table #181
+	Fri Feb 27 15:05:40
+5928: Starting rebuild of DesctoServicio index	Fri Feb 27 15:05:40
+freelst = 0x94, eoflst = 0x860	 Expecting 49 records	Fri Feb 27 15:05:40
+.last btloc = 0x844	Fri Feb 27 15:05:40
+finished rebuilding indexes for DesctoServicio processed 49 records	Fri Feb 27 15:05:40
+Opening 'Descuentos' as table #76
+	Fri Feb 27 15:05:40
+5928: Starting rebuild of Descuentos index	Fri Feb 27 15:05:40
+freelst = 0xaa, eoflst = 0x1be	 Expecting 5 records	Fri Feb 27 15:05:40
+last btloc = 0x184	Fri Feb 27 15:05:40
+finished rebuilding indexes for Descuentos processed 5 records	Fri Feb 27 15:05:40
+Opening 'Desp_BH2' as table #5
+	Fri Feb 27 15:05:40
+5928: Starting rebuild of Desp_BH2 index	Fri Feb 27 15:05:40
+freelst = 0x0, eoflst = 0x1ba88	 Expecting 1553 records	Fri Feb 27 15:05:40
+................................ 1024 records	Fri Feb 27 15:05:40
+................last btloc = 0x1ba52	Fri Feb 27 15:05:40
+finished rebuilding indexes for Desp_BH2 processed 1553 records	Fri Feb 27 15:05:40
+Opening 'Desp_Tipos' as table #66
+	Fri Feb 27 15:05:40
+5928: Starting rebuild of Desp_Tipos index	Fri Feb 27 15:05:40
+freelst = 0x0, eoflst = 0x166	 Expecting 6 records	Fri Feb 27 15:05:40
+last btloc = 0x142	Fri Feb 27 15:05:40
+finished rebuilding indexes for Desp_Tipos processed 6 records	Fri Feb 27 15:05:40
+Opening 'Despachos' as table #67
+	Fri Feb 27 15:05:40
+5928: Starting rebuild of Despachos index	Fri Feb 27 15:05:40
+freelst = 0x0, eoflst = 0x20a	 Expecting 10 records	Fri Feb 27 15:05:40
+last btloc = 0x1e4	Fri Feb 27 15:05:40
+finished rebuilding indexes for Despachos processed 10 records	Fri Feb 27 15:05:40
+Opening 'Destinos' as table #23
+	Fri Feb 27 15:05:40
+5928: Starting rebuild of Destinos index	Fri Feb 27 15:05:40
+freelst = 0x0, eoflst = 0x7be	 Expecting 35 records	Fri Feb 27 15:05:40
+.last btloc = 0x790	Fri Feb 27 15:05:40
+finished rebuilding indexes for Destinos processed 35 records	Fri Feb 27 15:05:40
+Opening 'Dimens' as table #43
+	Fri Feb 27 15:05:40
+5928: Starting rebuild of Dimens index	Fri Feb 27 15:05:40
+freelst = 0x0, eoflst = 0x380	 Expecting 8 records	Fri Feb 27 15:05:40
+last btloc = 0x320	Fri Feb 27 15:05:40
+finished rebuilding indexes for Dimens processed 8 records	Fri Feb 27 15:05:40
+Opening 'Empresa' as table #6
+	Fri Feb 27 15:05:40
+5928: Starting rebuild of Empresa index	Fri Feb 27 15:05:40
+freelst = 0x0, eoflst = 0x1fa	 Expecting 2 records	Fri Feb 27 15:05:40
+last btloc = 0xb2	Fri Feb 27 15:05:40
+finished rebuilding indexes for Empresa processed 2 records	Fri Feb 27 15:05:40
+Opening 'Especie' as table #44
+	Fri Feb 27 15:05:40
+5928: Starting rebuild of Especie index	Fri Feb 27 15:05:40
+freelst = 0x1f418, eoflst = 0x20e2a	 Expecting 560 records	Fri Feb 27 15:05:40
+.................last btloc = 0x20d56	Fri Feb 27 15:05:40
+finished rebuilding indexes for Especie processed 560 records	Fri Feb 27 15:05:40
+Opening 'Est_Giros' as table #77
+	Fri Feb 27 15:05:40
+5928: Starting rebuild of Est_Giros index	Fri Feb 27 15:05:40
+freelst = 0x0, eoflst = 0xaa	 Expecting 3 records	Fri Feb 27 15:05:40
+last btloc = 0x84	Fri Feb 27 15:05:40
+finished rebuilding indexes for Est_Giros processed 3 records	Fri Feb 27 15:05:40
+Opening 'EstadosMX' as table #202
+	Fri Feb 27 15:05:40
+5928: Starting rebuild of EstadosMX index	Fri Feb 27 15:05:40
+freelst = 0x58, eoflst = 0x1f992	 Expecting 2064 records	Fri Feb 27 15:05:40
+................................ 1024 records	Fri Feb 27 15:05:40
+................................ 2048 records	Fri Feb 27 15:05:40
+last btloc = 0x1f968	Fri Feb 27 15:05:40
+finished rebuilding indexes for EstadosMX processed 2064 records	Fri Feb 27 15:05:40
+Opening 'EstadosUS' as table #203
+	Fri Feb 27 15:05:40
+5928: Starting rebuild of EstadosUS index	Fri Feb 27 15:05:40
+freelst = 0x1a4, eoflst = 0xac8	 Expecting 56 records	Fri Feb 27 15:05:40
+.last btloc = 0xaa0	Fri Feb 27 15:05:40
+finished rebuilding indexes for EstadosUS processed 56 records	Fri Feb 27 15:05:40
+Opening 'FliaRep' as table #25
+	Fri Feb 27 15:05:40
+5928: Starting rebuild of FliaRep index	Fri Feb 27 15:05:40
+freelst = 0x0, eoflst = 0x33e	 Expecting 16 records	Fri Feb 27 15:05:40
+last btloc = 0x326	Fri Feb 27 15:05:40
+finished rebuilding indexes for FliaRep processed 16 records	Fri Feb 27 15:05:40
+Opening 'FormAfip' as table #114
+	Fri Feb 27 15:05:40
+5928: Starting rebuild of FormAfip index	Fri Feb 27 15:05:40
+freelst = 0x0, eoflst = 0x3482	 Expecting 71 records	Fri Feb 27 15:05:40
+..last btloc = 0x33b6	Fri Feb 27 15:05:40
+finished rebuilding indexes for FormAfip processed 71 records	Fri Feb 27 15:05:40
+Opening 'FormCampAfip' as table #115
+	Fri Feb 27 15:05:40
+5928: Starting rebuild of FormCampAfip index	Fri Feb 27 15:05:40
+freelst = 0x0, eoflst = 0x2bdb8	 Expecting 1209 records	Fri Feb 27 15:05:40
+................................ 1024 records	Fri Feb 27 15:05:40
+.....last btloc = 0x2bd2c	Fri Feb 27 15:05:40
+finished rebuilding indexes for FormCampAfip processed 1209 records	Fri Feb 27 15:05:40
+Opening 'FormICSCAfip' as table #164
+	Fri Feb 27 15:05:40
+5928: Starting rebuild of FormICSCAfip index	Fri Feb 27 15:05:41
+freelst = 0x0, eoflst = 0x66ab0	 Expecting 2738 records	Fri Feb 27 15:05:41
+................................ 1024 records	Fri Feb 27 15:05:41
+................................ 2048 records	Fri Feb 27 15:05:41
+.....................last btloc = 0x66a28	Fri Feb 27 15:05:41
+finished rebuilding indexes for FormICSCAfip processed 2738 records	Fri Feb 27 15:05:41
+Opening 'FormImpAfip' as table #116
+	Fri Feb 27 15:05:41
+5928: Starting rebuild of FormImpAfip index	Fri Feb 27 15:05:41
+freelst = 0x0, eoflst = 0x72de	 Expecting 503 records	Fri Feb 27 15:05:41
+...............last btloc = 0x72ae	Fri Feb 27 15:05:41
+finished rebuilding indexes for FormImpAfip processed 503 records	Fri Feb 27 15:05:41
+Opening 'Formu' as table #45
+	Fri Feb 27 15:05:41
+5928: Starting rebuild of Formu index	Fri Feb 27 15:05:41
+freelst = 0x2aa, eoflst = 0x72e	 Expecting 14 records	Fri Feb 27 15:05:41
+last btloc = 0x68e	Fri Feb 27 15:05:41
+finished rebuilding indexes for Formu processed 14 records	Fri Feb 27 15:05:41
+Opening 'Fproceso' as table #78
+	Fri Feb 27 15:05:41
+5928: Starting rebuild of Fproceso index	Fri Feb 27 15:05:41
+freelst = 0x0, eoflst = 0x2de	 Expecting 9 records	Fri Feb 27 15:05:41
+last btloc = 0x29c	Fri Feb 27 15:05:41
+finished rebuilding indexes for Fproceso processed 9 records	Fri Feb 27 15:05:41
+Opening 'GruFlia' as table #49
+	Fri Feb 27 15:05:41
+5928: Starting rebuild of GruFlia index	Fri Feb 27 15:05:41
+freelst = 0x0, eoflst = 0x152	 Expecting 9 records	Fri Feb 27 15:05:41
+last btloc = 0x13c	Fri Feb 27 15:05:41
+finished rebuilding indexes for GruFlia processed 9 records	Fri Feb 27 15:05:41
+Opening 'GrupoRep' as table #8
+	Fri Feb 27 15:05:41
+5928: Starting rebuild of GrupoRep index	Fri Feb 27 15:05:41
+freelst = 0x0, eoflst = 0x66	 Expecting 1 records	Fri Feb 27 15:05:41
+last btloc = 0x2c	Fri Feb 27 15:05:41
+finished rebuilding indexes for GrupoRep processed 1 records	Fri Feb 27 15:05:41
+Opening 'Grupos_Corte' as table #68
+	Fri Feb 27 15:05:41
+5928: Starting rebuild of Grupos_Corte index	Fri Feb 27 15:05:41
+freelst = 0x0, eoflst = 0x670	 Expecting 33 records	Fri Feb 27 15:05:41
+.last btloc = 0x654	Fri Feb 27 15:05:41
+finished rebuilding indexes for Grupos_Corte processed 33 records	Fri Feb 27 15:05:41
+Opening 'ImpCptoScptoAfip' as table #117
+	Fri Feb 27 15:05:41
+5928: Starting rebuild of ImpCptoScptoAfip index	Fri Feb 27 15:05:41
+freelst = 0x0, eoflst = 0x3165e	 Expecting 4673 records	Fri Feb 27 15:05:41
+................................ 1024 records	Fri Feb 27 15:05:41
+................................ 2048 records	Fri Feb 27 15:05:41
+................................ 3072 records	Fri Feb 27 15:05:41
+................................ 4096 records	Fri Feb 27 15:05:41
+..................last btloc = 0x3163e	Fri Feb 27 15:05:42
+finished rebuilding indexes for ImpCptoScptoAfip processed 4673 records	Fri Feb 27 15:05:42
+Opening 'ImpuAfip' as table #118
+	Fri Feb 27 15:05:42
+5928: Starting rebuild of ImpuAfip index	Fri Feb 27 15:05:42
+freelst = 0x0, eoflst = 0x5d70	 Expecting 370 records	Fri Feb 27 15:05:42
+...........last btloc = 0x5d34	Fri Feb 27 15:05:42
+finished rebuilding indexes for ImpuAfip processed 370 records	Fri Feb 27 15:05:42
+Opening 'ImpuTramos' as table #97
+	Fri Feb 27 15:05:42
+5928: Starting rebuild of ImpuTramos index	Fri Feb 27 15:05:42
+freelst = 0x0, eoflst = 0xda0	 Expecting 30 records	Fri Feb 27 15:05:42
+last btloc = 0xd30	Fri Feb 27 15:05:42
+finished rebuilding indexes for ImpuTramos processed 30 records	Fri Feb 27 15:05:42
+Opening 'Impuprov' as table #98
+	Fri Feb 27 15:05:42
+5928: Starting rebuild of Impuprov index	Fri Feb 27 15:05:42
+freelst = 0x290c, eoflst = 0x6cf0	 Expecting 152 records	Fri Feb 27 15:05:42
+....last btloc = 0x6c4a	Fri Feb 27 15:05:42
+finished rebuilding indexes for Impuprov processed 152 records	Fri Feb 27 15:05:42
+Opening 'LeyImp' as table #99
+	Fri Feb 27 15:05:42
+5928: Starting rebuild of LeyImp index	Fri Feb 27 15:05:42
+freelst = 0x0, eoflst = 0x20	 Expecting 0 records	Fri Feb 27 15:05:42
+last btloc = 0x0	Fri Feb 27 15:05:42
+finished rebuilding indexes for LeyImp processed 0 records	Fri Feb 27 15:05:42
+Opening 'LoteCIE' as table #201
+	Fri Feb 27 15:05:42
+5928: Starting rebuild of LoteCIE index	Fri Feb 27 15:05:42
+freelst = 0x331da, eoflst = 0x332f4	 Expecting 0 records	Fri Feb 27 15:05:42
+last btloc = 0x0	Fri Feb 27 15:05:42
+finished rebuilding indexes for LoteCIE processed 0 records	Fri Feb 27 15:05:42
+Opening 'LoteCIE_LOG' as table #207
+	Fri Feb 27 15:05:42
+5928: Starting rebuild of LoteCIE_LOG index	Fri Feb 27 15:05:42
+freelst = 0x0, eoflst = 0x20	 Expecting 0 records	Fri Feb 27 15:05:42
+last btloc = 0x0	Fri Feb 27 15:05:42
+finished rebuilding indexes for LoteCIE_LOG processed 0 records	Fri Feb 27 15:05:42
+Opening 'MPagoSf1' as table #132
+	Fri Feb 27 15:05:42
+5928: Starting rebuild of MPagoSf1 index	Fri Feb 27 15:05:42
+freelst = 0x0, eoflst = 0x2ae	 Expecting 13 records	Fri Feb 27 15:05:42
+last btloc = 0x286	Fri Feb 27 15:05:42
+finished rebuilding indexes for MPagoSf1 processed 13 records	Fri Feb 27 15:05:42
+Opening 'MSGLabel' as table #183
+	Fri Feb 27 15:05:42
+5928: Starting rebuild of MSGLabel index	Fri Feb 27 15:05:42
+freelst = 0x0, eoflst = 0x9c	 Expecting 1 records	Fri Feb 27 15:05:42
+last btloc = 0x2c	Fri Feb 27 15:05:42
+finished rebuilding indexes for MSGLabel processed 1 records	Fri Feb 27 15:05:42
+Opening 'MedPago' as table #79
+	Fri Feb 27 15:05:42
+5928: Starting rebuild of MedPago index	Fri Feb 27 15:05:42
+freelst = 0x0, eoflst = 0x6f4	 Expecting 8 records	Fri Feb 27 15:05:42
+last btloc = 0x634	Fri Feb 27 15:05:42
+finished rebuilding indexes for MedPago processed 8 records	Fri Feb 27 15:05:42
+Opening 'Mensaje' as table #80
+	Fri Feb 27 15:05:42
+5928: Starting rebuild of Mensaje index	Fri Feb 27 15:05:42
+freelst = 0x0, eoflst = 0x20	 Expecting 0 records	Fri Feb 27 15:05:42
+last btloc = 0x0	Fri Feb 27 15:05:42
+finished rebuilding indexes for Mensaje processed 0 records	Fri Feb 27 15:05:42
+Opening 'Mensajes' as table #194
+	Fri Feb 27 15:05:42
+5928: Starting rebuild of Mensajes index	Fri Feb 27 15:05:42
+freelst = 0x0, eoflst = 0x20	 Expecting 0 records	Fri Feb 27 15:05:42
+last btloc = 0x0	Fri Feb 27 15:05:42
+finished rebuilding indexes for Mensajes processed 0 records	Fri Feb 27 15:05:42
+Opening 'MetaData' as table #168
+	Fri Feb 27 15:05:42
+5928: Starting rebuild of MetaData index	Fri Feb 27 15:05:42
+freelst = 0x0, eoflst = 0x2f3a	 Expecting 66 records	Fri Feb 27 15:05:42
+..last btloc = 0x2ea6	Fri Feb 27 15:05:42
+finished rebuilding indexes for MetaData processed 66 records	Fri Feb 27 15:05:42
+Opening 'MetaDataTablas' as table #169
+	Fri Feb 27 15:05:42
+5928: Starting rebuild of MetaDataTablas index	Fri Feb 27 15:05:42
+freelst = 0x0, eoflst = 0x252	 Expecting 3 records	Fri Feb 27 15:05:42
+last btloc = 0x1cc	Fri Feb 27 15:05:42
+finished rebuilding indexes for MetaDataTablas processed 3 records	Fri Feb 27 15:05:42
+Opening 'Modelos' as table #69
+	Fri Feb 27 15:05:42
+5928: Starting rebuild of Modelos index	Fri Feb 27 15:05:42
+freelst = 0x0, eoflst = 0x1fc	 Expecting 9 records	Fri Feb 27 15:05:42
+last btloc = 0x1ca	Fri Feb 27 15:05:42
+finished rebuilding indexes for Modelos processed 9 records	Fri Feb 27 15:05:42
+Opening 'MonCatAutAfip' as table #119
+	Fri Feb 27 15:05:42
+5928: Starting rebuild of MonCatAutAfip index	Fri Feb 27 15:05:42
+freelst = 0x0, eoflst = 0x4a2	 Expecting 9 records	Fri Feb 27 15:05:42
+last btloc = 0x42e	Fri Feb 27 15:05:42
+finished rebuilding indexes for MonCatAutAfip processed 9 records	Fri Feb 27 15:05:42
+Opening 'MonPas' as table #24
+	Fri Feb 27 15:05:42
+5928: Starting rebuild of MonPas index	Fri Feb 27 15:05:42
+freelst = 0x0, eoflst = 0x14c	 Expecting 3 records	Fri Feb 27 15:05:42
+last btloc = 0xec	Fri Feb 27 15:05:42
+finished rebuilding indexes for MonPas processed 3 records	Fri Feb 27 15:05:42
+Opening 'MonPasW' as table #133
+	Fri Feb 27 15:05:42
+5928: Starting rebuild of MonPasW index	Fri Feb 27 15:05:42
+freelst = 0x3926, eoflst = 0x463a	 Expecting 299 records	Fri Feb 27 15:05:42
+.........last btloc = 0x4614	Fri Feb 27 15:05:42
+finished rebuilding indexes for MonPasW processed 299 records	Fri Feb 27 15:05:42
+Opening 'MonedaSf1' as table #81
+	Fri Feb 27 15:05:42
+5928: Starting rebuild of MonedaSf1 index	Fri Feb 27 15:05:42
+freelst = 0x0, eoflst = 0xcc	 Expecting 2 records	Fri Feb 27 15:05:42
+last btloc = 0x82	Fri Feb 27 15:05:42
+finished rebuilding indexes for MonedaSf1 processed 2 records	Fri Feb 27 15:05:42
+Opening 'Monedas' as table #82
+	Fri Feb 27 15:05:42
+5928: Starting rebuild of Monedas index	Fri Feb 27 15:05:42
+freelst = 0x0, eoflst = 0x92	 Expecting 2 records	Fri Feb 27 15:05:42
+last btloc = 0x58	Fri Feb 27 15:05:42
+finished rebuilding indexes for Monedas processed 2 records	Fri Feb 27 15:05:42
+Opening 'MonotribActAfip' as table #120
+	Fri Feb 27 15:05:42
+5928: Starting rebuild of MonotribActAfip index	Fri Feb 27 15:05:42
+freelst = 0x0, eoflst = 0x114	 Expecting 6 records	Fri Feb 27 15:05:42
+last btloc = 0xfe	Fri Feb 27 15:05:42
+finished rebuilding indexes for MonotribActAfip processed 6 records	Fri Feb 27 15:05:42
+Opening 'MonotribCatAfip' as table #121
+	Fri Feb 27 15:05:42
+5928: Starting rebuild of MonotribCatAfip index	Fri Feb 27 15:05:42
+freelst = 0x0, eoflst = 0x19a	 Expecting 9 records	Fri Feb 27 15:05:42
+last btloc = 0x17c	Fri Feb 27 15:05:42
+finished rebuilding indexes for MonotribCatAfip processed 9 records	Fri Feb 27 15:05:42
+Opening 'MotDevol' as table #134
+	Fri Feb 27 15:05:42
+5928: Starting rebuild of MotDevol index	Fri Feb 27 15:05:42
+freelst = 0x0, eoflst = 0x1ea	 Expecting 10 records	Fri Feb 27 15:05:42
+last btloc = 0x1c4	Fri Feb 27 15:05:42
+finished rebuilding indexes for MotDevol processed 10 records	Fri Feb 27 15:05:42
+Opening 'MotProdVs' as table #46
+	Fri Feb 27 15:05:42
+5928: Starting rebuild of MotProdVs index	Fri Feb 27 15:05:42
+freelst = 0x0, eoflst = 0xca	 Expecting 3 records	Fri Feb 27 15:05:42
+last btloc = 0xa2	Fri Feb 27 15:05:42
+finished rebuilding indexes for MotProdVs processed 3 records	Fri Feb 27 15:05:42
+Opening 'MotVarios' as table #7
+	Fri Feb 27 15:05:42
+5928: Starting rebuild of MotVarios index	Fri Feb 27 15:05:42
+freelst = 0x0, eoflst = 0x267c	 Expecting 100 records	Fri Feb 27 15:05:42
+...last btloc = 0x262a	Fri Feb 27 15:05:42
+finished rebuilding indexes for MotVarios processed 100 records	Fri Feb 27 15:05:42
+Opening 'ObraSocAfip' as table #122
+	Fri Feb 27 15:05:42
+5928: Starting rebuild of ObraSocAfip index	Fri Feb 27 15:05:42
+freelst = 0x0, eoflst = 0x20	 Expecting 0 records	Fri Feb 27 15:05:42
+last btloc = 0x0	Fri Feb 27 15:05:42
+finished rebuilding indexes for ObraSocAfip processed 0 records	Fri Feb 27 15:05:42
+Opening 'Ocupacion' as table #148
+	Fri Feb 27 15:05:42
+5928: Starting rebuild of Ocupacion index	Fri Feb 27 15:05:42
+freelst = 0x0, eoflst = 0x48aa	 Expecting 538 records	Fri Feb 27 15:05:42
+................last btloc = 0x4898	Fri Feb 27 15:05:42
+finished rebuilding indexes for Ocupacion processed 538 records	Fri Feb 27 15:05:42
+Opening 'OfficeCD' as table #193
+	Fri Feb 27 15:05:42
+5928: Starting rebuild of OfficeCD index	Fri Feb 27 15:05:42
+freelst = 0x0, eoflst = 0x22ae72	 Expecting 45457 records	Fri Feb 27 15:05:42
+................................ 1024 records	Fri Feb 27 15:05:42
+................................ 2048 records	Fri Feb 27 15:05:42
+................................ 3072 records	Fri Feb 27 15:05:42
+................................ 4096 records	Fri Feb 27 15:05:43
+................................ 5120 records	Fri Feb 27 15:05:43
+................................ 6144 records	Fri Feb 27 15:05:43
+................................ 7168 records	Fri Feb 27 15:05:43
+................................ 8192 records	Fri Feb 27 15:05:43
+................................ 9216 records	Fri Feb 27 15:05:43
+................................ 10240 records	Fri Feb 27 15:05:43
+................................ 11264 records	Fri Feb 27 15:05:44
+................................ 12288 records	Fri Feb 27 15:05:44
+................................ 13312 records	Fri Feb 27 15:05:44
+................................ 14336 records	Fri Feb 27 15:05:44
+................................ 15360 records	Fri Feb 27 15:05:44
+................................ 16384 records	Fri Feb 27 15:05:44
+................................ 17408 records	Fri Feb 27 15:05:44
+................................ 18432 records	Fri Feb 27 15:05:45
+................................ 19456 records	Fri Feb 27 15:05:45
+................................ 20480 records	Fri Feb 27 15:05:45
+................................ 21504 records	Fri Feb 27 15:05:45
+................................ 22528 records	Fri Feb 27 15:05:45
+................................ 23552 records	Fri Feb 27 15:05:45
+................................ 24576 records	Fri Feb 27 15:05:45
+................................ 25600 records	Fri Feb 27 15:05:45
+................................ 26624 records	Fri Feb 27 15:05:45
+................................ 27648 records	Fri Feb 27 15:05:45
+................................ 28672 records	Fri Feb 27 15:05:46
+................................ 29696 records	Fri Feb 27 15:05:46
+................................ 30720 records	Fri Feb 27 15:05:46
+................................ 31744 records	Fri Feb 27 15:05:46
+................................ 32768 records	Fri Feb 27 15:05:46
+................................ 33792 records	Fri Feb 27 15:05:46
+................................ 34816 records	Fri Feb 27 15:05:46
+................................ 35840 records	Fri Feb 27 15:05:46
+................................ 36864 records	Fri Feb 27 15:05:46
+................................ 37888 records	Fri Feb 27 15:05:46
+................................ 38912 records	Fri Feb 27 15:05:47
+................................ 39936 records	Fri Feb 27 15:05:47
+................................ 40960 records	Fri Feb 27 15:05:47
+...............Server stopped by sv_stop request from services manager	Fri Feb 27 15:05:47
+.
+CDS started: 	Fri Feb 27 15:05:50
+
+CDSV.EXE:		cdserver on NT
+Version:       	1.4.13.0, Sun Jun 27 14:11:28 1999
+Binary Version:	1.4.13.0
+Package:       	85-35011-D13, Mosaic OA - CDS Server
+DataDictNo:    	108
+Copyright © 1994-1999 Wang Global Wang Global, all rights reserved
+Opening 'tables' as table #0
+	Fri Feb 27 15:05:50 
+5928: Starting rebuild of tables index	Fri Feb 27 15:05:50
+freelst = 0x3288, eoflst = 0x9f76	 Expecting 208 records	Fri Feb 27 15:05:50
+......last btloc = 0x9edc	Fri Feb 27 15:05:50
+finished rebuilding indexes for tables processed 208 records	Fri Feb 27 15:05:50
+Opening 'indexes' as table #1
+	Fri Feb 27 15:05:50
+5928: Starting rebuild of indexes index	Fri Feb 27 15:05:50
+freelst = 0x24f68, eoflst = 0x25afa	 Expecting 486 records	Fri Feb 27 15:05:50
+...............last btloc = 0x25a72	Fri Feb 27 15:05:50
+finished rebuilding indexes for indexes processed 486 records	Fri Feb 27 15:05:50
+Opening 'fields' as table #2
+	Fri Feb 27 15:05:50
+5928: Starting rebuild of fields index	Fri Feb 27 15:05:50
+freelst = 0x0, eoflst = 0xf88	 Expecting 34 records	Fri Feb 27 15:05:50
+.last btloc = 0xf20	Fri Feb 27 15:05:50
+finished rebuilding indexes for fields processed 34 records	Fri Feb 27 15:05:50
+Opening 'AcrePerc' as table #93
+	Fri Feb 27 15:05:50
+Opening 'AperCO' as table #57
+	Fri Feb 27 15:05:50
+Opening 'Apertura' as table #58
+	Fri Feb 27 15:05:50
+Opening 'AuxCatel' as table #145
+	Fri Feb 27 15:05:50
+Opening 'AuxIva' as table #129
+	Fri Feb 27 15:05:50
+Opening 'BR_adt_br' as table #3
+	Fri Feb 27 15:05:51
+Opening 'BR_transp' as table #170
+	Fri Feb 27 15:05:51
+Opening 'CPCor' as table #59
+	Fri Feb 27 15:05:51
+Opening 'CTP' as table #60
+	Fri Feb 27 15:05:51
+Opening 'CaiRemito' as table #51
+	Fri Feb 27 15:05:51
+Opening 'CajaBuzon' as table #61
+	Fri Feb 27 15:05:51
+Opening 'CajaProd' as table #39
+	Fri Feb 27 15:05:51
+Opening 'CatIngBr' as table #94
+	Fri Feb 27 15:05:51
+Opening 'CatIva' as table #95
+	Fri Feb 27 15:05:51
+Opening 'CheqRech' as table #130
+	Fri Feb 27 15:05:51
+Opening 'CheqRob' as table #178
+	Fri Feb 27 15:05:51
+Opening 'CliIBUP' as table #131
+	Fri Feb 27 15:05:51
+Opening 'CliMay_crem' as table #184
+	Fri Feb 27 15:05:51
+Opening 'CliUP' as table #111
+	Fri Feb 27 15:05:51
+Opening 'CodInt' as table #96
+	Fri Feb 27 15:05:51
+Opening 'CodPost' as table #62
+	Fri Feb 27 15:05:51
+Opening 'CodRespAdic' as table #180
+	Fri Feb 27 15:05:51
+Opening 'CodTrack' as table #112
+	Fri Feb 27 15:05:51
+Opening 'CodTrackTx' as table #185
+	Fri Feb 27 15:05:51
+Opening 'Cod_AFJP' as table #173
+	Fri Feb 27 15:05:51
+Opening 'Combos' as table #154
+	Fri Feb 27 15:05:51
+Opening 'CompConc' as table #161
+	Fri Feb 27 15:05:51
+Opening 'CompItem' as table #162
+	Fri Feb 27 15:05:51
+Opening 'CompSubItem' as table #163
+	Fri Feb 27 15:05:51
+Opening 'ContCombo' as table #158
+	Fri Feb 27 15:05:51
+Opening 'CorDest' as table #63
+	Fri Feb 27 15:05:51
+Opening 'CorOpAp' as table #64
+	Fri Feb 27 15:05:51
+Opening 'CorSucCTP' as table #65
+	Fri Feb 27 15:05:51
+Opening 'CorteOp' as table #40
+	Fri Feb 27 15:05:51
+Opening 'CotiMone' as table #75
+	Fri Feb 27 15:05:51
+Opening 'CptoAfip' as table #113
+	Fri Feb 27 15:05:51
+Opening 'CtasBanco' as table #21
+	Fri Feb 27 15:05:51
+Opening 'CtasCont' as table #22
+	Fri Feb 27 15:05:51
+Opening 'DGralSuc' as table #4
+	Fri Feb 27 15:05:51
+Opening 'DepStock' as table #41
+	Fri Feb 27 15:05:51
+Opening 'DesPost' as table #42
+	Fri Feb 27 15:05:51
+Opening 'DesctoServicio' as table #181
+	Fri Feb 27 15:05:51
+Opening 'Descuentos' as table #76
+	Fri Feb 27 15:05:51
+Opening 'Desp_BH2' as table #5
+	Fri Feb 27 15:05:51
+Opening 'Desp_Tipos' as table #66
+	Fri Feb 27 15:05:51
+Opening 'Despachos' as table #67
+	Fri Feb 27 15:05:51
+Opening 'Destinos' as table #23
+	Fri Feb 27 15:05:51
+Opening 'Dimens' as table #43
+	Fri Feb 27 15:05:51
+Opening 'Empresa' as table #6
+	Fri Feb 27 15:05:51
+Opening 'Especie' as table #44
+	Fri Feb 27 15:05:51
+Opening 'Est_Giros' as table #77
+	Fri Feb 27 15:05:51
+Opening 'EstadosMX' as table #202
+	Fri Feb 27 15:05:51
+Opening 'EstadosUS' as table #203
+	Fri Feb 27 15:05:51
+Opening 'FliaRep' as table #25
+	Fri Feb 27 15:05:51
+Opening 'FormAfip' as table #114
+	Fri Feb 27 15:05:51
+Opening 'FormCampAfip' as table #115
+	Fri Feb 27 15:05:51
+Opening 'FormICSCAfip' as table #164
+	Fri Feb 27 15:05:51
+Opening 'FormImpAfip' as table #116
+	Fri Feb 27 15:05:51
+Opening 'Formu' as table #45
+	Fri Feb 27 15:05:51
+Opening 'Fproceso' as table #78
+	Fri Feb 27 15:05:51
+Opening 'GruFlia' as table #49
+	Fri Feb 27 15:05:51
+Opening 'GrupoRep' as table #8
+	Fri Feb 27 15:05:51
+Opening 'Grupos_Corte' as table #68
+	Fri Feb 27 15:05:51
+Opening 'ImpCptoScptoAfip' as table #117
+	Fri Feb 27 15:05:51
+Opening 'ImpuAfip' as table #118
+	Fri Feb 27 15:05:51
+Opening 'ImpuTramos' as table #97
+	Fri Feb 27 15:05:51
+Opening 'Impuprov' as table #98
+	Fri Feb 27 15:05:51
+Opening 'LeyImp' as table #99
+	Fri Feb 27 15:05:51
+Opening 'LoteCIE' as table #201
+	Fri Feb 27 15:05:51
+Opening 'LoteCIE_LOG' as table #207
+	Fri Feb 27 15:05:51
+Opening 'MPagoSf1' as table #132
+	Fri Feb 27 15:05:51
+Opening 'MSGLabel' as table #183
+	Fri Feb 27 15:05:51
+Opening 'MedPago' as table #79
+	Fri Feb 27 15:05:51
+Opening 'Mensaje' as table #80
+	Fri Feb 27 15:05:51
+Opening 'Mensajes' as table #194
+	Fri Feb 27 15:05:51
+Opening 'MetaData' as table #168
+	Fri Feb 27 15:05:51
+Opening 'MetaDataTablas' as table #169
+	Fri Feb 27 15:05:51
+Opening 'Modelos' as table #69
+	Fri Feb 27 15:05:51
+Opening 'MonCatAutAfip' as table #119
+	Fri Feb 27 15:05:51
+Opening 'MonPas' as table #24
+	Fri Feb 27 15:05:51
+Opening 'MonPasW' as table #133
+	Fri Feb 27 15:05:51
+Opening 'MonedaSf1' as table #81
+	Fri Feb 27 15:05:51
+Opening 'Monedas' as table #82
+	Fri Feb 27 15:05:51
+Opening 'MonotribActAfip' as table #120
+	Fri Feb 27 15:05:51
+Opening 'MonotribCatAfip' as table #121
+	Fri Feb 27 15:05:51
+Opening 'MotDevol' as table #134
+	Fri Feb 27 15:05:51
+Opening 'MotProdVs' as table #46
+	Fri Feb 27 15:05:51
+Opening 'MotVarios' as table #7
+	Fri Feb 27 15:05:51
+Opening 'ObraSocAfip' as table #122
+	Fri Feb 27 15:05:51
+Opening 'Ocupacion' as table #148
+	Fri Feb 27 15:05:51
+Opening 'OfficeCD' as table #193
+	Fri Feb 27 15:05:51
+5928: Starting rebuild of OfficeCD index	Fri Feb 27 15:05:51
+freelst = 0x0, eoflst = 0x22ae72	 Expecting 45457 records	Fri Feb 27 15:05:51
+................................ 1024 records	Fri Feb 27 15:05:51
+................................ 2048 records	Fri Feb 27 15:05:51
+................................ 3072 records	Fri Feb 27 15:05:51
+................................ 4096 records	Fri Feb 27 15:05:51
+................................ 5120 records	Fri Feb 27 15:05:51
+................................ 6144 records	Fri Feb 27 15:05:51
+................................ 7168 records	Fri Feb 27 15:05:51
+................................ 8192 records	Fri Feb 27 15:05:52
+................................ 9216 records	Fri Feb 27 15:05:52
+................................ 10240 records	Fri Feb 27 15:05:52
+................................ 11264 records	Fri Feb 27 15:05:52
+................................ 12288 records	Fri Feb 27 15:05:52
+................................ 13312 records	Fri Feb 27 15:05:52
+................................ 14336 records	Fri Feb 27 15:05:52
+................................ 15360 records	Fri Feb 27 15:05:52
+................................ 16384 records	Fri Feb 27 15:05:53
+................................ 17408 records	Fri Feb 27 15:05:53
+................................ 18432 records	Fri Feb 27 15:05:53
+................................ 19456 records	Fri Feb 27 15:05:53
+................................ 20480 records	Fri Feb 27 15:05:53
+................................ 21504 records	Fri Feb 27 15:05:53
+................................ 22528 records	Fri Feb 27 15:05:53
+................................ 23552 records	Fri Feb 27 15:05:53
+................................ 24576 records	Fri Feb 27 15:05:53
+................................ 25600 records	Fri Feb 27 15:05:54
+................................ 26624 records	Fri Feb 27 15:05:54
+................................ 27648 records	Fri Feb 27 15:05:54
+................................ 28672 records	Fri Feb 27 15:05:54
+................................ 29696 records	Fri Feb 27 15:05:54
+................................ 30720 records	Fri Feb 27 15:05:54
+................................ 31744 records	Fri Feb 27 15:05:54
+................................ 32768 records	Fri Feb 27 15:05:54
+................................ 33792 records	Fri Feb 27 15:05:54
+................................ 34816 records	Fri Feb 27 15:05:55
+................................ 35840 records	Fri Feb 27 15:05:55
+................................ 36864 records	Fri Feb 27 15:05:55
+................................ 37888 records	Fri Feb 27 15:05:55
+................................ 38912 records	Fri Feb 27 15:05:55
+................................ 39936 records	Fri Feb 27 15:05:55
+................................ 40960 records	Fri Feb 27 15:05:55
+................................ 41984 records	Fri Feb 27 15:05:55
+................................ 43008 records	Fri Feb 27 15:05:55
+................................ 44032 records	Fri Feb 27 15:05:56
+................................ 45056 records	Fri Feb 27 15:05:56
+............last btloc = 0x22ae4c	Fri Feb 27 15:05:56
+finished rebuilding indexes for OfficeCD processed 45457 records	Fri Feb 27 15:05:56
+Opening 'OfiJudi' as table #188
+	Fri Feb 27 15:05:56
+5928: Starting rebuild of OfiJudi index	Fri Feb 27 15:05:56
+freelst = 0x0, eoflst = 0x20	 Expecting 0 records	Fri Feb 27 15:05:56
+last btloc = 0x0	Fri Feb 27 15:05:56
+finished rebuilding indexes for OfiJudi processed 0 records	Fri Feb 27 15:05:56
+Opening 'OpcServ' as table #26
+	Fri Feb 27 15:05:56
+5928: Starting rebuild of OpcServ index	Fri Feb 27 15:05:56
+freelst = 0x4e90, eoflst = 0xdf96	 Expecting 360 records	Fri Feb 27 15:05:56
+...........last btloc = 0xdf0c	Fri Feb 27 15:05:56
+finished rebuilding indexes for OpcServ processed 360 records	Fri Feb 27 15:05:56
+Opening 'OpcServCombo' as table #160
+	Fri Feb 27 15:05:56
+5928: Starting rebuild of OpcServCombo index	Fri Feb 27 15:05:56
+freelst = 0x0, eoflst = 0x20	 Expecting 0 records	Fri Feb 27 15:05:56
+last btloc = 0x0	Fri Feb 27 15:05:56
+finished rebuilding indexes for OpcServCombo processed 0 records	Fri Feb 27 15:05:56
+Opening 'Opcional' as table #27
+	Fri Feb 27 15:05:56
+5928: Starting rebuild of Opcional index	Fri Feb 27 15:05:56
+freelst = 0x7700, eoflst = 0x7d66	 Expecting 101 records	Fri Feb 27 15:05:56
+...last btloc = 0x7c54	Fri Feb 27 15:05:56
+finished rebuilding indexes for Opcional processed 101 records	Fri Feb 27 15:05:56
+Opening 'OpeVPI_LOG' as table #206
+	Fri Feb 27 15:05:56
+5928: Starting rebuild of OpeVPI_LOG index	Fri Feb 27 15:05:56
+freelst = 0x0, eoflst = 0x20	 Expecting 0 records	Fri Feb 27 15:05:56
+last btloc = 0x0	Fri Feb 27 15:05:56
+finished rebuilding indexes for OpeVPI_LOG processed 0 records	Fri Feb 27 15:05:56
+Opening 'OperacionesMP' as table #205
+	Fri Feb 27 15:05:56
+5928: Starting rebuild of OperacionesMP index	Fri Feb 27 15:05:56
+freelst = 0x0, eoflst = 0x20	 Expecting 0 records	Fri Feb 27 15:05:56
+last btloc = 0x0	Fri Feb 27 15:05:56
+finished rebuilding indexes for OperacionesMP processed 0 records	Fri Feb 27 15:05:56
+Opening 'OperacionesVPI' as table #199
+	Fri Feb 27 15:05:56
+5928: Starting rebuild of OperacionesVPI index	Fri Feb 27 15:05:56
+freelst = 0x1a55e, eoflst = 0x1a730	 Expecting 0 records	Fri Feb 27 15:05:56
+last btloc = 0x0	Fri Feb 27 15:05:56
+finished rebuilding indexes for OperacionesVPI processed 0 records	Fri Feb 27 15:05:56
+Opening 'PCTAF46' as table #28
+	Fri Feb 27 15:05:56
+5928: Starting rebuild of PCTAF46 index	Fri Feb 27 15:05:56
+freelst = 0x0, eoflst = 0x1792	 Expecting 72 records	Fri Feb 27 15:05:56
+..last btloc = 0x174a	Fri Feb 27 15:05:56
+finished rebuilding indexes for PCTAF46 processed 72 records	Fri Feb 27 15:05:56
+Opening 'Paises' as table #29
+	Fri Feb 27 15:05:56
+5928: Starting rebuild of Paises index	Fri Feb 27 15:05:56
+freelst = 0x6624, eoflst = 0x6720	 Expecting 259 records	Fri Feb 27 15:05:56
+........last btloc = 0x65f2	Fri Feb 27 15:05:56
+finished rebuilding indexes for Paises processed 259 records	Fri Feb 27 15:05:56
+Opening 'ParamAfip' as table #123
+	Fri Feb 27 15:05:56
+5928: Starting rebuild of ParamAfip index	Fri Feb 27 15:05:56
+freelst = 0x0, eoflst = 0x360c	 Expecting 176 records	Fri Feb 27 15:05:56
+.....last btloc = 0x35c8	Fri Feb 27 15:05:56
+finished rebuilding indexes for ParamAfip processed 176 records	Fri Feb 27 15:05:56
+Opening 'ParamSeg' as table #124
+	Fri Feb 27 15:05:56
+5928: Starting rebuild of ParamSeg index	Fri Feb 27 15:05:56
+freelst = 0x0, eoflst = 0x96	 Expecting 1 records	Fri Feb 27 15:05:56
+last btloc = 0x2c	Fri Feb 27 15:05:56
+finished rebuilding indexes for ParamSeg processed 1 records	Fri Feb 27 15:05:56
+Opening 'ParamVPI' as table #197
+	Fri Feb 27 15:05:56
+5928: Starting rebuild of ParamVPI index	Fri Feb 27 15:05:56
+freelst = 0x0, eoflst = 0xb6	 Expecting 1 records	Fri Feb 27 15:05:56
+last btloc = 0x2c	Fri Feb 27 15:05:56
+finished rebuilding indexes for ParamVPI processed 1 records	Fri Feb 27 15:05:56
+Opening 'ParamWeb' as table #189
+	Fri Feb 27 15:05:56
+5928: Starting rebuild of ParamWeb index	Fri Feb 27 15:05:56
+freelst = 0xdb8, eoflst = 0xfd8	 Expecting 6 records	Fri Feb 27 15:05:56
+last btloc = 0xe2e	Fri Feb 27 15:05:56
+finished rebuilding indexes for ParamWeb processed 6 records	Fri Feb 27 15:05:56
+Opening 'Parametros_CEC' as table #182
+	Fri Feb 27 15:05:56
+5928: Starting rebuild of Parametros_CEC index	Fri Feb 27 15:05:56
+freelst = 0x0, eoflst = 0xe0	 Expecting 3 records	Fri Feb 27 15:05:56
+last btloc = 0xac	Fri Feb 27 15:05:56
+finished rebuilding indexes for Parametros_CEC processed 3 records	Fri Feb 27 15:05:56
+Opening 'Planes_POS' as table #200
+	Fri Feb 27 15:05:56
+5928: Starting rebuild of Planes_POS index	Fri Feb 27 15:05:56
+freelst = 0x0, eoflst = 0x318	 Expecting 13 records	Fri Feb 27 15:05:56
+last btloc = 0x2e8	Fri Feb 27 15:05:56
+finished rebuilding indexes for Planes_POS processed 13 records	Fri Feb 27 15:05:56
+Opening 'PresuDet' as table #135
+	Fri Feb 27 15:05:56
+5928: Starting rebuild of PresuDet index	Fri Feb 27 15:05:56
+freelst = 0x0, eoflst = 0xc7e074	 Expecting 11650 records	Fri Feb 27 15:05:56
+................................ 1024 records	Fri Feb 27 15:05:56
+................................ 2048 records	Fri Feb 27 15:05:56
+................................ 3072 records	Fri Feb 27 15:05:56
+................................ 4096 records	Fri Feb 27 15:05:57
+................................ 5120 records	Fri Feb 27 15:05:57
+................................ 6144 records	Fri Feb 27 15:05:57
+................................ 7168 records	Fri Feb 27 15:05:57
+................................ 8192 records	Fri Feb 27 15:05:57
+................................ 9216 records	Fri Feb 27 15:05:57
+................................ 10240 records	Fri Feb 27 15:05:58
+................................ 11264 records	Fri Feb 27 15:05:58
+............last btloc = 0xc7dfb6	Fri Feb 27 15:05:58
+finished rebuilding indexes for PresuDet processed 11650 records	Fri Feb 27 15:05:58
+Opening 'PresuDetOC' as table #175
+	Fri Feb 27 15:05:58
+5928: Starting rebuild of PresuDetOC index	Fri Feb 27 15:05:58
+freelst = 0x0, eoflst = 0xee40	 Expecting 37 records	Fri Feb 27 15:05:58
+.last btloc = 0xed7c	Fri Feb 27 15:05:58
+finished rebuilding indexes for PresuDetOC processed 37 records	Fri Feb 27 15:05:58
+Opening 'Procedencias' as table #83
+	Fri Feb 27 15:05:58
+5928: Starting rebuild of Procedencias index	Fri Feb 27 15:05:58
+freelst = 0x0, eoflst = 0xd0	 Expecting 4 records	Fri Feb 27 15:05:58
+last btloc = 0xb0	Fri Feb 27 15:05:58
+finished rebuilding indexes for Procedencias processed 4 records	Fri Feb 27 15:05:58
+Opening 'ProdMay' as table #84
+	Fri Feb 27 15:05:58
+5928: Starting rebuild of ProdMay index	Fri Feb 27 15:05:58
+freelst = 0x0, eoflst = 0x14f0	 Expecting 37 records	Fri Feb 27 15:05:58
+.last btloc = 0x146c	Fri Feb 27 15:05:58
+finished rebuilding indexes for ProdMay processed 37 records	Fri Feb 27 15:05:58
+Opening 'ProdTipo' as table #30
+	Fri Feb 27 15:05:58
+5928: Starting rebuild of ProdTipo index	Fri Feb 27 15:05:58
+freelst = 0x0, eoflst = 0x570	 Expecting 18 records	Fri Feb 27 15:05:58
+last btloc = 0x530	Fri Feb 27 15:05:58
+finished rebuilding indexes for ProdTipo processed 18 records	Fri Feb 27 15:05:58
+Opening 'ProdVs' as table #47
+	Fri Feb 27 15:05:58
+5928: Starting rebuild of ProdVs index	Fri Feb 27 15:05:58
+freelst = 0x29f0, eoflst = 0xc370	 Expecting 191 records	Fri Feb 27 15:05:58
+.....last btloc = 0xc294	Fri Feb 27 15:05:58
+finished rebuilding indexes for ProdVs processed 191 records	Fri Feb 27 15:05:58
+Opening 'ProvCatTas' as table #100
+	Fri Feb 27 15:05:58
+5928: Starting rebuild of ProvCatTas index	Fri Feb 27 15:05:58
+freelst = 0x0, eoflst = 0x25c	 Expecting 6 records	Fri Feb 27 15:05:58
+last btloc = 0x20a	Fri Feb 27 15:05:58
+finished rebuilding indexes for ProvCatTas processed 6 records	Fri Feb 27 15:05:58
+Opening 'ProvUnNe' as table #101
+	Fri Feb 27 15:05:58
+5928: Starting rebuild of ProvUnNe index	Fri Feb 27 15:05:58
+freelst = 0x0, eoflst = 0x426	 Expecting 22 records	Fri Feb 27 15:05:58
+last btloc = 0x402	Fri Feb 27 15:05:58
+finished rebuilding indexes for ProvUnNe processed 22 records	Fri Feb 27 15:05:58
+Opening 'RG3337' as table #149
+	Fri Feb 27 15:05:58
+5928: Starting rebuild of RG3337 index	Fri Feb 27 15:05:58
+freelst = 0x0, eoflst = 0x74	 Expecting 1 records	Fri Feb 27 15:05:58
+last btloc = 0x2c	Fri Feb 27 15:05:58
+finished rebuilding indexes for RG3337 processed 1 records	Fri Feb 27 15:05:58
+Opening 'RMedPago' as table #102
+	Fri Feb 27 15:05:58
+5928: Starting rebuild of RMedPago index	Fri Feb 27 15:05:58
+freelst = 0x0, eoflst = 0x2b0	 Expecting 7 records	Fri Feb 27 15:05:58
+last btloc = 0x25e	Fri Feb 27 15:05:58
+finished rebuilding indexes for RMedPago processed 7 records	Fri Feb 27 15:05:58
+Opening 'RProduc' as table #103
+	Fri Feb 27 15:05:58
+5928: Starting rebuild of RProduc index	Fri Feb 27 15:05:58
+freelst = 0x11b4, eoflst = 0x24ec	 Expecting 156 records	Fri Feb 27 15:05:58
+....last btloc = 0x24bc	Fri Feb 27 15:05:58
+finished rebuilding indexes for RProduc processed 156 records	Fri Feb 27 15:05:58
+Opening 'RProvin' as table #104
+	Fri Feb 27 15:05:58
+5928: Starting rebuild of RProvin index	Fri Feb 27 15:05:58
+freelst = 0x0, eoflst = 0x20	 Expecting 0 records	Fri Feb 27 15:05:58
+last btloc = 0x0	Fri Feb 27 15:05:58
+finished rebuilding indexes for RProvin processed 0 records	Fri Feb 27 15:05:58
+Opening 'RanProdCombo' as table #159
+	Fri Feb 27 15:05:58
+5928: Starting rebuild of RanProdCombo index	Fri Feb 27 15:05:58
+freelst = 0x0, eoflst = 0x20	 Expecting 0 records	Fri Feb 27 15:05:58
+last btloc = 0x0	Fri Feb 27 15:05:58
+finished rebuilding indexes for RanProdCombo processed 0 records	Fri Feb 27 15:05:58
+Opening 'Reembal' as table #48
+	Fri Feb 27 15:05:58
+5928: Starting rebuild of Reembal index	Fri Feb 27 15:05:58
+freelst = 0x0, eoflst = 0x92	 Expecting 2 records	Fri Feb 27 15:05:58
+last btloc = 0x64	Fri Feb 27 15:05:58
+finished rebuilding indexes for Reembal processed 2 records	Fri Feb 27 15:05:58
+Opening 'Region' as table #136
+	Fri Feb 27 15:05:58
+5928: Starting rebuild of Region index	Fri Feb 27 15:05:58
+freelst = 0xbc, eoflst = 0x14c	 Expecting 6 records	Fri Feb 27 15:05:58
+last btloc = 0x132	Fri Feb 27 15:05:58
+finished rebuilding indexes for Region processed 6 records	Fri Feb 27 15:05:58
+Opening 'RelMod' as table #70
+	Fri Feb 27 15:05:58
+5928: Starting rebuild of RelMod index	Fri Feb 27 15:05:58
+freelst = 0x0, eoflst = 0xa434	 Expecting 264 records	Fri Feb 27 15:05:58
+........last btloc = 0xa392	Fri Feb 27 15:05:58
+finished rebuilding indexes for RelMod processed 264 records	Fri Feb 27 15:05:58
+Opening 'RelPciaCombos' as table #156
+	Fri Feb 27 15:05:58
+5928: Starting rebuild of RelPciaCombos index	Fri Feb 27 15:05:58
+freelst = 0x0, eoflst = 0x20	 Expecting 0 records	Fri Feb 27 15:05:58
+last btloc = 0x0	Fri Feb 27 15:05:58
+finished rebuilding indexes for RelPciaCombos processed 0 records	Fri Feb 27 15:05:58
+Opening 'RelRestrCb_aux' as table #157
+	Fri Feb 27 15:05:58
+5928: Starting rebuild of RelRestrCb_aux index	Fri Feb 27 15:05:58
+freelst = 0x0, eoflst = 0x20	 Expecting 0 records	Fri Feb 27 15:05:58
+last btloc = 0x0	Fri Feb 27 15:05:58
+finished rebuilding indexes for RelRestrCb_aux processed 0 records	Fri Feb 27 15:05:58
+Opening 'RelSucCombos' as table #155
+	Fri Feb 27 15:05:58
+5928: Starting rebuild of RelSucCombos index	Fri Feb 27 15:05:58
+freelst = 0x0, eoflst = 0x20	 Expecting 0 records	Fri Feb 27 15:05:58
+last btloc = 0x0	Fri Feb 27 15:05:58
+finished rebuilding indexes for RelSucCombos processed 0 records	Fri Feb 27 15:05:58
+Opening 'RelTrTGiro' as table #85
+	Fri Feb 27 15:05:58
+5928: Starting rebuild of RelTrTGiro index	Fri Feb 27 15:05:58
+freelst = 0x0, eoflst = 0x848	 Expecting 61 records	Fri Feb 27 15:05:58
+.last btloc = 0x830	Fri Feb 27 15:05:58
+finished rebuilding indexes for RelTrTGiro processed 61 records	Fri Feb 27 15:05:58
+Opening 'ResponseVPI' as table #198
+	Fri Feb 27 15:05:58
+5928: Starting rebuild of ResponseVPI index	Fri Feb 27 15:05:58
+freelst = 0x0, eoflst = 0x220e	 Expecting 63 records	Fri Feb 27 15:05:58
+.last btloc = 0x21b2	Fri Feb 27 15:05:58
+finished rebuilding indexes for ResponseVPI processed 63 records	Fri Feb 27 15:05:58
+Opening 'RestDetalle' as table #167
+	Fri Feb 27 15:05:58
+5928: Starting rebuild of RestDetalle index	Fri Feb 27 15:05:58
+freelst = 0x6d1e0, eoflst = 0x849be	 Expecting 6069 records	Fri Feb 27 15:05:58
+................................ 1024 records	Fri Feb 27 15:05:58
+................................ 2048 records	Fri Feb 27 15:05:59
+................................ 3072 records	Fri Feb 27 15:05:59
+................................ 4096 records	Fri Feb 27 15:05:59
+................................ 5120 records	Fri Feb 27 15:05:59
+.............................last btloc = 0x8496a	Fri Feb 27 15:05:59
+finished rebuilding indexes for RestDetalle processed 6069 records	Fri Feb 27 15:05:59
+Opening 'RestMod' as table #105
+	Fri Feb 27 15:05:59
+5928: Starting rebuild of RestMod index	Fri Feb 27 15:05:59
+freelst = 0x0, eoflst = 0x226	 Expecting 10 records	Fri Feb 27 15:05:59
+last btloc = 0x202	Fri Feb 27 15:05:59
+finished rebuilding indexes for RestMod processed 10 records	Fri Feb 27 15:05:59
+Opening 'RestMot' as table #106
+	Fri Feb 27 15:05:59
+5928: Starting rebuild of RestMot index	Fri Feb 27 15:05:59
+freelst = 0x0, eoflst = 0x1d18	 Expecting 103 records	Fri Feb 27 15:05:59
+...last btloc = 0x1cdc	Fri Feb 27 15:05:59
+finished rebuilding indexes for RestMot processed 103 records	Fri Feb 27 15:05:59
+Opening 'RestProdu' as table #166
+	Fri Feb 27 15:05:59
+5928: Starting rebuild of RestProdu index	Fri Feb 27 15:05:59
+freelst = 0x15c8e, eoflst = 0x21128	 Expecting 1012 records	Fri Feb 27 15:05:59
+...............................last btloc = 0x2109c	Fri Feb 27 15:05:59
+finished rebuilding indexes for RestProdu processed 1012 records	Fri Feb 27 15:05:59
+Opening 'RubroSF1' as table #171
+	Fri Feb 27 15:05:59
+5928: Starting rebuild of RubroSF1 index	Fri Feb 27 15:05:59
+freelst = 0x0, eoflst = 0x5c2	 Expecting 32 records	Fri Feb 27 15:05:59
+.last btloc = 0x5a6	Fri Feb 27 15:05:59
+finished rebuilding indexes for RubroSF1 processed 32 records	Fri Feb 27 15:05:59
+Opening 'Saca_Grupo' as table #71
+	Fri Feb 27 15:05:59
+5928: Starting rebuild of Saca_Grupo index	Fri Feb 27 15:05:59
+freelst = 0x0, eoflst = 0x19e	 Expecting 9 records	Fri Feb 27 15:05:59
+last btloc = 0x182	Fri Feb 27 15:05:59
+finished rebuilding indexes for Saca_Grupo processed 9 records	Fri Feb 27 15:05:59
+Opening 'Saca_Tipo' as table #72
+	Fri Feb 27 15:05:59
+5928: Starting rebuild of Saca_Tipo index	Fri Feb 27 15:05:59
+freelst = 0x0, eoflst = 0x534	 Expecting 28 records	Fri Feb 27 15:05:59
+last btloc = 0x518	Fri Feb 27 15:05:59
+finished rebuilding indexes for Saca_Tipo processed 28 records	Fri Feb 27 15:05:59
+Opening 'Sectores' as table #86
+	Fri Feb 27 15:05:59
+5928: Starting rebuild of Sectores index	Fri Feb 27 15:05:59
+freelst = 0x0, eoflst = 0x1ee5e	 Expecting 1543 records	Fri Feb 27 15:05:59
+................................ 1024 records	Fri Feb 27 15:05:59
+................last btloc = 0x1ee18	Fri Feb 27 15:06:00
+finished rebuilding indexes for Sectores processed 1543 records	Fri Feb 27 15:06:00
+Opening 'ServCaja' as table #52
+	Fri Feb 27 15:06:00
+5928: Starting rebuild of ServCaja index	Fri Feb 27 15:06:00
+freelst = 0x1592, eoflst = 0x56b4	 Expecting 121 records	Fri Feb 27 15:06:00
+...last btloc = 0x4bbe	Fri Feb 27 15:06:00
+finished rebuilding indexes for ServCaja processed 121 records	Fri Feb 27 15:06:00
+Opening 'ServEntWU' as table #176
+	Fri Feb 27 15:06:00
+5928: Starting rebuild of ServEntWU index	Fri Feb 27 15:06:00
+freelst = 0x0, eoflst = 0x11a	 Expecting 5 records	Fri Feb 27 15:06:00
+last btloc = 0xf4	Fri Feb 27 15:06:00
+finished rebuilding indexes for ServEntWU processed 5 records	Fri Feb 27 15:06:00
+Opening 'Servicio' as table #31
+	Fri Feb 27 15:06:00
+5928: Starting rebuild of Servicio index	Fri Feb 27 15:06:00
+freelst = 0x1daec, eoflst = 0x21c8a	 Expecting 217 records	Fri Feb 27 15:06:00
+......last btloc = 0x21a34	Fri Feb 27 15:06:00
+finished rebuilding indexes for Servicio processed 217 records	Fri Feb 27 15:06:00
+Opening 'Stock' as table #138
+	Fri Feb 27 15:06:00
+5928: Starting rebuild of Stock index	Fri Feb 27 15:06:00
+freelst = 0x0, eoflst = 0x1502	 Expecting 62 records	Fri Feb 27 15:06:00
+.last btloc = 0x14b8	Fri Feb 27 15:06:00
+finished rebuilding indexes for Stock processed 62 records	Fri Feb 27 15:06:00
+Opening 'SubcptoAfip' as table #125
+	Fri Feb 27 15:06:00
+5928: Starting rebuild of SubcptoAfip index	Fri Feb 27 15:06:00
+freelst = 0x0, eoflst = 0x2a94	 Expecting 197 records	Fri Feb 27 15:06:00
+......last btloc = 0x2a62	Fri Feb 27 15:06:00
+finished rebuilding indexes for SubcptoAfip processed 197 records	Fri Feb 27 15:06:00
+Opening 'SucCe_Ter' as table #9
+	Fri Feb 27 15:06:00
+5928: Starting rebuild of SucCe_Ter index	Fri Feb 27 15:06:00
+freelst = 0x0, eoflst = 0x20	 Expecting 0 records	Fri Feb 27 15:06:00
+last btloc = 0x0	Fri Feb 27 15:06:00
+finished rebuilding indexes for SucCe_Ter processed 0 records	Fri Feb 27 15:06:00
+Opening 'Suc_CeEmi' as table #10
+	Fri Feb 27 15:06:00
+5928: Starting rebuild of Suc_CeEmi index	Fri Feb 27 15:06:00
+freelst = 0x0, eoflst = 0x714e	 Expecting 764 records	Fri Feb 27 15:06:00
+.......................last btloc = 0x7134	Fri Feb 27 15:06:00
+finished rebuilding indexes for Suc_CeEmi processed 764 records	Fri Feb 27 15:06:00
+Opening 'Suc_Gali' as table #11
+	Fri Feb 27 15:06:00
+5928: Starting rebuild of Suc_Gali index	Fri Feb 27 15:06:00
+freelst = 0x0, eoflst = 0x1290	 Expecting 100 records	Fri Feb 27 15:06:00
+...last btloc = 0x126a	Fri Feb 27 15:06:00
+finished rebuilding indexes for Suc_Gali processed 100 records	Fri Feb 27 15:06:00
+Opening 'Suc_ter' as table #12
+	Fri Feb 27 15:06:00
+5928: Starting rebuild of Suc_ter index	Fri Feb 27 15:06:00
+freelst = 0x0, eoflst = 0x6b0	 Expecting 40 records	Fri Feb 27 15:06:00
+.last btloc = 0x692	Fri Feb 27 15:06:00
+finished rebuilding indexes for Suc_ter processed 40 records	Fri Feb 27 15:06:00
+Opening 'Tabla_Temp' as table #139
+	Fri Feb 27 15:06:00
+5928: Starting rebuild of Tabla_Temp index	Fri Feb 27 15:06:00
+freelst = 0x0, eoflst = 0x19842c	 Expecting 3815 records	Fri Feb 27 15:06:00
+................................ 1024 records	Fri Feb 27 15:06:00
+................................ 2048 records	Fri Feb 27 15:06:00
+................................ 3072 records	Fri Feb 27 15:06:00
+.......................last btloc = 0x1982c0	Fri Feb 27 15:06:00
+finished rebuilding indexes for Tabla_Temp processed 3815 records	Fri Feb 27 15:06:00
+Opening 'Tarifas' as table #53
+	Fri Feb 27 15:06:00
+5928: Starting rebuild of Tarifas index	Fri Feb 27 15:06:00
+freelst = 0x3c38c, eoflst = 0xe48d6	 Expecting 3061 records	Fri Feb 27 15:06:00
+................................ 1024 records	Fri Feb 27 15:06:01
+................................ 2048 records	Fri Feb 27 15:06:01
+...............................last btloc = 0xe4790	Fri Feb 27 15:06:01
+finished rebuilding indexes for Tarifas processed 3061 records	Fri Feb 27 15:06:01
+Opening 'Tarjeta_POS' as table #196
+	Fri Feb 27 15:06:01
+5928: Starting rebuild of Tarjeta_POS index	Fri Feb 27 15:06:01
+freelst = 0x35c, eoflst = 0x430	 Expecting 3 records	Fri Feb 27 15:06:01
+last btloc = 0x3ea	Fri Feb 27 15:06:01
+finished rebuilding indexes for Tarjeta_POS processed 3 records	Fri Feb 27 15:06:01
+Opening 'TasCatIB' as table #107
+	Fri Feb 27 15:06:01
+5928: Starting rebuild of TasCatIB index	Fri Feb 27 15:06:01
+freelst = 0x0, eoflst = 0x726	 Expecting 21 records	Fri Feb 27 15:06:01
+last btloc = 0x6e2	Fri Feb 27 15:06:01
+finished rebuilding indexes for TasCatIB processed 21 records	Fri Feb 27 15:06:01
+Opening 'TerminalSf1' as table #13
+	Fri Feb 27 15:06:01
+5928: Starting rebuild of TerminalSf1 index	Fri Feb 27 15:06:01
+freelst = 0x0, eoflst = 0x3e32	 Expecting 294 records	Fri Feb 27 15:06:01
+.........last btloc = 0x3e08	Fri Feb 27 15:06:01
+finished rebuilding indexes for TerminalSf1 processed 294 records	Fri Feb 27 15:06:01
+Opening 'Terminal_MP' as table #204
+	Fri Feb 27 15:06:01
+5928: Starting rebuild of Terminal_MP index	Fri Feb 27 15:06:01
+freelst = 0x0, eoflst = 0x255c8	 Expecting 1530 records	Fri Feb 27 15:06:01
+................................ 1024 records	Fri Feb 27 15:06:01
+...............last btloc = 0x25570	Fri Feb 27 15:06:01
+finished rebuilding indexes for Terminal_MP processed 1530 records	Fri Feb 27 15:06:01
+Opening 'Terminal_VPI' as table #195
+	Fri Feb 27 15:06:01
+5928: Starting rebuild of Terminal_VPI index	Fri Feb 27 15:06:01
+freelst = 0xc5d3e, eoflst = 0xdcaa4	 Expecting 9092 records	Fri Feb 27 15:06:01
+................................ 1024 records	Fri Feb 27 15:06:01
+................................ 2048 records	Fri Feb 27 15:06:01
+................................ 3072 records	Fri Feb 27 15:06:01
+................................ 4096 records	Fri Feb 27 15:06:01
+................................ 5120 records	Fri Feb 27 15:06:01
+................................ 6144 records	Fri Feb 27 15:06:02
+................................ 7168 records	Fri Feb 27 15:06:02
+................................ 8192 records	Fri Feb 27 15:06:02
+............................last btloc = 0xdca16	Fri Feb 27 15:06:02
+finished rebuilding indexes for Terminal_VPI processed 9092 records	Fri Feb 27 15:06:02
+Opening 'TipConAfip' as table #126
+	Fri Feb 27 15:06:02
+5928: Starting rebuild of TipConAfip index	Fri Feb 27 15:06:02
+freelst = 0x0, eoflst = 0x138	 Expecting 6 records	Fri Feb 27 15:06:02
+last btloc = 0x110	Fri Feb 27 15:06:02
+finished rebuilding indexes for TipConAfip processed 6 records	Fri Feb 27 15:06:02
+Opening 'TipMed' as table #54
+	Fri Feb 27 15:06:02
+5928: Starting rebuild of TipMed index	Fri Feb 27 15:06:02
+freelst = 0x0, eoflst = 0x288	 Expecting 11 records	Fri Feb 27 15:06:02
+last btloc = 0x25c	Fri Feb 27 15:06:02
+finished rebuilding indexes for TipMed processed 11 records	Fri Feb 27 15:06:02
+Opening 'TipOper' as table #186
+	Fri Feb 27 15:06:02
+5928: Starting rebuild of TipOper index	Fri Feb 27 15:06:02
+freelst = 0x0, eoflst = 0xac	 Expecting 3 records	Fri Feb 27 15:06:02
+last btloc = 0x8a	Fri Feb 27 15:06:02
+finished rebuilding indexes for TipOper processed 3 records	Fri Feb 27 15:06:02
+Opening 'TipoCaja' as table #55
+	Fri Feb 27 15:06:02
+5928: Starting rebuild of TipoCaja index	Fri Feb 27 15:06:02
+freelst = 0x9bc, eoflst = 0xd4c	 Expecting 13 records	Fri Feb 27 15:06:02
+last btloc = 0xd1c	Fri Feb 27 15:06:02
+finished rebuilding indexes for TipoCaja processed 13 records	Fri Feb 27 15:06:02
+Opening 'TipoCta' as table #32
+	Fri Feb 27 15:06:02
+5928: Starting rebuild of TipoCta index	Fri Feb 27 15:06:02
+freelst = 0x0, eoflst = 0x7e	 Expecting 2 records	Fri Feb 27 15:06:02
+last btloc = 0x5a	Fri Feb 27 15:06:02
+finished rebuilding indexes for TipoCta processed 2 records	Fri Feb 27 15:06:02
+Opening 'TipoDoc' as table #73
+	Fri Feb 27 15:06:02
+5928: Starting rebuild of TipoDoc index	Fri Feb 27 15:06:02
+freelst = 0x0, eoflst = 0x1c2	 Expecting 6 records	Fri Feb 27 15:06:02
+last btloc = 0x18e	Fri Feb 27 15:06:02
+finished rebuilding indexes for TipoDoc processed 6 records	Fri Feb 27 15:06:02
+Opening 'Tipo_Giro' as table #87
+	Fri Feb 27 15:06:02
+5928: Starting rebuild of Tipo_Giro index	Fri Feb 27 15:06:02
+freelst = 0x0, eoflst = 0x26c	 Expecting 9 records	Fri Feb 27 15:06:02
+last btloc = 0x230	Fri Feb 27 15:06:02
+finished rebuilding indexes for Tipo_Giro processed 9 records	Fri Feb 27 15:06:02
+Opening 'UEN' as table #14
+	Fri Feb 27 15:06:02
+5928: Starting rebuild of UEN index	Fri Feb 27 15:06:02
+freelst = 0x0, eoflst = 0x186	 Expecting 9 records	Fri Feb 27 15:06:02
+last btloc = 0x16c	Fri Feb 27 15:06:02
+finished rebuilding indexes for UEN processed 9 records	Fri Feb 27 15:06:02
+Opening 'UniCod' as table #50
+	Fri Feb 27 15:06:02
+5928: Starting rebuild of UniCod index	Fri Feb 27 15:06:02
+freelst = 0x0, eoflst = 0x4976	 Expecting 308 records	Fri Feb 27 15:06:02
+.........last btloc = 0x4942	Fri Feb 27 15:06:02
+finished rebuilding indexes for UniCod processed 308 records	Fri Feb 27 15:06:02
+Opening 'UniMed' as table #56
+	Fri Feb 27 15:06:02
+5928: Starting rebuild of UniMed index	Fri Feb 27 15:06:02
+freelst = 0x0, eoflst = 0x928	 Expecting 18 records	Fri Feb 27 15:06:02
+last btloc = 0x8b0	Fri Feb 27 15:06:02
+finished rebuilding indexes for UniMed processed 18 records	Fri Feb 27 15:06:02
+Opening 'UniNeg' as table #15
+	Fri Feb 27 15:06:02
+5928: Starting rebuild of UniNeg index	Fri Feb 27 15:06:02
+freelst = 0x0, eoflst = 0x604	 Expecting 21 records	Fri Feb 27 15:06:02
+last btloc = 0x5ca	Fri Feb 27 15:06:02
+finished rebuilding indexes for UniNeg processed 21 records	Fri Feb 27 15:06:02
+Opening 'Version' as table #88
+	Fri Feb 27 15:06:02
+5928: Starting rebuild of Version index	Fri Feb 27 15:06:02
+freelst = 0x0, eoflst = 0x38	 Expecting 1 records	Fri Feb 27 15:06:02
+last btloc = 0x2c	Fri Feb 27 15:06:02
+finished rebuilding indexes for Version processed 1 records	Fri Feb 27 15:06:02
+Opening 'Zona' as table #179
+	Fri Feb 27 15:06:02
+5928: Starting rebuild of Zona index	Fri Feb 27 15:06:02
+freelst = 0x0, eoflst = 0x3f6	 Expecting 25 records	Fri Feb 27 15:06:02
+last btloc = 0x3da	Fri Feb 27 15:06:02
+finished rebuilding indexes for Zona processed 25 records	Fri Feb 27 15:06:02
+Opening 'bloques' as table #89
+	Fri Feb 27 15:06:02
+5928: Starting rebuild of bloques index	Fri Feb 27 15:06:02
+freelst = 0x404a, eoflst = 0x533a	 Expecting 143 records	Fri Feb 27 15:06:02
+....last btloc = 0x52bc	Fri Feb 27 15:06:02
+finished rebuilding indexes for bloques processed 143 records	Fri Feb 27 15:06:02
+Opening 'browser' as table #143
+	Fri Feb 27 15:06:02
+5928: Starting rebuild of browser index	Fri Feb 27 15:06:02
+freelst = 0x82, eoflst = 0xe8dc	 Expecting 505 records	Fri Feb 27 15:06:02
+...............last btloc = 0xe888	Fri Feb 27 15:06:02
+finished rebuilding indexes for browser processed 505 records	Fri Feb 27 15:06:02
+Opening 'cai' as table #108
+	Fri Feb 27 15:06:02
+5928: Starting rebuild of cai index	Fri Feb 27 15:06:02
+freelst = 0x20264, eoflst = 0x689b4	 Expecting 2450 records	Fri Feb 27 15:06:02
+................................ 1024 records	Fri Feb 27 15:06:02
+................................ 2048 records	Fri Feb 27 15:06:03
+............last btloc = 0x68954	Fri Feb 27 15:06:03
+finished rebuilding indexes for cai processed 2450 records	Fri Feb 27 15:06:03
+Opening 'catteleg' as table #144
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of catteleg index	Fri Feb 27 15:06:03
+freelst = 0x0, eoflst = 0x259c	 Expecting 102 records	Fri Feb 27 15:06:03
+...last btloc = 0x2552	Fri Feb 27 15:06:03
+finished rebuilding indexes for catteleg processed 102 records	Fri Feb 27 15:06:03
+Opening 'clearing' as table #33
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of clearing index	Fri Feb 27 15:06:03
+freelst = 0x0, eoflst = 0xc8	 Expecting 7 records	Fri Feb 27 15:06:03
+last btloc = 0xbc	Fri Feb 27 15:06:03
+finished rebuilding indexes for clearing processed 7 records	Fri Feb 27 15:06:03
+Opening 'cuit2dig' as table #141
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of cuit2dig index	Fri Feb 27 15:06:03
+freelst = 0x0, eoflst = 0xc8	 Expecting 7 records	Fri Feb 27 15:06:03
+last btloc = 0xbc	Fri Feb 27 15:06:03
+finished rebuilding indexes for cuit2dig processed 7 records	Fri Feb 27 15:06:03
+Opening 'den_mon' as table #90
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of den_mon index	Fri Feb 27 15:06:03
+freelst = 0x16e, eoflst = 0x442	 Expecting 2 records	Fri Feb 27 15:06:03
+last btloc = 0x2de	Fri Feb 27 15:06:03
+finished rebuilding indexes for den_mon processed 2 records	Fri Feb 27 15:06:03
+Opening 'destinosP' as table #165
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of destinosP index	Fri Feb 27 15:06:03
+freelst = 0x428, eoflst = 0xb14	 Expecting 22 records	Fri Feb 27 15:06:03
+last btloc = 0xab0	Fri Feb 27 15:06:03
+finished rebuilding indexes for destinosP processed 22 records	Fri Feb 27 15:06:03
+Opening 'emis_giroelec' as table #174
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of emis_giroelec index	Fri Feb 27 15:06:03
+freelst = 0x17e, eoflst = 0x5b90	 Expecting 342 records	Fri Feb 27 15:06:03
+..........last btloc = 0x5b5e	Fri Feb 27 15:06:03
+finished rebuilding indexes for emis_giroelec processed 342 records	Fri Feb 27 15:06:03
+Opening 'errores' as table #147
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of errores index	Fri Feb 27 15:06:03
+freelst = 0x0, eoflst = 0x1f9e	 Expecting 101 records	Fri Feb 27 15:06:03
+...last btloc = 0x1f5a	Fri Feb 27 15:06:03
+finished rebuilding indexes for errores processed 101 records	Fri Feb 27 15:06:03
+Opening 'feriados' as table #34
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of feriados index	Fri Feb 27 15:06:03
+freelst = 0x1324, eoflst = 0x16ca	 Expecting 15 records	Fri Feb 27 15:06:03
+last btloc = 0x14b6	Fri Feb 27 15:06:03
+finished rebuilding indexes for feriados processed 15 records	Fri Feb 27 15:06:03
+Opening 'grupoiva' as table #109
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of grupoiva index	Fri Feb 27 15:06:03
+freelst = 0x0, eoflst = 0x76	 Expecting 2 records	Fri Feb 27 15:06:03
+last btloc = 0x5a	Fri Feb 27 15:06:03
+finished rebuilding indexes for grupoiva processed 2 records	Fri Feb 27 15:06:03
+Opening 'ipsContenido' as table #192
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of ipsContenido index	Fri Feb 27 15:06:03
+freelst = 0x0, eoflst = 0x666	 Expecting 20 records	Fri Feb 27 15:06:03
+last btloc = 0x5e2	Fri Feb 27 15:06:03
+finished rebuilding indexes for ipsContenido processed 20 records	Fri Feb 27 15:06:03
+Opening 'ipsPais' as table #190
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of ipsPais index	Fri Feb 27 15:06:03
+freelst = 0x0, eoflst = 0x24c2	 Expecting 234 records	Fri Feb 27 15:06:03
+.......last btloc = 0x24a6	Fri Feb 27 15:06:03
+finished rebuilding indexes for ipsPais processed 234 records	Fri Feb 27 15:06:03
+Opening 'ipsPaisDestino' as table #191
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of ipsPaisDestino index	Fri Feb 27 15:06:03
+freelst = 0x0, eoflst = 0x47ca	 Expecting 332 records	Fri Feb 27 15:06:03
+..........last btloc = 0x479c	Fri Feb 27 15:06:03
+finished rebuilding indexes for ipsPaisDestino processed 332 records	Fri Feb 27 15:06:03
+Opening 'ivaTipoDoc' as table #110
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of ivaTipoDoc index	Fri Feb 27 15:06:03
+freelst = 0x0, eoflst = 0x33e	 Expecting 11 records	Fri Feb 27 15:06:03
+last btloc = 0x2fe	Fri Feb 27 15:06:03
+finished rebuilding indexes for ivaTipoDoc processed 11 records	Fri Feb 27 15:06:03
+Opening 'limihabi' as table #142
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of limihabi index	Fri Feb 27 15:06:03
+freelst = 0xa50, eoflst = 0x69ce	 Expecting 248 records	Fri Feb 27 15:06:03
+.......last btloc = 0x6984	Fri Feb 27 15:06:03
+finished rebuilding indexes for limihabi processed 248 records	Fri Feb 27 15:06:03
+Opening 'listados' as table #91
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of listados index	Fri Feb 27 15:06:03
+freelst = 0x0, eoflst = 0x13a6	 Expecting 41 records	Fri Feb 27 15:06:03
+.last btloc = 0x134a	Fri Feb 27 15:06:03
+finished rebuilding indexes for listados processed 41 records	Fri Feb 27 15:06:03
+Opening 'localidad' as table #140
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of localidad index	Fri Feb 27 15:06:03
+freelst = 0x1c18a, eoflst = 0x24c82	 Expecting 3363 records	Fri Feb 27 15:06:03
+................................ 1024 records	Fri Feb 27 15:06:03
+................................ 2048 records	Fri Feb 27 15:06:03
+................................ 3072 records	Fri Feb 27 15:06:03
+.........last btloc = 0x24c5e	Fri Feb 27 15:06:03
+finished rebuilding indexes for localidad processed 3363 records	Fri Feb 27 15:06:03
+Opening 'monto_fl' as table #35
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of monto_fl index	Fri Feb 27 15:06:03
+freelst = 0x0, eoflst = 0x9b4	 Expecting 14 records	Fri Feb 27 15:06:03
+last btloc = 0x906	Fri Feb 27 15:06:03
+finished rebuilding indexes for monto_fl processed 14 records	Fri Feb 27 15:06:03
+Opening 'motivos' as table #16
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of motivos index	Fri Feb 27 15:06:03
+freelst = 0x0, eoflst = 0xe056	 Expecting 142 records	Fri Feb 27 15:06:03
+....last btloc = 0xdedc	Fri Feb 27 15:06:03
+finished rebuilding indexes for motivos processed 142 records	Fri Feb 27 15:06:03
+Opening 'pla_gua' as table #74
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of pla_gua index	Fri Feb 27 15:06:03
+freelst = 0x3f8c, eoflst = 0x84ec	 Expecting 370 records	Fri Feb 27 15:06:03
+...........last btloc = 0x84a4	Fri Feb 27 15:06:03
+finished rebuilding indexes for pla_gua processed 370 records	Fri Feb 27 15:06:03
+Opening 'productos' as table #36
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of productos index	Fri Feb 27 15:06:03
+freelst = 0x0, eoflst = 0x1e98	 Expecting 71 records	Fri Feb 27 15:06:03
+..last btloc = 0x1e34	Fri Feb 27 15:06:03
+finished rebuilding indexes for productos processed 71 records	Fri Feb 27 15:06:03
+Opening 'promoCabe' as table #150
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of promoCabe index	Fri Feb 27 15:06:03
+freelst = 0x0, eoflst = 0x7c	 Expecting 1 records	Fri Feb 27 15:06:03
+last btloc = 0x2c	Fri Feb 27 15:06:03
+finished rebuilding indexes for promoCabe processed 1 records	Fri Feb 27 15:06:03
+Opening 'promoCli' as table #152
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of promoCli index	Fri Feb 27 15:06:03
+freelst = 0x0, eoflst = 0xfa	 Expecting 2 records	Fri Feb 27 15:06:03
+last btloc = 0x9c	Fri Feb 27 15:06:03
+finished rebuilding indexes for promoCli processed 2 records	Fri Feb 27 15:06:03
+Opening 'promoDetalle' as table #153
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of promoDetalle index	Fri Feb 27 15:06:03
+freelst = 0x0, eoflst = 0x2120	 Expecting 48 records	Fri Feb 27 15:06:03
+.last btloc = 0x207c	Fri Feb 27 15:06:03
+finished rebuilding indexes for promoDetalle processed 48 records	Fri Feb 27 15:06:03
+Opening 'promoRest' as table #137
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of promoRest index	Fri Feb 27 15:06:03
+freelst = 0x0, eoflst = 0x20	 Expecting 0 records	Fri Feb 27 15:06:03
+last btloc = 0x0	Fri Feb 27 15:06:03
+finished rebuilding indexes for promoRest processed 0 records	Fri Feb 27 15:06:03
+Opening 'promoSucu' as table #151
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of promoSucu index	Fri Feb 27 15:06:03
+freelst = 0x0, eoflst = 0x230	 Expecting 6 records	Fri Feb 27 15:06:03
+last btloc = 0x1e4	Fri Feb 27 15:06:03
+finished rebuilding indexes for promoSucu processed 6 records	Fri Feb 27 15:06:03
+Opening 'protected_pick' as table #187
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of protected_pick index	Fri Feb 27 15:06:03
+freelst = 0x0, eoflst = 0x20	 Expecting 0 records	Fri Feb 27 15:06:03
+last btloc = 0x0	Fri Feb 27 15:06:03
+finished rebuilding indexes for protected_pick processed 0 records	Fri Feb 27 15:06:03
+Opening 'provincias' as table #37
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of provincias index	Fri Feb 27 15:06:03
+freelst = 0x0, eoflst = 0x3fe	 Expecting 25 records	Fri Feb 27 15:06:03
+last btloc = 0x3e2	Fri Feb 27 15:06:03
+finished rebuilding indexes for provincias processed 25 records	Fri Feb 27 15:06:03
+Opening 'relac_suc' as table #17
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of relac_suc index	Fri Feb 27 15:06:03
+freelst = 0x0, eoflst = 0xe96	 Expecting 98 records	Fri Feb 27 15:06:03
+...last btloc = 0xe7c	Fri Feb 27 15:06:03
+finished rebuilding indexes for relac_suc processed 98 records	Fri Feb 27 15:06:03
+Opening 'semilla' as table #127
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of semilla index	Fri Feb 27 15:06:03
+freelst = 0x0, eoflst = 0x5e	 Expecting 1 records	Fri Feb 27 15:06:03
+last btloc = 0x2c	Fri Feb 27 15:06:03
+finished rebuilding indexes for semilla processed 1 records	Fri Feb 27 15:06:03
+Opening 'template' as table #18
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of template index	Fri Feb 27 15:06:03
+freelst = 0x0, eoflst = 0x1fa	 Expecting 6 records	Fri Feb 27 15:06:03
+last btloc = 0x1b6	Fri Feb 27 15:06:03
+finished rebuilding indexes for template processed 6 records	Fri Feb 27 15:06:03
+Opening 'tickomsg' as table #177
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of tickomsg index	Fri Feb 27 15:06:03
+freelst = 0x0, eoflst = 0x6a2	 Expecting 7 records	Fri Feb 27 15:06:03
+last btloc = 0x5c0	Fri Feb 27 15:06:03
+finished rebuilding indexes for tickomsg processed 7 records	Fri Feb 27 15:06:03
+Opening 'tiposuc' as table #19
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of tiposuc index	Fri Feb 27 15:06:03
+freelst = 0x0, eoflst = 0x292	 Expecting 12 records	Fri Feb 27 15:06:03
+last btloc = 0x26a	Fri Feb 27 15:06:03
+finished rebuilding indexes for tiposuc processed 12 records	Fri Feb 27 15:06:03
+Opening 'tmpl_mot' as table #38
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of tmpl_mot index	Fri Feb 27 15:06:03
+freelst = 0x0, eoflst = 0x7ce	 Expecting 18 records	Fri Feb 27 15:06:03
+last btloc = 0x770	Fri Feb 27 15:06:03
+finished rebuilding indexes for tmpl_mot processed 18 records	Fri Feb 27 15:06:03
+Opening 'tran_sf1' as table #172
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of tran_sf1 index	Fri Feb 27 15:06:03
+freelst = 0x0, eoflst = 0x1e2	 Expecting 5 records	Fri Feb 27 15:06:03
+last btloc = 0x18c	Fri Feb 27 15:06:03
+finished rebuilding indexes for tran_sf1 processed 5 records	Fri Feb 27 15:06:03
+Opening 'transac' as table #20
+	Fri Feb 27 15:06:03
+5928: Starting rebuild of transac index	Fri Feb 27 15:06:04
+freelst = 0x1e33e, eoflst = 0x1e6ce	 Expecting 561 records	Fri Feb 27 15:06:04
+.................last btloc = 0x1e5f0	Fri Feb 27 15:06:04
+finished rebuilding indexes for transac processed 561 records	Fri Feb 27 15:06:04
+Opening 'transp' as table #92
+	Fri Feb 27 15:06:04
+5928: Starting rebuild of transp index	Fri Feb 27 15:06:04
+freelst = 0x0, eoflst = 0x2997d4	 Expecting 14499 records	Fri Feb 27 15:06:04
+................................ 1024 records	Fri Feb 27 15:06:04
+................................ 2048 records	Fri Feb 27 15:06:04
+................................ 3072 records	Fri Feb 27 15:06:04
+................................ 4096 records	Fri Feb 27 15:06:04
+................................ 5120 records	Fri Feb 27 15:06:04
+................................ 6144 records	Fri Feb 27 15:06:04
+................................ 7168 records	Fri Feb 27 15:06:04
+................................ 8192 records	Fri Feb 27 15:06:04
+................................ 9216 records	Fri Feb 27 15:06:05
+................................ 10240 records	Fri Feb 27 15:06:05
+................................ 11264 records	Fri Feb 27 15:06:05
+................................ 12288 records	Fri Feb 27 15:06:05
+................................ 13312 records	Fri Feb 27 15:06:05
+................................ 14336 records	Fri Feb 27 15:06:05
+.....last btloc = 0x299724	Fri Feb 27 15:06:05
+finished rebuilding indexes for transp processed 14499 records	Fri Feb 27 15:06:05
+Opening 'uneg' as table #128
+	Fri Feb 27 15:06:05
+5928: Starting rebuild of uneg index	Fri Feb 27 15:06:05
+freelst = 0x0, eoflst = 0x634a0	 Expecting 5648 records	Fri Feb 27 15:06:05
+................................ 1024 records	Fri Feb 27 15:06:05
+................................ 2048 records	Fri Feb 27 15:06:05
+................................ 3072 records	Fri Feb 27 15:06:06
+................................ 4096 records	Fri Feb 27 15:06:06
+................................ 5120 records	Fri Feb 27 15:06:06
+................last btloc = 0x63464	Fri Feb 27 15:06:06
+finished rebuilding indexes for uneg processed 5648 records	Fri Feb 27 15:06:06
+Opening 'utilities' as table #146
+	Fri Feb 27 15:06:06
+5928: Starting rebuild of utilities index	Fri Feb 27 15:06:06
+freelst = 0x0, eoflst = 0x1eaaa	 Expecting 768 records	Fri Feb 27 15:06:06
+........................last btloc = 0x1ea0a	Fri Feb 27 15:06:06
+finished rebuilding indexes for utilities processed 768 records	Fri Feb 27 15:06:06
+started recovery log processing: Fri Feb 27 15:06:06 2026
+	Fri Feb 27 15:06:06
+finished recovery log processing: Fri Feb 27 15:06:06 2026
+  processed 0 log records	Fri Feb 27 15:06:06
+Fri Feb 27 15:06:06 2026
+Verifying table utilities
+Verifying table uneg
+Verifying table transp
+Verifying table transac
+Verifying table tran_sf1
+Verifying table tmpl_mot
+Verifying table tiposuc
+Verifying table tickomsg
+Verifying table template
+Verifying table semilla
+Verifying table relac_suc
+Verifying table provincias
+Verifying table protected_pick
+Verifying table promoSucu
+Verifying table promoRest
+Verifying table promoDetalle
+Verifying table promoCli
+Verifying table promoCabe
+Verifying table productos
+Verifying table pla_gua
+Verifying table motivos
+Verifying table monto_fl
+Verifying table localidad
+Verifying table listados
+Verifying table limihabi
+Verifying table ivaTipoDoc
+Verifying table ipsPaisDestino
+Verifying table ipsPais
+Verifying table ipsContenido
+Verifying table grupoiva
+Verifying table feriados
+Verifying table errores
+Verifying table emis_giroelec
+Verifying table destinosP
+Verifying table den_mon
+Verifying table cuit2dig
+Verifying table clearing
+Verifying table catteleg
+Verifying table cai
+Verifying table browser
+Verifying table bloques
+Verifying table Zona
+Verifying table Version
+Verifying table UniNeg
+Verifying table UniMed
+Verifying table UniCod
+Verifying table UEN
+Verifying table Tipo_Giro
+Verifying table TipoDoc
+Verifying table TipoCta
+Verifying table TipoCaja
+Verifying table TipOper
+Verifying table TipMed
+Verifying table TipConAfip
+Verifying table Terminal_VPI
+Verifying table Terminal_MP
+Verifying table TerminalSf1
+Verifying table TasCatIB
+Verifying table Tarjeta_POS
+Verifying table Tarifas
+Verifying table Tabla_Temp
+Verifying table Suc_ter
+Verifying table Suc_Gali
+Verifying table Suc_CeEmi
+Verifying table SucCe_Ter
+Verifying table SubcptoAfip
+Verifying table Stock
+Verifying table Servicio
+Verifying table ServEntWU
+Verifying table ServCaja
+Verifying table Sectores
+Verifying table Saca_Tipo
+Verifying table Saca_Grupo
+Verifying table RubroSF1
+Verifying table RestProdu
+Verifying table RestMot
+Verifying table RestMod
+Verifying table RestDetalle
+Verifying table ResponseVPI
+Verifying table RelTrTGiro
+Verifying table RelSucCombos
+Verifying table RelRestrCb_aux
+Verifying table RelPciaCombos
+Verifying table RelMod
+Verifying table Region
+Verifying table Reembal
+Verifying table RanProdCombo
+Verifying table RProvin
+Verifying table RProduc
+Verifying table RMedPago
+Verifying table RG3337
+Verifying table ProvUnNe
+Verifying table ProvCatTas
+Verifying table ProdVs
+Verifying table ProdTipo
+Verifying table ProdMay
+Verifying table Procedencias
+Verifying table PresuDetOC
+Verifying table PresuDet
+Verifying table Planes_POS
+Verifying table Parametros_CEC
+Verifying table ParamWeb
+Verifying table ParamVPI
+Verifying table ParamSeg
+Verifying table ParamAfip
+Verifying table Paises
+Verifying table PCTAF46
+Verifying table OperacionesVPI
+Verifying table OperacionesMP
+Verifying table OpeVPI_LOG
+Verifying table Opcional
+Verifying table OpcServCombo
+Verifying table OpcServ
+Verifying table OfiJudi
+Verifying table OfficeCD
+Verifying table Ocupacion
+Verifying table ObraSocAfip
+Verifying table MotVarios
+Verifying table MotProdVs
+Verifying table MotDevol
+Verifying table MonotribCatAfip
+Verifying table MonotribActAfip
+Verifying table Monedas
+Verifying table MonedaSf1
+Verifying table MonPasW
+Verifying table MonPas
+Verifying table MonCatAutAfip
+Verifying table Modelos
+Verifying table MetaDataTablas
+Verifying table MetaData
+Verifying table Mensajes
+Verifying table Mensaje
+Verifying table MedPago
+Verifying table MSGLabel
+Verifying table MPagoSf1
+Verifying table LoteCIE_LOG
+Verifying table LoteCIE
+Verifying table LeyImp
+Verifying table Impuprov
+Verifying table ImpuTramos
+Verifying table ImpuAfip
+Verifying table ImpCptoScptoAfip
+Verifying table Grupos_Corte
+Verifying table GrupoRep
+Verifying table GruFlia
+Verifying table Fproceso
+Verifying table Formu
+Verifying table FormImpAfip
+Verifying table FormICSCAfip
+Verifying table FormCampAfip
+Verifying table FormAfip
+Verifying table FliaRep
+Verifying table EstadosUS
+Verifying table EstadosMX
+Verifying table Est_Giros
+Verifying table Especie
+Verifying table Empresa
+Verifying table Dimens
+Verifying table Destinos
+Verifying table Despachos
+Verifying table Desp_Tipos
+Verifying table Desp_BH2
+Verifying table Descuentos
+Verifying table DesctoServicio
+Verifying table DesPost
+Verifying table DepStock
+Verifying table DGralSuc
+Verifying table CtasCont
+Verifying table CtasBanco
+Verifying table CptoAfip
+Verifying table CotiMone
+Verifying table CorteOp
+Verifying table CorSucCTP
+Verifying table CorOpAp
+Verifying table CorDest
+Verifying table ContCombo
+Verifying table CompSubItem
+Verifying table CompItem
+Verifying table CompConc
+Verifying table Combos
+Verifying table Cod_AFJP
+Verifying table CodTrackTx
+Verifying table CodTrack
+Verifying table CodRespAdic
+Verifying table CodPost
+Verifying table CodInt
+Verifying table CliUP
+Verifying table CliMay_crem
+Verifying table CliIBUP
+Verifying table CheqRob
+Verifying table CheqRech
+Verifying table CatIva
+Verifying table CatIngBr
+Verifying table CajaProd
+Verifying table CajaBuzon
+Verifying table CaiRemito
+Verifying table CTP
+Verifying table CPCor
+Verifying table BR_transp
+Verifying table BR_adt_br
+Verifying table AuxIva
+Verifying table AuxCatel
+Verifying table Apertura
+Verifying table AperCO
+Verifying table AcrePerc
+Verifying table fields
+Verifying table indexes
+Verifying table tables
+Fri Feb 27 15:06:06 2026
+Completed table opens	Fri Feb 27 15:06:06
+** System Problem ** 
+recvgddone() failed. len=-10054
+CDS started: 	Fri Feb 27 15:07:07
+
+CDSV.EXE:		cdserver on NT
+Version:       	1.4.13.0, Sun Jun 27 14:11:28 1999
+Binary Version:	1.4.13.0
+Package:       	85-35011-D13, Mosaic OA - CDS Server
+DataDictNo:    	108
+Copyright © 1994-1999 Wang Global Wang Global, all rights reserved
+Opening 'tables' as table #0
+	Fri Feb 27 15:07:07 
+5928: Starting rebuild of tables index	Fri Feb 27 15:07:07
+freelst = 0x3288, eoflst = 0x9f76	 Expecting 208 records	Fri Feb 27 15:07:07
+......last btloc = 0x9edc	Fri Feb 27 15:07:07
+finished rebuilding indexes for tables processed 208 records	Fri Feb 27 15:07:07
+Opening 'indexes' as table #1
+	Fri Feb 27 15:07:07
+5928: Starting rebuild of indexes index	Fri Feb 27 15:07:07
+freelst = 0x24f68, eoflst = 0x25afa	 Expecting 486 records	Fri Feb 27 15:07:07
+...............last btloc = 0x25a72	Fri Feb 27 15:07:07
+finished rebuilding indexes for indexes processed 486 records	Fri Feb 27 15:07:07
+Opening 'fields' as table #2
+	Fri Feb 27 15:07:07
+5928: Starting rebuild of fields index	Fri Feb 27 15:07:07
+freelst = 0x0, eoflst = 0xf88	 Expecting 34 records	Fri Feb 27 15:07:07
+.last btloc = 0xf20	Fri Feb 27 15:07:07
+finished rebuilding indexes for fields processed 34 records	Fri Feb 27 15:07:07
+Opening 'AcrePerc' as table #93
+	Fri Feb 27 15:07:07
+Opening 'AperCO' as table #57
+	Fri Feb 27 15:07:07
+Opening 'Apertura' as table #58
+	Fri Feb 27 15:07:07
+Opening 'AuxCatel' as table #145
+	Fri Feb 27 15:07:07
+Opening 'AuxIva' as table #129
+	Fri Feb 27 15:07:07
+Opening 'BR_adt_br' as table #3
+	Fri Feb 27 15:07:07
+Opening 'BR_transp' as table #170
+	Fri Feb 27 15:07:07
+Opening 'CPCor' as table #59
+	Fri Feb 27 15:07:07
+Opening 'CTP' as table #60
+	Fri Feb 27 15:07:07
+Opening 'CaiRemito' as table #51
+	Fri Feb 27 15:07:07
+Opening 'CajaBuzon' as table #61
+	Fri Feb 27 15:07:07
+Opening 'CajaProd' as table #39
+	Fri Feb 27 15:07:07
+Opening 'CatIngBr' as table #94
+	Fri Feb 27 15:07:07
+Opening 'CatIva' as table #95
+	Fri Feb 27 15:07:07
+Opening 'CheqRech' as table #130
+	Fri Feb 27 15:07:07
+Opening 'CheqRob' as table #178
+	Fri Feb 27 15:07:07
+Opening 'CliIBUP' as table #131
+	Fri Feb 27 15:07:07
+Opening 'CliMay_crem' as table #184
+	Fri Feb 27 15:07:07
+Opening 'CliUP' as table #111
+	Fri Feb 27 15:07:07
+Opening 'CodInt' as table #96
+	Fri Feb 27 15:07:07
+Opening 'CodPost' as table #62
+	Fri Feb 27 15:07:07
+Opening 'CodRespAdic' as table #180
+	Fri Feb 27 15:07:07
+Opening 'CodTrack' as table #112
+	Fri Feb 27 15:07:07
+Opening 'CodTrackTx' as table #185
+	Fri Feb 27 15:07:07
+Opening 'Cod_AFJP' as table #173
+	Fri Feb 27 15:07:07
+Opening 'Combos' as table #154
+	Fri Feb 27 15:07:07
+Opening 'CompConc' as table #161
+	Fri Feb 27 15:07:07
+Opening 'CompItem' as table #162
+	Fri Feb 27 15:07:07
+Opening 'CompSubItem' as table #163
+	Fri Feb 27 15:07:07
+Opening 'ContCombo' as table #158
+	Fri Feb 27 15:07:07
+Opening 'CorDest' as table #63
+	Fri Feb 27 15:07:07
+Opening 'CorOpAp' as table #64
+	Fri Feb 27 15:07:07
+Opening 'CorSucCTP' as table #65
+	Fri Feb 27 15:07:07
+Opening 'CorteOp' as table #40
+	Fri Feb 27 15:07:07
+Opening 'CotiMone' as table #75
+	Fri Feb 27 15:07:07
+Opening 'CptoAfip' as table #113
+	Fri Feb 27 15:07:07
+Opening 'CtasBanco' as table #21
+	Fri Feb 27 15:07:07
+Opening 'CtasCont' as table #22
+	Fri Feb 27 15:07:07
+Opening 'DGralSuc' as table #4
+	Fri Feb 27 15:07:07
+Opening 'DepStock' as table #41
+	Fri Feb 27 15:07:07
+Opening 'DesPost' as table #42
+	Fri Feb 27 15:07:07
+Opening 'DesctoServicio' as table #181
+	Fri Feb 27 15:07:07
+Opening 'Descuentos' as table #76
+	Fri Feb 27 15:07:07
+Opening 'Desp_BH2' as table #5
+	Fri Feb 27 15:07:07
+Opening 'Desp_Tipos' as table #66
+	Fri Feb 27 15:07:07
+Opening 'Despachos' as table #67
+	Fri Feb 27 15:07:07
+Opening 'Destinos' as table #23
+	Fri Feb 27 15:07:07
+Opening 'Dimens' as table #43
+	Fri Feb 27 15:07:07
+Opening 'Empresa' as table #6
+	Fri Feb 27 15:07:07
+Opening 'Especie' as table #44
+	Fri Feb 27 15:07:07
+Opening 'Est_Giros' as table #77
+	Fri Feb 27 15:07:07
+Opening 'EstadosMX' as table #202
+	Fri Feb 27 15:07:07
+Opening 'EstadosUS' as table #203
+	Fri Feb 27 15:07:07
+Opening 'FliaRep' as table #25
+	Fri Feb 27 15:07:07
+Opening 'FormAfip' as table #114
+	Fri Feb 27 15:07:07
+Opening 'FormCampAfip' as table #115
+	Fri Feb 27 15:07:07
+Opening 'FormICSCAfip' as table #164
+	Fri Feb 27 15:07:07
+Opening 'FormImpAfip' as table #116
+	Fri Feb 27 15:07:07
+Opening 'Formu' as table #45
+	Fri Feb 27 15:07:07
+Opening 'Fproceso' as table #78
+	Fri Feb 27 15:07:07
+Opening 'GruFlia' as table #49
+	Fri Feb 27 15:07:07
+Opening 'GrupoRep' as table #8
+	Fri Feb 27 15:07:07
+Opening 'Grupos_Corte' as table #68
+	Fri Feb 27 15:07:07
+Opening 'ImpCptoScptoAfip' as table #117
+	Fri Feb 27 15:07:07
+Opening 'ImpuAfip' as table #118
+	Fri Feb 27 15:07:07
+Opening 'ImpuTramos' as table #97
+	Fri Feb 27 15:07:07
+Opening 'Impuprov' as table #98
+	Fri Feb 27 15:07:07
+Opening 'LeyImp' as table #99
+	Fri Feb 27 15:07:07
+Opening 'LoteCIE' as table #201
+	Fri Feb 27 15:07:07
+Opening 'LoteCIE_LOG' as table #207
+	Fri Feb 27 15:07:07
+Opening 'MPagoSf1' as table #132
+	Fri Feb 27 15:07:07
+Opening 'MSGLabel' as table #183
+	Fri Feb 27 15:07:07
+Opening 'MedPago' as table #79
+	Fri Feb 27 15:07:07
+Opening 'Mensaje' as table #80
+	Fri Feb 27 15:07:07
+Opening 'Mensajes' as table #194
+	Fri Feb 27 15:07:07
+Opening 'MetaData' as table #168
+	Fri Feb 27 15:07:07
+Opening 'MetaDataTablas' as table #169
+	Fri Feb 27 15:07:07
+Opening 'Modelos' as table #69
+	Fri Feb 27 15:07:07
+Opening 'MonCatAutAfip' as table #119
+	Fri Feb 27 15:07:07
+Opening 'MonPas' as table #24
+	Fri Feb 27 15:07:07
+Opening 'MonPasW' as table #133
+	Fri Feb 27 15:07:07
+Opening 'MonedaSf1' as table #81
+	Fri Feb 27 15:07:07
+Opening 'Monedas' as table #82
+	Fri Feb 27 15:07:07
+Opening 'MonotribActAfip' as table #120
+	Fri Feb 27 15:07:07
+Opening 'MonotribCatAfip' as table #121
+	Fri Feb 27 15:07:07
+Opening 'MotDevol' as table #134
+	Fri Feb 27 15:07:07
+Opening 'MotProdVs' as table #46
+	Fri Feb 27 15:07:07
+Opening 'MotVarios' as table #7
+	Fri Feb 27 15:07:07
+Opening 'ObraSocAfip' as table #122
+	Fri Feb 27 15:07:07
+Opening 'Ocupacion' as table #148
+	Fri Feb 27 15:07:07
+Opening 'OfficeCD' as table #193
+	Fri Feb 27 15:07:07
+Opening 'OfiJudi' as table #188
+	Fri Feb 27 15:07:07
+Opening 'OpcServ' as table #26
+	Fri Feb 27 15:07:07
+Opening 'OpcServCombo' as table #160
+	Fri Feb 27 15:07:07
+Opening 'Opcional' as table #27
+	Fri Feb 27 15:07:07
+Opening 'OpeVPI_LOG' as table #206
+	Fri Feb 27 15:07:07
+Opening 'OperacionesMP' as table #205
+	Fri Feb 27 15:07:07
+Opening 'OperacionesVPI' as table #199
+	Fri Feb 27 15:07:07
+Opening 'PCTAF46' as table #28
+	Fri Feb 27 15:07:07
+Opening 'Paises' as table #29
+	Fri Feb 27 15:07:07
+Opening 'ParamAfip' as table #123
+	Fri Feb 27 15:07:07
+Opening 'ParamSeg' as table #124
+	Fri Feb 27 15:07:07
+Opening 'ParamVPI' as table #197
+	Fri Feb 27 15:07:07
+Opening 'ParamWeb' as table #189
+	Fri Feb 27 15:07:07
+Opening 'Parametros_CEC' as table #182
+	Fri Feb 27 15:07:07
+Opening 'Planes_POS' as table #200
+	Fri Feb 27 15:07:07
+Opening 'PresuDet' as table #135
+	Fri Feb 27 15:07:07
+Opening 'PresuDetOC' as table #175
+	Fri Feb 27 15:07:07
+Opening 'Procedencias' as table #83
+	Fri Feb 27 15:07:07
+Opening 'ProdMay' as table #84
+	Fri Feb 27 15:07:07
+Opening 'ProdTipo' as table #30
+	Fri Feb 27 15:07:07
+Opening 'ProdVs' as table #47
+	Fri Feb 27 15:07:07
+Opening 'ProvCatTas' as table #100
+	Fri Feb 27 15:07:07
+Opening 'ProvUnNe' as table #101
+	Fri Feb 27 15:07:07
+Opening 'RG3337' as table #149
+	Fri Feb 27 15:07:07
+Opening 'RMedPago' as table #102
+	Fri Feb 27 15:07:07
+Opening 'RProduc' as table #103
+	Fri Feb 27 15:07:07
+Opening 'RProvin' as table #104
+	Fri Feb 27 15:07:07
+Opening 'RanProdCombo' as table #159
+	Fri Feb 27 15:07:07
+Opening 'Reembal' as table #48
+	Fri Feb 27 15:07:07
+Opening 'Region' as table #136
+	Fri Feb 27 15:07:07
+Opening 'RelMod' as table #70
+	Fri Feb 27 15:07:07
+Opening 'RelPciaCombos' as table #156
+	Fri Feb 27 15:07:07
+Opening 'RelRestrCb_aux' as table #157
+	Fri Feb 27 15:07:07
+Opening 'RelSucCombos' as table #155
+	Fri Feb 27 15:07:07
+Opening 'RelTrTGiro' as table #85
+	Fri Feb 27 15:07:07
+Opening 'ResponseVPI' as table #198
+	Fri Feb 27 15:07:07
+Opening 'RestDetalle' as table #167
+	Fri Feb 27 15:07:07
+Opening 'RestMod' as table #105
+	Fri Feb 27 15:07:07
+Opening 'RestMot' as table #106
+	Fri Feb 27 15:07:07
+Opening 'RestProdu' as table #166
+	Fri Feb 27 15:07:07
+Opening 'RubroSF1' as table #171
+	Fri Feb 27 15:07:07
+Opening 'Saca_Grupo' as table #71
+	Fri Feb 27 15:07:07
+Opening 'Saca_Tipo' as table #72
+	Fri Feb 27 15:07:07
+Opening 'Sectores' as table #86
+	Fri Feb 27 15:07:07
+Opening 'ServCaja' as table #52
+	Fri Feb 27 15:07:07
+Opening 'ServEntWU' as table #176
+	Fri Feb 27 15:07:07
+Opening 'Servicio' as table #31
+	Fri Feb 27 15:07:07
+Opening 'Stock' as table #138
+	Fri Feb 27 15:07:07
+Opening 'SubcptoAfip' as table #125
+	Fri Feb 27 15:07:07
+Opening 'SucCe_Ter' as table #9
+	Fri Feb 27 15:07:07
+Opening 'Suc_CeEmi' as table #10
+	Fri Feb 27 15:07:07
+Opening 'Suc_Gali' as table #11
+	Fri Feb 27 15:07:07
+Opening 'Suc_ter' as table #12
+	Fri Feb 27 15:07:07
+Opening 'Tabla_Temp' as table #139
+	Fri Feb 27 15:07:07
+Opening 'Tarifas' as table #53
+	Fri Feb 27 15:07:07
+Opening 'Tarjeta_POS' as table #196
+	Fri Feb 27 15:07:07
+Opening 'TasCatIB' as table #107
+	Fri Feb 27 15:07:07
+Opening 'TerminalSf1' as table #13
+	Fri Feb 27 15:07:07
+Opening 'Terminal_MP' as table #204
+	Fri Feb 27 15:07:07
+Opening 'Terminal_VPI' as table #195
+	Fri Feb 27 15:07:07
+Opening 'TipConAfip' as table #126
+	Fri Feb 27 15:07:07
+Opening 'TipMed' as table #54
+	Fri Feb 27 15:07:07
+Opening 'TipOper' as table #186
+	Fri Feb 27 15:07:07
+Opening 'TipoCaja' as table #55
+	Fri Feb 27 15:07:07
+Opening 'TipoCta' as table #32
+	Fri Feb 27 15:07:07
+Opening 'TipoDoc' as table #73
+	Fri Feb 27 15:07:07
+Opening 'Tipo_Giro' as table #87
+	Fri Feb 27 15:07:07
+Opening 'UEN' as table #14
+	Fri Feb 27 15:07:07
+Opening 'UniCod' as table #50
+	Fri Feb 27 15:07:07
+Opening 'UniMed' as table #56
+	Fri Feb 27 15:07:07
+Opening 'UniNeg' as table #15
+	Fri Feb 27 15:07:07
+Opening 'Version' as table #88
+	Fri Feb 27 15:07:07
+Opening 'Zona' as table #179
+	Fri Feb 27 15:07:07
+Opening 'bloques' as table #89
+	Fri Feb 27 15:07:07
+Opening 'browser' as table #143
+	Fri Feb 27 15:07:07
+Opening 'cai' as table #108
+	Fri Feb 27 15:07:07
+Opening 'catteleg' as table #144
+	Fri Feb 27 15:07:07
+Opening 'clearing' as table #33
+	Fri Feb 27 15:07:07
+Opening 'cuit2dig' as table #141
+	Fri Feb 27 15:07:07
+Opening 'den_mon' as table #90
+	Fri Feb 27 15:07:07
+Opening 'destinosP' as table #165
+	Fri Feb 27 15:07:07
+Opening 'emis_giroelec' as table #174
+	Fri Feb 27 15:07:07
+Opening 'errores' as table #147
+	Fri Feb 27 15:07:07
+Opening 'feriados' as table #34
+	Fri Feb 27 15:07:07
+Opening 'grupoiva' as table #109
+	Fri Feb 27 15:07:07
+Opening 'ipsContenido' as table #192
+	Fri Feb 27 15:07:07
+Opening 'ipsPais' as table #190
+	Fri Feb 27 15:07:07
+Opening 'ipsPaisDestino' as table #191
+	Fri Feb 27 15:07:07
+Opening 'ivaTipoDoc' as table #110
+	Fri Feb 27 15:07:07
+Opening 'limihabi' as table #142
+	Fri Feb 27 15:07:07
+Opening 'listados' as table #91
+	Fri Feb 27 15:07:07
+Opening 'localidad' as table #140
+	Fri Feb 27 15:07:07
+Opening 'monto_fl' as table #35
+	Fri Feb 27 15:07:07
+Opening 'motivos' as table #16
+	Fri Feb 27 15:07:07
+Opening 'pla_gua' as table #74
+	Fri Feb 27 15:07:07
+Opening 'productos' as table #36
+	Fri Feb 27 15:07:07
+Opening 'promoCabe' as table #150
+	Fri Feb 27 15:07:07
+Opening 'promoCli' as table #152
+	Fri Feb 27 15:07:07
+Opening 'promoDetalle' as table #153
+	Fri Feb 27 15:07:07
+Opening 'promoRest' as table #137
+	Fri Feb 27 15:07:07
+Opening 'promoSucu' as table #151
+	Fri Feb 27 15:07:07
+Opening 'protected_pick' as table #187
+	Fri Feb 27 15:07:07
+Opening 'provincias' as table #37
+	Fri Feb 27 15:07:07
+Opening 'relac_suc' as table #17
+	Fri Feb 27 15:07:07
+Opening 'semilla' as table #127
+	Fri Feb 27 15:07:07
+Opening 'template' as table #18
+	Fri Feb 27 15:07:07
+Opening 'tickomsg' as table #177
+	Fri Feb 27 15:07:07
+Opening 'tiposuc' as table #19
+	Fri Feb 27 15:07:07
+Opening 'tmpl_mot' as table #38
+	Fri Feb 27 15:07:07
+Opening 'tran_sf1' as table #172
+	Fri Feb 27 15:07:07
+Opening 'transac' as table #20
+	Fri Feb 27 15:07:07
+Opening 'transp' as table #92
+	Fri Feb 27 15:07:07
+Opening 'uneg' as table #128
+	Fri Feb 27 15:07:07
+Opening 'utilities' as table #146
+	Fri Feb 27 15:07:07
+started recovery log processing: Fri Feb 27 15:07:07 2026
+	Fri Feb 27 15:07:07
+finished recovery log processing: Fri Feb 27 15:07:07 2026
+  processed 0 log records	Fri Feb 27 15:07:07
+Fri Feb 27 15:07:07 2026
+Verifying table utilities
+Verifying table uneg
+Verifying table transp
+Verifying table transac
+Verifying table tran_sf1
+Verifying table tmpl_mot
+Verifying table tiposuc
+Verifying table tickomsg
+Verifying table template
+Verifying table semilla
+Verifying table relac_suc
+Verifying table provincias
+Verifying table protected_pick
+Verifying table promoSucu
+Verifying table promoRest
+Verifying table promoDetalle
+Verifying table promoCli
+Verifying table promoCabe
+Verifying table productos
+Verifying table pla_gua
+Verifying table motivos
+Verifying table monto_fl
+Verifying table localidad
+Verifying table listados
+Verifying table limihabi
+Verifying table ivaTipoDoc
+Verifying table ipsPaisDestino
+Verifying table ipsPais
+Verifying table ipsContenido
+Verifying table grupoiva
+Verifying table feriados
+Verifying table errores
+Verifying table emis_giroelec
+Verifying table destinosP
+Verifying table den_mon
+Verifying table cuit2dig
+Verifying table clearing
+Verifying table catteleg
+Verifying table cai
+Verifying table browser
+Verifying table bloques
+Verifying table Zona
+Verifying table Version
+Verifying table UniNeg
+Verifying table UniMed
+Verifying table UniCod
+Verifying table UEN
+Verifying table Tipo_Giro
+Verifying table TipoDoc
+Verifying table TipoCta
+Verifying table TipoCaja
+Verifying table TipOper
+Verifying table TipMed
+Verifying table TipConAfip
+Verifying table Terminal_VPI
+Verifying table Terminal_MP
+Verifying table TerminalSf1
+Verifying table TasCatIB
+Verifying table Tarjeta_POS
+Verifying table Tarifas
+Verifying table Tabla_Temp
+Verifying table Suc_ter
+Verifying table Suc_Gali
+Verifying table Suc_CeEmi
+Verifying table SucCe_Ter
+Verifying table SubcptoAfip
+Verifying table Stock
+Verifying table Servicio
+Verifying table ServEntWU
+Verifying table ServCaja
+Verifying table Sectores
+Verifying table Saca_Tipo
+Verifying table Saca_Grupo
+Verifying table RubroSF1
+Verifying table RestProdu
+Verifying table RestMot
+Verifying table RestMod
+Verifying table RestDetalle
+Verifying table ResponseVPI
+Verifying table RelTrTGiro
+Verifying table RelSucCombos
+Verifying table RelRestrCb_aux
+Verifying table RelPciaCombos
+Verifying table RelMod
+Verifying table Region
+Verifying table Reembal
+Verifying table RanProdCombo
+Verifying table RProvin
+Verifying table RProduc
+Verifying table RMedPago
+Verifying table RG3337
+Verifying table ProvUnNe
+Verifying table ProvCatTas
+Verifying table ProdVs
+Verifying table ProdTipo
+Verifying table ProdMay
+Verifying table Procedencias
+Verifying table PresuDetOC
+Verifying table PresuDet
+Verifying table Planes_POS
+Verifying table Parametros_CEC
+Verifying table ParamWeb
+Verifying table ParamVPI
+Verifying table ParamSeg
+Verifying table ParamAfip
+Verifying table Paises
+Verifying table PCTAF46
+Verifying table OperacionesVPI
+Verifying table OperacionesMP
+Verifying table OpeVPI_LOG
+Verifying table Opcional
+Verifying table OpcServCombo
+Verifying table OpcServ
+Verifying table OfiJudi
+Verifying table OfficeCD
+Verifying table Ocupacion
+Verifying table ObraSocAfip
+Verifying table MotVarios
+Verifying table MotProdVs
+Verifying table MotDevol
+Verifying table MonotribCatAfip
+Verifying table MonotribActAfip
+Verifying table Monedas
+Verifying table MonedaSf1
+Verifying table MonPasW
+Verifying table MonPas
+Verifying table MonCatAutAfip
+Verifying table Modelos
+Verifying table MetaDataTablas
+Verifying table MetaData
+Verifying table Mensajes
+Verifying table Mensaje
+Verifying table MedPago
+Verifying table MSGLabel
+Verifying table MPagoSf1
+Verifying table LoteCIE_LOG
+Verifying table LoteCIE
+Verifying table LeyImp
+Verifying table Impuprov
+Verifying table ImpuTramos
+Verifying table ImpuAfip
+Verifying table ImpCptoScptoAfip
+Verifying table Grupos_Corte
+Verifying table GrupoRep
+Verifying table GruFlia
+Verifying table Fproceso
+Verifying table Formu
+Verifying table FormImpAfip
+Verifying table FormICSCAfip
+Verifying table FormCampAfip
+Verifying table FormAfip
+Verifying table FliaRep
+Verifying table EstadosUS
+Verifying table EstadosMX
+Verifying table Est_Giros
+Verifying table Especie
+Verifying table Empresa
+Verifying table Dimens
+Verifying table Destinos
+Verifying table Despachos
+Verifying table Desp_Tipos
+Verifying table Desp_BH2
+Verifying table Descuentos
+Verifying table DesctoServicio
+Verifying table DesPost
+Verifying table DepStock
+Verifying table DGralSuc
+Verifying table CtasCont
+Verifying table CtasBanco
+Verifying table CptoAfip
+Verifying table CotiMone
+Verifying table CorteOp
+Verifying table CorSucCTP
+Verifying table CorOpAp
+Verifying table CorDest
+Verifying table ContCombo
+Verifying table CompSubItem
+Verifying table CompItem
+Verifying table CompConc
+Verifying table Combos
+Verifying table Cod_AFJP
+Verifying table CodTrackTx
+Verifying table CodTrack
+Verifying table CodRespAdic
+Verifying table CodPost
+Verifying table CodInt
+Verifying table CliUP
+Verifying table CliMay_crem
+Verifying table CliIBUP
+Verifying table CheqRob
+Verifying table CheqRech
+Verifying table CatIva
+Verifying table CatIngBr
+Verifying table CajaProd
+Verifying table CajaBuzon
+Verifying table CaiRemito
+Verifying table CTP
+Verifying table CPCor
+Verifying table BR_transp
+Verifying table BR_adt_br
+Verifying table AuxIva
+Verifying table AuxCatel
+Verifying table Apertura
+Verifying table AperCO
+Verifying table AcrePerc
+Verifying table fields
+Verifying table indexes
+Verifying table tables
+Fri Feb 27 15:07:07 2026
+Completed table opens	Fri Feb 27 15:07:07
+Server stopped by sv_stop request from services manager	Fri Feb 27 15:07:35
